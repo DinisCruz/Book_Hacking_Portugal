@@ -1,4 +1,4 @@
-**Sharing Is Hard Create Sharing Culture**
+### Creating a sharing culture
 
 Sharing is really hard, one of the powers of adopting an open source culture in my argument is that Portugal and countries should basically adopt open source as a culture, adopt creative comments as basically core again strategic value is that it promotes sharing, it promotes idea sets that the agenda is that you default to sharing, you default to collaborate. When you don't share, it actually means that you aren't doing good things.
 
