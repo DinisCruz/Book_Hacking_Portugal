@@ -1,9 +1,12 @@
 ## Privacy
 
-* Privacy is a human right
-* All should be Innocent until proven guilty
-* Us and NSA redefined the notion of surveillance to be 'looking at data' vs 'capturing data'
-* Large tech companies whose business model is based on their users having no (or much reduced) privacy
-  * make reference to the book 'The Circle'
-* Strong Crypto should be seen as a good thing, specially if it empowers the end user with the ability to control their data
-* we need a healthy level of civil-disobedience in society (or new ideas are not given the space to flourish and gain wider acceptance by society)
+The right to privacy is a human right.
+
+All should be innocent until proven guilty.
+
+The US and the NSA redefined the notion of surveillance to be 'looking at data', rather than 'capturing data'.
+Large tech companies' business models are often based on their users having no, or reduced privacy, something Dave Eggers considers in his 2014 novel 'The Circle'.
+
+Strong Crypto should be seen as a good thing, specially if it enables the end-user to control their data.
+
+We need a healthy level of civil-disobedience in society, or new ideas will not get the space to flourish and gain wider acceptance by society. 
