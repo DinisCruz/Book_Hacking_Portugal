@@ -11,6 +11,8 @@
   * PT Government and Industry to view software as a core strategic bet
     * Something to excel at
 
+  * we need a couple big visions/directions to follow      
+
 
   * Current Strategy is ok if we assume that Software has reached its peak
   * But assuming that Software will become more and more important and complex and interconnected
