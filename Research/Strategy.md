@@ -16,10 +16,13 @@
   * But assuming that Software will become more and more important and complex and interconnected
     * either Portugal takes it seriously and is a 'player'
     * or it will be come more and more 'played'
+  * "With Software you are either a player or you are being played"    
   * The next generation needs to realise that politics is something they need to be involved in
   * Current security issues are a warm up of what is coming next     
     * In lots of cases Confidentiality is a small problem when compared with Integrity and Availability
 
-  * This is a presentation about a possible future for Portugal
-    * one where the people in this room are enough to make it happen in the next 5 to 20 years
-    
+
+  * Why Portugal?
+    * these kind of changes are easier to do in smaller counties like PT
+      * for example what PT did with drugs (leading example in Europe)
+      * No Nuclear-power legislation
