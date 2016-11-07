@@ -9,4 +9,4 @@ Large tech companies' business models are often based on their users having no, 
 
 Strong Crypto should be seen as a good thing, specially if it enables the end-user to control their data.
 
-We need a healthy level of civil-disobedience in society, or new ideas will not get the space to flourish and gain wider acceptance by society. 
+We need a healthy level of civil disobedience in society, or new ideas will not get the space to flourish and gain wider acceptance by society. 
