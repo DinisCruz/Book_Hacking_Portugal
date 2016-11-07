@@ -18,7 +18,7 @@
 
 **Why Portugal**
 
-  * good news is that we have lots of great InfoSec and AppSec talent in Portugal
+  * good pool of InfoSec and AppSec talent in Portugal
   * Lots of great engineers 
 
 
