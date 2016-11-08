@@ -30,13 +30,10 @@ I know much will not change in 2016-2018. This is a presentation for an Future w
 **Why Portugal**
 
   * good pool of InfoSec and AppSec talent in Portugal
-  * Lots of great engineers 
+  * Lots of great engineers
 
 
 **Reference**
 
 * start with Why - https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en
 * golden circle: Why, What, How
-
- Related files:
-    [Why](why.md)
