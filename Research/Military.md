@@ -14,3 +14,10 @@
   * Important question is _"Do we want to do something about it, or be hit by the cross-fire?"_
       * Note that as attackers get more sophisticated they will gravitate to counties/companies with weaker defences (since they take longer with ramp up)
       * Massive cyber/app security skills shortage today
+
+ * What about using 10% of the military budget to fund these?
+
+
+---
+ Related to:
+  *  [PT Hacking Service](PT-Hacking-Service.md)

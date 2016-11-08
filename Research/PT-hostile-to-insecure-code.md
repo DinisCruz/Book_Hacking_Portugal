@@ -14,3 +14,6 @@ Interesting big vision: _**"Make Portugal's internet a hostile place to create, 
 
   * I want the PT Internet to be safe
     * So we will need
+
+* I want the PT internet to be safe
+  * we will need strong community (and commons) support but also a strong enforcement (via police and inspections)
