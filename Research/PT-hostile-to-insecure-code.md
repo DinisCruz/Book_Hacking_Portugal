@@ -17,3 +17,9 @@ Interesting big vision: _**"Make Portugal's internet a hostile place to create, 
 
 * I want the PT internet to be safe
   * we will need strong community (and commons) support but also a strong enforcement (via police and inspections)
+
+* I want bots that scan the PT internet and attack and destroy (in a nice way) insecure code and apps
+  * we need child-services for code (with home visits to software developers and companies to help them handle better their IT infrastructure)
+  * this is not about making everybody in Portugal highly technical and computer experts
+    * what we want is to create an elite section of professionals that 'best in class' and make the internet and coding safe for everybody
+    * blaming the users for clicking on the wrong link or devs for using the 'wrong library', is confusing the root cause of the problem with its side-effects
