@@ -9,6 +9,8 @@ As cyber security gets worse, if we don't have good, positive alternatives, an A
 **Software Testing Institute**
 We need to measure and visualize the side effects of code, and we need to measure the 'pollution' created by insecure code and apps.
 
+Portugal could adopt, and use testing as a way to leapfrog more advanced nations.
+
 See [Software Facts](http://www.slideshare.net/DinisCruz/2010-11-owaspsoftwarelabels)
 ![](https://www.owasp.org/images/thumb/c/ca/Softwarefacts.jpg/300px-Softwarefacts.jpg)
 
@@ -33,3 +35,4 @@ Related
 
   * [Insurance](Insurance.md)
   * [Bug-bounties](Bug-bounties.md)
+  * [Testing](testing.md)
