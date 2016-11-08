@@ -13,3 +13,6 @@ Businesses should work with Universities to teach the following skills:
       * See these teams as source of Pride    
 
 * best way to learn is to be asked to solve an problem from all sorts of angles (and technologies)
+
+Relates (and copied to):
+[PT Hostile to code](PT-hostile-to-insecure-code.md)
