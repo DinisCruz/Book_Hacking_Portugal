@@ -1,11 +1,10 @@
 ## Education
 
-* Work with Universities to teach:
+Businesses should work with Universities to teach the following skills:
   * App and Network Testing (unit, integration, end-to-end)
-  * How to hack into networks and applications (using vuln-by-design apps and companies/counties with public bug-bounties)
-  * Modern Languages and Frameworks (coding in at least 10 languages is a good place to be)
-
-
+  * How to hack into networks and applications (using vuln-by-design apps and companies/countries with public bug-bounties)
+  * Modern Languages and Frameworks (coding in at least ten languages is an excellent advantage to have)
+ 
 **PT [Hackathons](https://en.wikipedia.org/wiki/Hackathon)**
 
   * Organise Hackathons in PT
