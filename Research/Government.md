@@ -30,3 +30,14 @@ Unfortunately for Portugal, none of these are it's strength, so the way to play 
   * most Security vendors have shocking security and sell insecure apps
     * a lot have negative security impact (on the whole company ecosystem)
   * solution is to push Open Source code with secure ecosystem around it
+
+**Code Nationalization**
+
+  * a nuclear option for the cases when companies refuse to share their code
+  * it is key to move to a world where every line of code that is running (and touches) our data is:
+    * public
+    * able to be peer-reviewed by independent parties
+    * compilable
+    * signed     
+  * this not only includes websites and 'traditional software', but also: Operating Systems, Device Drivers, IoT devices, Network devices, Microchips, etc... (basically anything that is able to access or manipulate our data)
+  * this is where the market force of big customers can make a difference is 'nudging' code to be Open Sourced

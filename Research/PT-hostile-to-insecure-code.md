@@ -63,18 +63,18 @@ The positive side effects of any public attack (data dumps, site defacing, DDoS)
       * Massive cyber/app security skills shortage today
 
  * What about using 10% of the military budget to fund these?
-    
+
 ## PHS - Portuguese Hacking Service
 
 In the past Portugal had a Military Service called 'Servico Militar Obrigatorio'. We should update this service to the 21st Century and make it a Hacking Service for 15 to 21 year olds, with the following mission objectives:
-    
+
    * hack everything that is plugged-in into PT's network
    * hack companies with public bug-bounties
    * code-review Open Source code developed in PT
    * code-review code marked as 'strategic interest for Portugal' (i.e. widely used by PT companies and mission critical for them)
    * contribute to Open Source projects with patches and fixes
    * help SMEs with their digital security and DevOps
-   
+
 **PT [Hackathons](https://en.wikipedia.org/wiki/Hackathon)**
 
   * Organize Hackathons in PT
@@ -84,18 +84,13 @@ In the past Portugal had a Military Service called 'Servico Militar Obrigatorio'
 
 * best way to learn is to be asked to solve a problem from all sorts of angles (and technologies)
 
-## Education
+**Safe Harbor**
 
-Businesses should work with Universities to teach the following skills:
-  * App and Network Testing (unit, integration, end-to-end)
-  * How to hack into networks and applications (using vuln-by-design apps and companies/countries with public bug-bounties)
-  * Modern Languages and Frameworks (coding in at least ten languages is an excellent advantage to have)
- 
-
+  * _"Making Portugal a safe digital harbor"_
+    * note: this could be a better title to the presentation or this section (more positive one)
 
 
 
 
 
 PT = Powerhouse of Technology
-
