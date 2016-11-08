@@ -28,3 +28,13 @@
     * these kind of changes are easier to do in smaller counties like PT
       * for example what PT did with drugs (leading example in Europe)
       * No Nuclear-power legislation
+
+
+  * Need to present a couple big visions/directions to follow
+    * Open Source
+    * Quality Software/code
+    * Secure Code + DevOps (SecDevOps)
+    * Collaboration
+    * Visibility of side-effects of technology
+    * Education
+    * Export talent & services
