@@ -24,3 +24,7 @@ The internet and just about most of the technology we use today was dreamed and 
 _"If the attacker tells you about the attack, they are your friends"_. The real attackers (namely criminals and nation states) will not tell you since it is against their own interest (once you know about it, you will find a way to protect it and fix the vulnerability exploited)
 
 The positive side effect of any public attack (data dumps, site defacing, DDoS) are bigger budgets, board-level attention (and demands for security), more hired-appsec people, more collaboration between 'companies on the defense side of things'
+
+Relates to:
+[Education](Education.md)
+[ASAE for Code](ASAE-for-code)
