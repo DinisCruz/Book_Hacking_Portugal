@@ -6,3 +6,6 @@
 from https://www.engadget.com/2016/10/28/tesla-unveils-its-solar-roof-and-powerwall-2/
   * why can't that be in Portugal?
   * why can't PT be a leader in those kind of technology
+
+Related:
+[Creating a sharing culture](Creating-a-sharing-culture.md)
