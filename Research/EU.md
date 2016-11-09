@@ -1,16 +1,16 @@
 ---
 layout: default
-title:
+title: EU
 type: research
 ---
 
 ## European Union
 
-I don't want Portugal to have to 'beg' the EU for funds to support these ideas. 
+I don't want Portugal to have to 'beg' the EU for funds to support these ideas.
 
 I want the EU, and other global organizations and companies, to choose to invest in Portugal because they want to benefit from the perfect storm of talent, energy, regulation, focus and activities that will exist here.
 
-They should invest and participate here because it is in their best interests, and it is where they will get the best return on investment.  They shouldn't benefit because of some back-room deal that gave them a special tax break or some other financial inducement, which is a kind of soft corruption. The only benefits they should get are the benefits that are available to any company based in Portugal: 
+They should invest and participate here because it is in their best interests, and it is where they will get the best return on investment.  They shouldn't benefit because of some back-room deal that gave them a special tax break or some other financial inducement, which is a kind of soft corruption. The only benefits they should get are the benefits that are available to any company based in Portugal:
 * talent (people, students)
 * infrastructure (networks, roads, data centers)
 * logistics (the PT version of Amazon, provided as a service to the country)

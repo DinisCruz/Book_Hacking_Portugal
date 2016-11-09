@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: Git as core skill
 type: research
 ---
 

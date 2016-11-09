@@ -1,3 +1,9 @@
+---
+layout: default
+title: How Secure is Portugal
+type: research
+---
+
 ### How Secure is Portugal?
 
 How secure and safe are Portuguese companies and infrastructures?
@@ -19,14 +25,6 @@ The creation of an AppSec infrastructure is a direct consequence of being attack
 The problem is, security experts aren't being recruited to Portugal. At the moment, countries like the UK, that are more evolved in AppSec, are recruiting, but Portugal should be hiring AppSec talent.
 
 The reality is the Portuguese AppSec industry isn't very mature. The question is, does Portugal want to be like the rest of Europe and get caught in the crossfire? Or does it want to be proactive, and create an industry which could become very powerful, very effective, and very profitable for Portugal, and could also help to secure Europe and help the world?
-
-### Portugal as a Leader in AppSec
-
-Portugal could be a leader in AppSec. Following its history of providing leading innovators and ground-breaking researchers in navigation and exploration, Portugal should now nurture and provide leaders in coding.
-
-Code is becoming more and more important. Code controls Portugal, and so software controls Portugal. The problem is, Portugal controls very little of the software it uses, and I think it is time for Portugal to take control of the software. I think this should be a strategic objective of both Portuguese companies and the Portuguese government.
-
-Of course, you can replace Portugal with any other country in the world, especially any European country. But I am Portuguese, so I have a soft spot for Portugal, and I know that Portugal has exceptional talent, exceptional AppSec people who could make this happen. What we need is focus and determination.
 
 
 ### Portugal Compromised
@@ -66,11 +64,3 @@ The current Portuguese security model is based on 'Security Fairies magic pixie 
     * How many users use it (per day/month/year)
     * How many compromised emails
     * How many PasteBin's entries with PT data  
-
-### Best in world
-
-Just as in football, where Portugal is one of the best teams in the world, Portugal needs to be one of the best in the world in Coding and Cyber/App Security.
-
-![](http://www.uefa.com/MultimediaFiles/Photo/competitions/Comp_Matches/02/39/05/97/2390597_w2.jpg)
-
-PT is currently 8th in the [Fifa world ranking](http://www.fifa.com/fifa-world-ranking/associations/association=por/men/index.html)

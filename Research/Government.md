@@ -1,3 +1,9 @@
+---
+layout: default
+title: Government
+type: research
+---
+
 ## Government
 
 The Government has a big role to play in this transformation, not as a 'Command and Control' entity, but as a benign influence to level the playing field.
@@ -17,11 +23,11 @@ For example, moving to Open Source values and activities, and embracing secure c
 
 **Clear Software Act**
 
-A Clear Software Act, like the 'Clean Air Act', but focused on code quality and security, would go some way to changing the game and how it's played. 
+A Clear Software Act, like the 'Clean Air Act', but focused on code quality and security, would go some way to changing the game and how it's played.
 
-Large numbers of our community are resistant to any kind of regulation, and there are many companies that profit from this resistance. 
-As Upton Sinclair said, "It is difficult to get a man to understand something, when his salary depends upon his not understanding it". 
-The problem however is not regulation and standards, but *bad* regulation and standards. 
+Large numbers of our community are resistant to any kind of regulation, and there are many companies that profit from this resistance.
+As Upton Sinclair said, "It is difficult to get a man to understand something, when his salary depends upon his not understanding it".
+The problem however is not regulation and standards, but *bad* regulation and standards.
 Good regulation, in areas like health and environment, has made major improvements, and we need to do the same for software and code.
 
 **Solution is not to buy technology**
@@ -40,7 +46,7 @@ Nationalizing code is a nuclear option for cases where companies refuse to share
 This not only includes websites and 'traditional software', but also operating systems, device drivers, IoT devices, network devices, microchips, etc.: in short, anything that can access or manipulate data.
 
 The market, through the power of big customers,  can make a difference by 'nudging' code to be Open Sourced.
-  
-  
+
+
   Related:
-  [Open Source](Open-Source.md) 
+  [Open Source](Open-Source.md)

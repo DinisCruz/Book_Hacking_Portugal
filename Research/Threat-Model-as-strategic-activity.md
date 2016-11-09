@@ -1,3 +1,9 @@
+---
+layout: default
+title: Threat Models as strategic activity
+type: research
+---
+
 ## Threat Models as strategic activity
 
   * use it as a way to drive change

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Strategy
+type: research
+---
+
 ### Strategy
 
   * Focus on economic and practical solutions

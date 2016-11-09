@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: Future
 type: research
 ---
 
