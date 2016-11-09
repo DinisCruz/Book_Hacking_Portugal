@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ###  The next level App Security Social Graph
 
 My core belief is that openness and visibility will eventually create a model/environment where the _'right thing'_ tends to happen, since it is not sustainable (or acceptable) to do the '_wrong thing'_ (which, without visibility is usually not exposed or contested). See the first couple of minutes of the [Git and Democracy presentation](http://diniscruz.blogspot.co.uk/2012/10/a-must-watch-ted-talk-about-git-and.html) for a powerful example of this _'popular/viral awareness'_ in action.

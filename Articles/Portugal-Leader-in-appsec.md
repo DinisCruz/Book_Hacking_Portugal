@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Portugal as a Leader in AppSec
 
 Portugal could be a leader in AppSec. Portugal has a rich history of providing leading innovators and ground-breaking researchers in navigation, in maritime research, and exploration.
