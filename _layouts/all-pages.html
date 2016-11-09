@@ -43,5 +43,16 @@ Here is all the current <b>draft</b> content for this presentation
 </ul>
 
 
+<h5>Draft notes</h5>
+
+<ul>
+    <ul>
+        {% for page in site.pages %}
+            {% if page.title and page.type == 'draft-notes' %}
+                <li><a href="/keynote-bsideslisbon{{page.url}}">{{page.title}}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</ul>
 <hr>
 {{content}}
