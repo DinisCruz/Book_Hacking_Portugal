@@ -40,4 +40,5 @@ Elon Musk, of Tesla, is an amazing individual. When he reached the peak of succe
 
 If you can create this amazing ecosystem where people share and collaborate, productivity levels will go through the roof. In short, a culture of sharing and open-sourcing should be a strategic decision because it benefits everyone.
 
+---
 Related: [Open Source](Open-Source.html)

@@ -8,4 +8,4 @@ from https://www.engadget.com/2016/10/28/tesla-unveils-its-solar-roof-and-powerw
   * why can't PT be a leader in this kind of technology
 
 Related:
-[Creating a sharing culture](Creating-a-sharing-culture.md)
+[Creating a sharing culture](Creating-a-sharing-culture.html)

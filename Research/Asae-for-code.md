@@ -34,11 +34,3 @@ These institutions will create the standards and metrics for the Insurance compa
 The insurance industry is key to making this work. It will push for good metrics to measure secure coding and secure deployments (i.e. how code/apps/software are used in the real world). It will provide a way to compare companies and technologies, and this will make the market more efficient.
 
 Many companies will decide to insure insecure code, and teams that create insecure code/apps. That is ok, as long as that information is disclosed. The insurance companies will increase the premiums to pay via higher fines and financial losses. The benefit of this approach will be the reduction of risk. Of course, if we get it wrong, we will have quite a mess to deal with.    
-
-----
-
-Related
-
-  * [Insurance](Insurance.html)
-  * [Bug-bounties](Bug-bounties.html)
-  * [Testing](testing.html)

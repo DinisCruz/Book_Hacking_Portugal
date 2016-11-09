@@ -31,4 +31,4 @@ type: research
 
 **Software Insurance**
 
-  * PT companies to be leaders on Software Insurance  (related: [ASAE for code](ASAE-for-code.md)
+  * PT companies to be leaders on Software Insurance  (related: [ASAE for code](ASAE-for-code.html)
