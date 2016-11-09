@@ -1,3 +1,9 @@
+---
+layout: default
+title:
+type: research
+---
+
 ## European Union
 
 I don't want Portugal to have to 'beg' the EU for funds to support these ideas. 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Education
+type: research
+---
+
 ## Education
 
 Businesses should work with Universities to teach the following skills:

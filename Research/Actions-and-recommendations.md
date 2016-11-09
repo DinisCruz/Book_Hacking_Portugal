@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: Actions and recommendations
 type: research
 ---
 

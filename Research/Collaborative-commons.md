@@ -1,3 +1,9 @@
+---
+layout: default
+title:
+type: research
+---
+
 ## Collaborative commons
 
 * great vision for the future and how it could Work

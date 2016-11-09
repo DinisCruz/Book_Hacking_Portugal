@@ -1,3 +1,9 @@
+---
+layout: default
+title: Economics
+type: research
+---
+
 ## Economics
 
 
