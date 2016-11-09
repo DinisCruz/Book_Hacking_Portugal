@@ -48,5 +48,5 @@ This not only includes websites and 'traditional software', but also operating s
 The market, through the power of big customers,  can make a difference by 'nudging' code to be Open Sourced.
 
 
-  Related:
-  [Open Source](Open-Source.md)
+Related:
+[Open Source](Open-Source.html)
