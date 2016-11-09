@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "test 123"
-date: 2014-04-30
+title: test
 ---
 
 ## this is in markdown
+
+test
