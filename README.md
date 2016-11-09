@@ -1,6 +1,10 @@
-## keynote-bsideslisbon
+## Keynote BSidesLisbon
 
 Supporting files and ideas for the [BSidesLisbon 2016](http://www.bsideslisbon.org/) keynote presentation (11th Nov 2016)
+
+**Website**
+
+Site with all content: https://diniscruz.github.io/keynote-bsideslisbon/
 
 **Talk description:**
 
