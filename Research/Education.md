@@ -19,3 +19,11 @@ Businesses should work with Universities to teach the following skills:
   * year 3 - Fixing code and DevOps
 
 Give students cloud accounts and make them use the current state-of-the-art software and services (GitHub, JIRA, travis, Jenkins, SAST, VisualStudio, IntelliJ, Eclipse, etc..)  
+
+### CV
+
+The CV has a document is dead (at least for technology), what matter is your public digital footprint:
+  * GitHub repo
+  * StackOverflow score
+  * Quality of Twitter feed
+  * Personal blog contents

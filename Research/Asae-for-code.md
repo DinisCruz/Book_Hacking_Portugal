@@ -6,11 +6,16 @@ type: research
 
 ## ASAE for code
 
-  * ASAE (Autoridade de Segurança Alimentar e Económica) - Authority for Economic and Food Security
+ASAE (Autoridade de Segurança Alimentar e Económica)
+Authority for Economic and Food Security
+
+
 We need to learn from what worked and what didn't work with ASAE.
 An ASAE for code mustn't kill innovation and become a 'TAX'. It needs to empower and reward good behavior, and have a common-sense approach to its operations.
 
 As cyber security gets worse, if we don't have good, positive alternatives, an ASAE is exactly what we will get. This is not a good prospect.
+
+We need a focus on Quality and Services, where we want to encourage innovation and make it easy and cheap to create (secure) code in Portugal.
 
 **Software Testing Institute**
 We need to measure and visualize the side effects of code, and we need to measure the 'pollution' created by insecure code and apps.

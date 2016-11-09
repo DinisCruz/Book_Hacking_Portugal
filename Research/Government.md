@@ -38,10 +38,10 @@ Most Security vendors have shocking security, and they sell insecure apps, which
 
 Nationalizing code is a nuclear option for cases where companies refuse to share their code. It is essential to move to a world where good regulation will allow every line of code that is running and touches our data to be
 
-* public
-* peer-reviewable by independent parties
-* compile-able
-* signed     
+  * public
+  * peer-reviewable by independent parties
+  * compile-able
+  * signed     
 
 This not only includes websites and 'traditional software', but also operating systems, device drivers, IoT devices, network devices, microchips, etc.: in short, anything that can access or manipulate data.
 

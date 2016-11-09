@@ -30,7 +30,7 @@ type: research
     * everything is code (including all DevOps scripts and even things like Firewall rules)
     * have 'Sub-minister of DevOps'
   * PT CTO and CISO (like the US has)
-  * Copy US initiative Code For America (@codeforamerica)
+  * Copy US initiative Code For America (@codeforamerica), using a collaborative commons model
   * Introduce 'Code Service' where everyone needs to learn how to code and use technology
     * Just like PT had the 'military service'
   * Commitment by PT Government and participating companies to only buy, commission and use applications/websites that

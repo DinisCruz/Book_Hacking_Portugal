@@ -64,3 +64,8 @@ The current Portuguese security model is based on 'Security Fairies magic pixie 
     * How many users use it (per day/month/year)
     * How many compromised emails
     * How many PasteBin's entries with PT data  
+
+
+**Current Cyber Security PT institutions**
+
+ * "Centro Nacional de Cibersegurança" http://www.cncs.gov.pt/ (with CERT)

@@ -22,6 +22,11 @@ type: research
 
   * "Who guards the guardians?"    
 
+
+  * Current capitalist-based economical model is not working for large parts of the population
+    * "We need to innovate ourselves out of this problem"
+    
+
 **PT Emigrants**  
 
   * Use Software to create distribution networks to send PT Products to PT emigrants
