@@ -6,15 +6,12 @@ type: research
 
 ## Iterate Exponentially
 
-  1. start small
-  2. deploy
-  3. learn from it
-  4. make changes
-  5. back to step 2.
+  1. Start small
+  2. Deploy
+  3. Learn from deployment
+  4. Make changes
+  5. Return to step 2, and repeat
 
-  * all ideas presented should NOT be implemented as a Big Policy or Big Vision!
-  * it is all about small changes
-  * about DevOps for Change and Government policies
-  * it is all about 'Marginal Gains' (see http://m.bbc.co.uk/sport/olympics/19174302)
-    * anybody selling a big solution (very expensive that requires big companies to do it) is selling snake oil
-  * these are solutions for the SMEs, to individuals, to small teams that are actually working 'on the ground' and understand reality (and are accountable to those local communities)
+All ideas presented should NOT be implemented as a Big Policy or a Big Vision! Anyone who sells a big, expensive solution, that only major companies can implement, is selling a scam. The small changes, and the marginal gains, are more important for DevOps and government policies (see http://m.bbc.co.uk/sport/olympics/19174302).
+   
+These are the solutions for SMEs, individuals, and small teams who work on the ground, understand reality, and are accountable to their local communities.
