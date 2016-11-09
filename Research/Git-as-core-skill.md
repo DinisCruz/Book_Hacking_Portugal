@@ -1,3 +1,9 @@
+---
+layout: default
+title:
+type: research
+---
+
 ## Git as a core skill
 
   * Version control is a fundamental skill that needs to be mastered by everybody that creates a document or data (which is just about every IT user)

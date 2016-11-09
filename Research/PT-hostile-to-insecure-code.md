@@ -1,6 +1,8 @@
-### Portuguese Tech World
-
-- "Sun, surf and low rents: why Lisbon could be the next tech capital" -  https://www.theguardian.com/world/2016/oct/29/lisbon-web-summit-sun-surf-cheap-rents-tech-capital
+---
+layout: default
+title: PT should be hostile to insecure code
+type: research
+---
 
 ## PT should be hostile to insecure code
 
@@ -93,4 +95,8 @@ In the past Portugal had a Military Service called 'Servico Militar Obrigatorio'
 
 
 
+### Portuguese Tech World
+
 PT = Powerhouse of Technology
+
+- "Sun, surf and low rents: why Lisbon could be the next tech capital" -  https://www.theguardian.com/world/2016/oct/29/lisbon-web-summit-sun-surf-cheap-rents-tech-capital

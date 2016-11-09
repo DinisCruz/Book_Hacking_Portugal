@@ -1,3 +1,8 @@
+---
+layout: default
+title: Health Analogy
+type: research
+---
 ## Health Analogy
 
   * we need to choose whether the paradigm for cyber security is one based on the military or on public health

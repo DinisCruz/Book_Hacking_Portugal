@@ -1,3 +1,9 @@
+---
+layout: default
+title: Open Source
+type: research
+---
+
 ### Open Source
 
   * the catch (for most of the ideas defended here) to work (and not back-fire where they create even strong command-and-control systems/environments) is that we need a very high degree of transparency and openness

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Portugal Compromised
+type: research
+---
+
 ## Portugal Compromised
 
   * Bottom line is that Portugal's (Government, Companies, People) current defense model is based on:

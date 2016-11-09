@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy
+type: research
+---
+
 ## Privacy
 
 The right to privacy is a human right.

@@ -1,3 +1,9 @@
+---
+layout: default
+title:
+type: research
+---
+
 ## Future
 
 This is a presentation designed for our future selves, since some of its ideas are too radical until the AppSec problem becomes much bigger.

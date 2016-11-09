@@ -1,3 +1,9 @@
+---
+layout: default
+title: Iterate Exponentially
+type: research
+---
+
 ## Iterate Exponentially
 
   1. start small
