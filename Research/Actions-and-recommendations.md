@@ -1,3 +1,9 @@
+---
+layout: default
+title:
+type: research
+---
+
 ## Actions and recommendations
 
 

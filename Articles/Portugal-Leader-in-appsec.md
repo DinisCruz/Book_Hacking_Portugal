@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Portugal as a Leader in AppSec
+type: article
 ---
 
 ### Portugal as a Leader in AppSec

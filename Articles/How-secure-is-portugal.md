@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How Secure is Portugal
+type: article
 ---
 
 ### How Secure is Portugal?

@@ -1,5 +1,7 @@
 ---
 layout: default
+title: The next level App Security Social Graph
+type: article
 ---
 
 ###  The next level App Security Social Graph

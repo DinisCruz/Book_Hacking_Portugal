@@ -1,3 +1,9 @@
+---
+layout: default
+title: What is the difference between safe and secure in Portuguese?
+type: question
+---
+
 ## What is the difference between safe and secure in Portuguese?
 
 It seems that _'securo'_ and _'seguranca'_ is used for both safe and secure.

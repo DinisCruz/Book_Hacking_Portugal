@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Sharing is a Very Emotional and Dangerous Practice
+type: article
 ---
 
 ### Sharing is a Very Emotional and Dangerous Practice

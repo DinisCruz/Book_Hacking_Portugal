@@ -1,4 +1,10 @@
-## What are the Portugues Companies that have a public bug bounty program?
+---
+layout: default
+title: What are the Portuguese Companies that have a public bug bounty program?
+type: question
+---
+
+### What are the Portuguese Companies that have a public bug bounty program?
 
 **List**
   - _(Company X, link to bounty, examples of past payments)_
