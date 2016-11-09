@@ -68,7 +68,7 @@ The current Portuguese security model is based on 'Security Fairies magic pixie 
     * How many PasteBin's entries with PT data  
 
     ## Best in world
-Just as in football, where Portugal is one of the best teams in the world (add pic of Euro 2016 win and PT FIFA ranking), Portugal needs to be one of the best in the world in Coding and Cyber/App Security.
+Just as in football, where Portugal is one of the best teams in the world, Portugal needs to be one of the best in the world in Coding and Cyber/App Security.
 
 http://www.uefa.com/MultimediaFiles/Photo/competitions/Comp_Matches/02/39/05/97/2390597_w2.jpg
 
