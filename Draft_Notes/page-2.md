@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Draft notes - page 2
+title: page 2
 type: draft-notes
 ---
+
+### Draft notes - Page 2
 
 * the Software, InfoSec and Hacking community is based on a strong foundation of ethics:
   * Sharing
