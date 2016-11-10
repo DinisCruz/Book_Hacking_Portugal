@@ -67,14 +67,19 @@ The Portuguese government should, at the very least, consider the following poli
 * Develop a PT version of Docker and Git
  Where is the Portuguese Raspberry PI (which has sold more than [10 million](http://www.bbc.co.uk/news/technology-37305200))?
 
-## Transparency
+## Privacy and Transparency
+
+The right to privacy is a human right.
+
+All should be innocent until proven guilty.
+
+The US and the NSA redefined the notion of surveillance to be 'looking at data', rather than 'capturing data'.
+
+We need a healthy level of civil disobedience in society, or new ideas will not get the space to flourish and gain wider acceptance by society. 
+
 Our parents fought against racism, and for pensions, human rights, and rock & roll.  It is our turn to realign society and shift the balance of power. This is about removing control from central organizations (governments, big companies) and give them to individuals and collaborative commons. Currently power is in the hands of who controls the networks. 
 
-Privacy is a human right and essential for human dignity.  Cryptography is a public service and capability. It is crucial to protect user data. Cryptography also has an excellent tradition of not relying on security by obscurity, or expecting the attacker to have all the code and encrypted data (the only private data are the encryption keys). 
-
-
-
-
+Privacy is a human right and essential for human dignity.  Cryptography is a public service and capability, as it enables the end-user to control their data. It is crucial to protect user data. Cryptography also has an excellent tradition of not relying on security by obscurity, or expecting the attacker to have all the code and encrypted data (the only private data are the encryption keys). 
 
 
 
