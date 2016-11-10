@@ -37,6 +37,13 @@ I know not much will change in 2016-2018. This is a presentation for a future wh
 
 * good pool of InfoSec and AppSec talent in Portugal
 * Lots of great engineers
+* strong sense of ethics and community
+* good engineering and math education
+* good ability to 'solve problems' (and make it work)
+* Portugal has hit rock-bottom with multiple financial crises and a European bailout
+  * only way is up
+* Portugal has learned the hard way what it feels like to be the junior player (financial markets' speculation on PT's economy helped to create the situation that lead to the EU bailouts)
+
 
 
 **Reference**
