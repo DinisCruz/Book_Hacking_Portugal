@@ -1,7 +1,7 @@
 ---
 layout: default
 title: page 2
-type: question
+type: draft
 ---
 
 ### Draft notes - Page 2
@@ -21,5 +21,3 @@ type: question
   * business/commercial understanding
   * money generation capabilities (outside of the 'proprietary and lock-in' business models)
   * understanding that profit is good and healthy
-
-

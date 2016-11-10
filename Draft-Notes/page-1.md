@@ -1,7 +1,7 @@
 ---
 layout: default
-title: notes 1
-type: research
+title: page 1
+type: draft
 ---
 
 ### Draft notes - Page 1
@@ -17,7 +17,7 @@ type: research
 * Adopt git for all official documentation
   * teach users (i.e. gov employees) the paradigm of version control
 
-* Develop a PT version of Docker and git  
+* Develop a PT version of Docker and git
   * where is the Portuguese Raspberry PI (which btw has sold more that [10 million](http://www.bbc.co.uk/news/technology-37305200))
 
 * **Core ideas**:
