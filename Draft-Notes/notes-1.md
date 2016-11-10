@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Draft notes - page 1
-type: draft-notes
+title: notes 1
+type: research
 ---
 
 ### Draft notes - Page 1

@@ -18,8 +18,6 @@ The tech world is trying to find ways to connect data sets that makes _'reality 
 
 For example, look at the [Next Level Doctor Social Graph](http://www.medstartr.com/projects/82-next-level-doctor-social-graph) for an attempt to drive change while trying to figure out a commercially viable way of doing it (check out their ['"Open Source Eventually"](http://www.medstartr.com/projects/82-next-level-doctor-social-graph) idea)
 
-[![](images/Screen_Shot_2012-10-30_at_11_50_18.png)](http://3.bp.blogspot.com/-uPYAjZ3sdwc/UI_B3aBGM8I/AAAAAAAABHQ/aIuOMiT-UEs/s1600/Screen+Shot+2012-10-30+at+11.50.18.png)
-
 From that page, here is their description of the problem:
 
 _"It is very difficult to fairly evaluate the quality of doctors in this country. Our State Medical Boards only go after the most outrageous doctors. The doctor review websites are generally popularity contests. Doctors with a good bedside manner do well. Doctors without strong social skills can do poorly, even if they are good doctors. It is difficult to evaluate doctors fairly. Using this data set, it should be possible to build software that evaluates doctors by viewing referrals as "votes" for each other."_ (see related [reddit thread here](http://www.reddit.com/r/programming/comments/12aocr/doing_hacktivism_right_i_am_crowdfunding_the/))  
@@ -32,4 +30,4 @@ _"It is very difficult to fairly evaluate the quality of **_software/application
 
 It would be great if the current debate was on what is _..... (to be defined)_ , ideally with several active experiments figuring out the best metrics, but we are still a long way from that stage of development.
 
-Meanwhile, another **_8763_** vulnerabilities (change this value to a quantity you think is right) have just been created since you started reading this post. These 'freshly baked' vulnerabilities are now in some code repository and will be coming soon to an app that you use. Your best defence is to hope that you are not caught by its side-effects. 
+Meanwhile, another **_8763_** vulnerabilities (change this value to a quantity you think is right) have just been created since you started reading this post. These 'freshly baked' vulnerabilities are now in some code repository and will be coming soon to an app that you use. Your best defence is to hope that you are not caught by its side-effects.
