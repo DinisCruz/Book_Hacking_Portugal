@@ -49,6 +49,32 @@ Amazon is a great model for PT (Shopping, AWS, logistics). How many senior and e
   * to be the [next tech capital](https://www.theguardian.com/world/2016/oct/29/lisbon-web-summit-sun-surf-cheap-rents-tech-capital) of _'sun, surf and low rents'?_
   * to be a Powerhouse of Technology that inspires and leads the world in secure coding?
   * the CPLP (Comunidade dos Países de Língua Portuguesa - Community of the Portuguese Speaking Countries) is a massive opportunity and asset (embrace, educate, market, and secure them)
+  
+The Software, InfoSec and Hacking community has a strong ethical foundation, based on the following qualities:
+  * sharing
+  * respect
+  * friendship
+  * trust
+  * non-discrimination
+  * humanity and companionship
+
+We want to inspire the next generation with these values. To do this, we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'.
+
+  * "Great minds discuss ideas; average minds discuss events; small minds discuss people." (see http://quoteinvestigator.com/2014/11/18/great-minds)
+  
+* But, our alternative also has strong qualities, namely:
+  * business/commercial understanding
+  * money generation capabilities (outside of the 'proprietary and lock-in' business models)
+  * understanding that profit is good and healthy
+
+* story of the 'small coffee spoons' that are used in PT for espresso, and should be easy to find in the UK, but I can't find them
+* I want to be able to buy 'Oranges from the Algarve' and get them delivered to London
+* [here](http://www.businessinsider.com/what-countries-are-best-at-2014-1?IR=T) is a "Funny World Map Shows What Every Country Leads The World In (2014)"
+
+![](http://static5.businessinsider.com/image/52cfe22169beddbe3c6aed5a-1200-600/map-119.jpg)
+
+  * for PT it says _"Portugal - rate -	graduating high school"_
+ We can do better than that; we should be world leaders in software, craftsmanship, cyber security, secure coding, and DevOps. 
 
 ### Future of code
 * If you are developing code today, and you are not thinking in terms of:
@@ -63,5 +89,8 @@ Amazon is a great model for PT (Shopping, AWS, logistics). How many senior and e
   * liquid code, message queues, self-defending applications
 
   .... you are already legacy (code), because all these are the future.
+  
+
+
 
 
