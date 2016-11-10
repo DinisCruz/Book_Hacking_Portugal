@@ -2,6 +2,10 @@
 layout: default
 ---
 
-{{site.pages}}
+<!--{{site.pages}}-->
 
-
+{% for page in site.pages %}
+  {% if page.title %}
+    {{page.content}}
+  {% endif %}
+{% endfor %}
