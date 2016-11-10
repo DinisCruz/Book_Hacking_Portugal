@@ -6,61 +6,43 @@ type: draft
 
 ## Draft notes 
 
-### Page 1
+From Page 3:
+* Where is the Portuguese Watson ([IBM AI](https://en.wikipedia.org/wiki/Watson_(computer))), Siri, Cortana, OK Google, Amazon Echo
+  * Maybe it could be called 'Piri' and know about PT Culture, its People and have its values
+  * PT version of [Hubot](https://hubot.github.com)
+* Where are the PT self-defense networks and AIs (aka https://www.cybergrandchallenge.com/ that happened in DefCon this August?
+Where is the PT Phone? We had the 'Magalhaes' computer, which was a great idea, but from the polemic that followed it, it seems it was not very well executed.
+* Unions need to change their paradigm where they protect jobs by making employees employable and mobile, but without losing their safety net
+* Global universal income is an interesting and practical idea, especially as we move into the 'age of sustainability' and more fluent/liquid finances/money
 
-The current economic model is not working for secure code and secure software development.
+* An important role of government institutions and publicly-owned companies is to create and educate people in jobs, thereby creating more opportunities to learn and evolve
+* the move into the commercial market should be viewed as a good thing
+* they will be able to be better paid than in the public sector, but they maybe not have as many learning opportunities
+* Government agencies need to use their technological power to empower and protect their citizens
+  * not to spy and view them as guilty (special sore point in PT with taxes)
+  * trust is key
+  * technologies like cryptography enable it
+  * secure code ensures desires and visions match reality
 
-In many cases, it doesn't make business sense to spend the time and effort creating secure code, because the customer cannot measure it (just like pollution in the 50s)
+**Security is a Public Health Issue**
+  * [If GCHQ wants to improve national security it must fix our technology](https://www.theguardian.com/technology/2014/mar/11/gchq-national-security-technology)  
 
-* I have received some feedback that said "If your ideas depend on the PT Government taking action, you should give up now!"
-  * this is the wrong attitude
-  * governments exist to serve their citizens, and as a citizen with ideas for my Government, I have a duty to share them
-  * we (as tech community) should be requesting that the Government adopts ideas like this, especially when the benefits are not for a small group of companies, but for a large section of the tech and IT user population
+From Page 6:
+* Add link to 'Apple watch being banned in PT Government meetings'
+  * good thing is that it shows awareness of the security problems of existing technology
+  * bad thing is that that is just the tip of the iceberg, and key questions are not being asked (for example "why is PT infrastructure and sovereignty dependent/controlled by 3rd parties")
+  * Rationality and proportionality are very important in these discussions
+    * an attacker who can exploit that Apple watch (and knows what to do with it), can do much, much more (with tons of other ways to attack and compromise)
+* "Our defense model should not be based on having no vulnerabilities, no insecure code, no malicious developers, no compromised APIs/dependencies, no zero-days issues"
+* "Our defense model should be based on the attacker making mistakes, and being ready to detect and mitigate their actions"
+  * add reference to how Stuxnet was caught via a mistake that caused a crash in an obscure Anti-Virus product (see 'Countdown to Zero Day' book)
 
-* Adopt Git for all official documentation
-  * teach users (i.e. government employees) the paradigm of version control
+* "The PT Cyber Security Strategy" is a good document with good ideas and action plans, but a key problem with it is that there is no mention of secure coding or addressing the root causes of the problems
+  * "we confuse the symptoms with the with causes"
 
-* Develop a PT version of Docker and Git
-  * where is the Portuguese Raspberry PI (which btw has sold more than [10 million](http://www.bbc.co.uk/news/technology-37305200))
-
-* **Core ideas**:
-  * all Government purchased software and code developed to be Open Source (by 2020)
-  * all Government created documents to be released under Creative Commons
-  * all Portuguese companies to publish their code under Open Source license, and technical documentation under Creative Commons
-  * pay for Open Source software (in license and per usage)
-    * the financial model for this needs careful consideration. The key is that the makers of Open Source code that is used, should have a revenue stream equivalent to that use, so that they can spend more time with that software, and even hire more devs to work on it
-
-* Teach everybody how to hack:
-  * kids
-  * unemployed
-  * retired people
-  * professionals who want to change careers
-  * prisoners
-
-* Why Portugal
-  * strong sense of ethics and community
-  * good engineering and math education
-  * good ability to 'solve problems' (and make it work)
-  * country has hit rock-bottom with multiple financial crises and a European bailout
-    * only way is up
-  * Portugal has learned the hard way what it feels like to be the junior player (financial markets' speculation on PT's economy helped to create the situation that lead to the EU bailouts)
-
-* What is the future of Portugal?
-  * to be a garden for Europe, a holiday destination
-  * to be the [next tech capital](https://www.theguardian.com/world/2016/oct/29/lisbon-web-summit-sun-surf-cheap-rents-tech-capital) of _'sun, surf and low rents'?_
-  * to be a Powerhouse of Technology that inspires and leads the world in secure coding
-  * the CPLP (Comunidade dos Países de Língua Portuguesa - Community of the Portuguese Speaking Countries) is a massive opportunity and asset (embrace, educate, market, secure them)
-
-
-* If you are developing code today, and you are not thinking in terms of:
-  * CI automation
-  * everything is code (including CI scripts, firewall rules, app's authentication models)
-  * graphs
-  * containers (aka Docker)
-  * version control for data storage (aka Git)
-  * AI and machine learning
-  * cloud (aka AWS, Azure, Rackspace)
-  * serverless code (aka AWS lambda)
-  * liquid code, message queues, self-defending applications
-
-  .... you are already legacy (code), because all these are the future.
+### The best job
+* "Best job is the one where you get paid to do something you would do for free (if you could afford to)"  
+  * "you should love your work and be motivated by it"
+  * "just doing a job, with the minimal viable effort, is a waste of your life", "whatever you do, do it with the maximum passion, energy and motivation"
+  * technologies can be used to empower workers and create such 'win-win scenarios'
+    * or it can be used to create top-down command and control environments (just like the 20th century factories)
