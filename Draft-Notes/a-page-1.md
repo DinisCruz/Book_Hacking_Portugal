@@ -15,13 +15,13 @@ In many cases, it doesn't make business sense to spend the time and effort creat
 * I have received some feedback that said "If your ideas depend on the PT Government taking action, you should give up now!"
   * this is the wrong attitude
   * governments exist to serve their citizens, and as a citizen with ideas for my Government, I have a duty to share them
-  * we (as tech community) should be requesting that the Government adopts ideas like this, specially when the benefits are not for a small group of companies, but for a large section of the tech and IT user population
+  * we (as tech community) should be requesting that the Government adopts ideas like this, especially when the benefits are not for a small group of companies, but for a large section of the tech and IT user population
 
 * Adopt Git for all official documentation
   * teach users (i.e. government employees) the paradigm of version control
 
 * Develop a PT version of Docker and Git
-  * where is the Portuguese Raspberry PI (which btw has sold more that [10 million](http://www.bbc.co.uk/news/technology-37305200))
+  * where is the Portuguese Raspberry PI (which btw has sold more than [10 million](http://www.bbc.co.uk/news/technology-37305200))
 
 * **Core ideas**:
   * all Government purchased software and code developed to be Open Source (by 2020)
@@ -39,7 +39,7 @@ In many cases, it doesn't make business sense to spend the time and effort creat
 
 * Why Portugal
   * strong sense of ethics and community
-  * good engineering and maths education
+  * good engineering and math education
   * good ability to 'solve problems' (and make it work)
   * country has hit rock-bottom with multiple financial crises and a European bailout
     * only way is up
