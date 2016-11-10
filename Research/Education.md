@@ -3,6 +3,14 @@ layout: default
 title: Education
 type: research
 ---
+## Skills
+
+Coding & IT skills are critical for large number of industries:
+* cars
+* research
+* medicine
+* finance
+* marketing
 
 ## Education
 
@@ -22,7 +30,7 @@ Give students cloud accounts and make them use the current state-of-the-art soft
 
 ### CV
 
-The CV has a document is dead (at least for technology), what matter is your public digital footprint:
+The CV as a document is dead (at least for technology), what matters is your public digital footprint:
   * GitHub repo
   * StackOverflow score
   * Quality of Twitter feed
