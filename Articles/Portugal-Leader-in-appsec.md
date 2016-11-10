@@ -14,6 +14,9 @@ PT is currently 8th in the [Fifa world ranking](http://www.fifa.com/fifa-world-r
 
 ### Portugal as a Leader in AppSec
 
+We are entering the age of availability (vs Age of Ownership). Technology and secure coding is what will make this happen
+
+
 Portugal could be a leader in AppSec. Portugal has a rich history of providing leading innovators and ground-breaking researchers in navigation, in maritime research, and exploration. Portugal must build on its history of innovation and achievement, and become a world leader in coding. 
 
 Portuguese researchers are highly innovative. They are following this great history of leading important change and discovery.
