@@ -4,7 +4,9 @@ title: page 1
 type: draft
 ---
 
-### Draft notes - Page 1
+## Draft notes 
+
+### Page 1
 
 * Current economic model is not working for secure code and secure software development
   * it doesn't make (in lots of case) business sense to spent the time and effort to create secure code, because the customer cannot measure it (just like pollution in the 50s)
