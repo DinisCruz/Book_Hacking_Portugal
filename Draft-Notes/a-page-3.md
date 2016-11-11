@@ -1,6 +1,6 @@
 ---
 layout: default
-title: page 2
+title: page 3
 type: draft
 ---
 

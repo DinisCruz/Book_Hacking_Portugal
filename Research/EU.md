@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EU
+title: European Union
 type: research
 ---
 
@@ -35,6 +35,6 @@ We need to use the new software workflows of DevOps and release-often-feedback l
 
 Whistleblowers are important because they can make the markets more efficient. Whistleblowers are not needed when public actions, and statements, match (the real) private actions. We want the opposite of privacy for companies, instead we want maximum visibility and transparency from them. Of course, there will still be secrets, but in smaller numbers, and they will be very well protected (as they are today). "When everything is a secret, nothing is a secret".    
 
-Technology can be used in a positive way to enable this openness. Many companies will not like any shift toward increased transparency, just as they didn't like when annual reports where mandated in the last century. 
+Technology can be used in a positive way to enable this openness. Many companies will not like any shift toward increased transparency, just as they didn't like when annual reports where mandated in the last century.
 
 For an example of how technology can be used in a perverse and negative way, look at what happened with the music industry, where they viewed their customers (using new digital and sharing technologies) as criminals, and passed draconian laws designed to protect their own interests, rather than innovating and learning to succeed in the new technological world.

@@ -12,7 +12,7 @@ Here is all the current <b>draft</b> content for this presentation
     <ul>
         {% for page in site.pages %}
             {% if page.title and page.type == 'article' %}
-                <li><a href="/keynote-bsideslisbon{{page.url}}">{{page.title}}</a></li>
+                <li><a href="{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
@@ -24,7 +24,7 @@ Here is all the current <b>draft</b> content for this presentation
     <ul>
         {% for page in site.pages %}
             {% if page.title and page.type == 'research' %}
-                <li><a href="/keynote-bsideslisbon{{page.url}}">{{page.title}}</a></li>
+                <li><a href="{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
@@ -36,7 +36,7 @@ Here is all the current <b>draft</b> content for this presentation
     <ul>
         {% for page in site.pages %}
             {% if page.title and page.type == 'question' %}
-                <li><a href="/keynote-bsideslisbon{{page.url}}">{{page.title}}</a></li>
+                <li><a href="{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
@@ -49,7 +49,7 @@ Here is all the current <b>draft</b> content for this presentation
     <ul>
         {% for page in site.pages %}
             {% if page.title and page.type == 'draft' %}
-                <li><a href="/keynote-bsideslisbon{{page.url}}">{{page.title}}</a></li>
+                <li><a href="{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}
     </ul>

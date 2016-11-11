@@ -1,3 +1,9 @@
+---
+layout: default
+title: PT Innovation
+type: research
+---
+
 ## PT innovation
 
   * the proposed investment/focus is what 21st century infrastructure is all about
@@ -11,7 +17,7 @@
 ![](https://cloud.githubusercontent.com/assets/656739/20156920/4fa50ba6-a6ca-11e6-9cf3-fc470f74c266.png)
 
   * Portugal is a great place to organize global conferences (Web Summit 2016, Owasp Summits 2011), since it is literally in the middle of the world
-    * we need to make the same for writing, hosting and deploying code (i.e applications) 
+    * we need to make the same for writing, hosting and deploying code (i.e applications)
 
 **Past innovations**
 
