@@ -29,9 +29,6 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <section class="content">
-          {% assign depth = page.url | split: '/' | size %}
-          <h1>{{page.url}} - {{depth}}</h1>
-
           {{ content }}
         </section>
       </section>
