@@ -26,7 +26,7 @@ Ultimately, what we want is a situation where the sharing of information is prom
 
 A license gives you the ability to do something, so you don't have to ask permission and that is the key. That is why collaboration happens a lot more even within a company when you have open licenses.
 
-### Creating a sharing culture
+## Creating a sharing culture
 
 Sharing is difficult, but I believe that Portugal, and other countries, should adopt an open-source culture. They should adopt Creative Commons as a core, strategic value that promotes sharing, and sets an agenda where the default approach is to share and collaborate. If you don't share, the quality of your work will be adversely effected.
 
@@ -39,6 +39,15 @@ Both governments and business can decide to adopt a more collaborative, sharing 
 Elon Musk is an amazing individual. When he reached the peak of success, instead of locking his research away as other companies do, he open-sourced, and continues to open-source, a huge number of patents from space exploration, car research, and battery research. This has a levelling effect, and it improves the quality of what everybody else is doing. It also encourages, if not compels, other companies to follow suit, because they start to look bad if they don't open-source and they will have difficulty hiring talent if they don't take a similar approach.
 
 If you can create this amazing ecosystem where people share and collaborate, productivity levels will go through the roof. In short, a culture of sharing and open-sourcing should be a strategic decision because it benefits everyone.
+
+## Tesla in Portugal
+Objective: Tesla to have factories and RnD in PT
+  * not as a 'favor' or via 'soft bribes' 
+  * but because PT has the people, processes, and technology to fulfill Tesla’s vision
+  * an objective for PT is to be so attractive to companies that they locate in PT
+  * great synergies between Tesla 'SolarCity' and the current investment and capabilities of solar power in PT, which is a great success story, where PT is already producing quite a lot of its electricity using alternative energies.
+PT needs to develop the equivalent of the Tesla Gigafactories (add pic from https://www.tesla.com/en_GB/gigafactory) to be energy interdependent.
+
 
 ---
 Related: [Open Source](Open-Source.html)

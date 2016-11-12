@@ -56,7 +56,15 @@ The Portuguese Caravel, one of the naval creations [made by the Portuguese](http
 from https://www.engadget.com/2016/10/28/tesla-unveils-its-solar-roof-and-powerwall-2/
   * why can't that be in Portugal?
   * why can't PT be a leader in this kind of technology
+  
 
+**More good success stories of PT technology**
+
+  * Adoption of alternative energies
+  * Via Verde (highway tooling system)
+  * Multibanco (ATM solution with lots of extra features)
+  * PT National ID and passport solution (able to do it in 1 day)
+  * Loja do Cidadão (large number of government services in one place)
 
 
 Related:
