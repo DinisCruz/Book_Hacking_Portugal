@@ -11,7 +11,22 @@ type: draft
   * this is how Gov should work, ship early and iterate
 * Idea of reducing and refactoring all actions and risk into one Number
   * shows all players (staring with the board) what is the current status
+  * mapped to the idea of using Risk to measure quality
 
+* process is key with technology
+
+* Give keys to PT castle to a group of 12 (from Gov, academy and individuals) , just like the DNS did
+
+* Create foundations (non profit entities) to control key parts of the infrastructure and workflows
+  * these need to be independent and have a mandate aligned with the citizen and not with the current Government
+
+* The 'Marginal Gains' concept as used by the GB cycling team, is the way to make big changes. By using an aggregation of marginal gains of 1% improvement on everything done, it is possible to achieve so much much that aiming for biggest changes (which are always very disruptive, and not adjusted to reality)
+  * http://jamesclear.com/marginal-gains
+  * http://www.bbc.com/news/magazine-34247629
+
+
+* insecure code epidemic is already here  
+  * zombiepocalypse - only difference is that the zombies are code and not all code-zombies are active (i.e. have been 'activated')
 
 * 3 big technological changes that will happen in the next decade
 
