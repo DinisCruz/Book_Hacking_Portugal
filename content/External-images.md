@@ -8,7 +8,7 @@ Slide 16: Image of Binary Edge.io "Internet Security Exposure 2016"
 
 Slide 17: 
 
-BinaryEdge (2016) "Security of a Country: Portugal"[image online], available:
+BinaryEdge (2016) "Security of a Country: Portugal" [image online], available:
 http://blog.binaryedge.io/2016/03/31/security-of-a-country-portugal/ [accessed 14 Nov 2016].
 
 Slide 18: 
@@ -18,6 +18,10 @@ BinaryEdge (2016) VNC (remote desktop control), six images [images online], avai
 Slide 19: 
 
 BinaryEdge (2016) VNC (remote desktop control), two images [images online], available: http://blog.binaryedge.io/2016/03/31/security-of-a-country-portugal/#VNC and SCADA [accessed 14 Nov 2016]. 
+
+Slide 20: 
+
+Barbosa, Ana (2016), "Security of a Country: Portugal", BinaryEdge Blog [online], 31 Mar, available http://blog.binaryedge.io/2016/03/31/security-of-a-country-portugal/#VNC and SCADA [accessed 14 Nov 2016].
 
 
 Slide 21: "Cartoes de continente alvo de ataque informatico?
@@ -65,7 +69,5 @@ from https://www.engadget.com/2016/10/28/tesla-unveils-its-solar-roof-and-powerw
 
 https://cloud.githubusercontent.com/assets/656739/20156920/4fa50ba6-a6ca-11e6-9cf3-fc470f74c266.png
 
-** text copied from BinaryEdge ** 
-Slide 20: 
 
-Barbosa, Ana (2016), "Security of a Country: Portugal", BinaryEdge Blog [online], 31 Mar, available http://blog.binaryedge.io/2016/03/31/security-of-a-country-portugal/#VNC and SCADA [accessed 14 Nov 2016].
+
