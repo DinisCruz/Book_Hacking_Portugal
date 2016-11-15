@@ -41,19 +41,7 @@ A key objective is to make security and AppSec invisible.
 The cost of bugs and bad/insecure software is already significant, even for a country the size of Portugal.  
 
 
-**Hacking created the Internet**
 
-It is important to state that hackers are the good guys.
-
-'Hack' is to solve problems, to find innovative solutions in a creative way.
-
-The press abuses the term 'hacker'. Instead, they should qualify the word by saying 'Malicious Hackers' or 'Cyber Attackers' or 'Cyber Criminals'.
-
-The internet and just about most of the technology we use today was dreamed and created by hackers.
-
-_"If the attacker tells you about the attack, they are your friends"_. The real attackers (namely criminals and nation states) will not tell you since it is against their own interests. Once you know about it, you will find a way to protect it and fix the vulnerability exploited.
-
-The positive side effects of any public attack (data dumps, site defacing, DDoS) are bigger budgets, board-level attention and demands for security, an increase in AppSec staff hires, and more collaboration between 'companies on the defense side of things'.
 
 ## PHS - Portuguese Hacking Service
 
@@ -76,7 +64,7 @@ In the past Portugal had a Military Service called 'Servico Militar Obrigatorio'
 * best way to learn is to be asked to solve a problem from all sorts of angles (and technologies)
 
 ## Teach everyone to hack
-The 'hackers' that grow-up creating distributed bots to attack insecure apps/code/appliance in the PT network (as part of the PT Hacking Service) are the same ones who will create a 'distributed peer-to-peer drone network, to combat fires in Portugal'.  Everyone should learn to hack, including:
+Everyone should learn to hack, including:
   
  * kids
  * professionals who want to change careers
