@@ -1,3 +1,9 @@
+----
+ -layout: default
+ -title: How Secure is Portugal
+ -type: research
+ ----
+
 ### How Secure is Portugal?
 
 How secure and safe are Portuguese companies and infrastructures?
