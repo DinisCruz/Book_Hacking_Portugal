@@ -1,3 +1,9 @@
+----
+ -layout: default
+ -title: Past innovations
+ -type: research
+ ----
+
 Portugal has a great history of inventions:
 
   * Carrack (Nau) - the Oceanic Carrack (a new and different model, and largest carrack)
