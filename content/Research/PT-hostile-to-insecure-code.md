@@ -41,75 +41,20 @@ A key objective is to make security and AppSec invisible.
 The cost of bugs and bad/insecure software is already significant, even for a country the size of Portugal.  
 
 
+**Hacking created the Internet**
+
+It is important to state that hackers are the good guys.
+
+'Hack' is to solve problems, to find innovative solutions in a creative way.
+
+The press abuses the term 'hacker'. Instead, they should qualify the word by saying 'Malicious Hackers' or 'Cyber Attackers' or 'Cyber Criminals'.
+
+The internet and just about most of the technology we use today was dreamed and created by hackers.
 
 
-## PHS - Portuguese Hacking Service
 
-In the past Portugal had a Military Service called 'Servico Militar Obrigatorio'. We should update this service to the 21st Century and make it a Hacking Service for 15 to 21 year olds, with the following mission objectives:
-
-   * hack everything that is plugged-in into PT's network
-   * hack companies with public bug-bounties
-   * code-review Open Source code developed in PT
-   * code-review code marked as 'strategic interest for Portugal' (i.e. widely used by PT companies and mission critical for them)
-   * contribute to Open Source projects with patches and fixes
-   * help SMEs with their digital security and DevOps
-
-## PT [Hackathons](https://en.wikipedia.org/wiki/Hackathon)**
-
-  * Organize Hackathons in PT
-    * Bring 'PT Hacking' teams to DefCon
-      * sponsored by PT Government and PT Companies
-      * See these teams as source of pride    
-
-* best way to learn is to be asked to solve a problem from all sorts of angles (and technologies)
-
-## Teach everyone to hack
-Everyone should learn to hack, including:
-  
- * kids
- * professionals who want to change careers
- * unemployed
- * retired people
-	* we lose a lot by not using their expertise (and by not learning from them)
-   * in the past the old where the wise ones
-  	* they are engineers, doctors, programmers, teachers, accountants, architects, parents, etc.
-   * people grow old, not because of age, but because they stop being mentally and physically active
-  * prisoners
-     * good use of their 'skills'
-  	  * give them a career
-  	  * show them a way to make money legally
-     * teach them ethics and the value of collaborating
-  	  * most criminals are there due to bad choices or unfortunate events (and deserve a chance at a better life)
-
-In technology/hacking world, it is okay to have teams made up of representatives from the following groups:
-    * 16 year olds
-    * graduates
-    * retired people
-    * convicted criminals
-    * a dog (https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog)
-    * a professional
-  If they are capable, can work together, respect each other, and deliver on their tasks, they will succeed.
-
-
-## Military
-
-It is probably fair to say that Portuguese cyber and code defenses are as good as Portugal's current military status. 
-    * https://en.wikipedia.org/wiki/Portuguese_Armed_Forces
-    * https://en.wikipedia.org/wiki/Portuguese_Air_Force
-
-However, why does PT need an offensive air force? I understand the need to have a civil air-force,  to combat fires or for border patrol, but an offensive air force, with F16s? What is the 'war scenario' where that makes sense? Imagine the PT army against the UK, France or Russia (never mind the US or China). 
-
-The way you fight an airborne battle in the 21st century is by hacking into the offensive planes/drones via their communication channels.
-    * see [Ghost Fleet](https://www.amazon.co.uk/Ghost-Fleet-Novel-Next-World/dp/0544142845)
-
-The problem is that the cyber attackers who will hit Portugal are as sophisticated as the best physical military attackers (and armies), and as attackers get more sophisticated they will gravitate to countries/companies with weaker defenses (since they take longer to ramp up).
-
-Note how even the best companies and security agencies in the world are not able to detect and mitigate most attacks, as evidenced by recent DDoS attacks and zero-days exploits.
-        * https://twitter.com/macbroadcast/status/791837377186725888 (fun video of what DDos attack feels like)
         
-The important question is _"Do we want to do something about it, or be hit by the cross-fire?"_
 
-I would argue that the government should allocate 10% of the current military budget, (2.138,8 billion euro budget in2014), (https://en.wikipedia.org/wiki/Portuguese_Armed_Forces) to fund investment in cyber/app security, and the huge skills shortage in this area. 
 
 
 
