@@ -18,21 +18,11 @@ Portuguese researchers are highly innovative. They are following this great hist
 
 "Code made in Portugal" is the key for the Portuguese economy, and Europe's sustainability. It will have a huge influence, and it will be essential to create supply chains of quality and talent.
 
-Good software development teams (from developers to management) are one of the most important assets of a company and country. They are the ones who add value. They create reality, and ultimately they control your lives.
+Good software development teams (from developers to management) are one of the most important assets of a company and country. They are the ones who add value. They create reality, and ultimately, they control your lives.
 
 "Made in Portugal" will encourage and foment the PT software industry, and this will in turn have a multiplier effect in other industries. 
 
 The Age of Sustainability is upon us, and Portugal should be at its center.
-
-## Secure coding activities (content to be included)
-
- Security Champions from https://github.com/DinisCruz/Book_SecDevOps_Risk_Workflow/tree/master/content/2.Risk-workflow/Security-champions
- Security Champion mug from https://github.com/DinisCruz/Book_SecDevOps_Risk_Workflow/tree/master/content/2.Risk-workflow/Security-champions
- Secure code review
- Secure coding standards
- Appsec tools automatically executed on CI Pipeline
- Two release pipelines
- Threat models per App feature and Layer
 
 ## For the developers in the room
 
