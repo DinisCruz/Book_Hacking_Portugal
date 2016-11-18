@@ -2,9 +2,10 @@
 
 Contents.md
 
-1.Introduction.md
-2.Contributors.md
-3.Disclaimers.md
+ 1. Introduction.md
+ 2. Contributors.md
+ 3. Disclaimers.md
+ 
 License.md
 Printed-version.md
 
@@ -56,6 +57,11 @@ Hacking-service.md
 Military.md
 Why-do-we-have-F16s.md
 Hit-by-the-crossfire.md
+Portuguese-hackathon-league.md
+Convicted-criminals.md
+Retired-people.md
+Working-together.md
+Hack-like-football.md
 Why-is-Portugal-so-good-at-football.md
 Let's-do-the-same-for-hacking.md
 
