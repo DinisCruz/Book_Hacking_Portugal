@@ -17,14 +17,14 @@ It is probably fair to say that Portuguese cyber and code defenses are as good a
 
 The problem is that the cyber attackers who will hit Portugal are as sophisticated as the best physical military attackers (and armies).
 
-Imagine the PT army against the UK, France or Russia (never mind the US or China). 
+Imagine the PT army against the UK, France or Russia, not to mention the US or China. 
 
 Note how even the best companies and security agencies in the world are not able to detect and mitigate most attacks, as evidenced by recent DDoS attacks and zero-days exploits.
-        * https://twitter.com/macbroadcast/status/791837377186725888 (fun video of what DDos attack feels like)
+        * https://twitter.com/macbroadcast/status/791837377186725888 (fun video of what DDoS attack feels like)
 
 ## Why do we have F16s?
 
-Why does PT need an offensive air force? I understand the need to have a civil air-force,  to combat fires or for border patrol, but an offensive air force, with F16s? What is the 'war scenario' where that makes sense? 
+Why does Portugal need an offensive air force? I understand the need to have a civil air-force, to combat fires or for border patrols, but an offensive air force, with F16s? What is the 'war scenario' where that makes sense? 
 
 The way you fight an airborne battle in the 21st century is by hacking into the offensive planes/drones via their communication channels.
     * see [Ghost Fleet](https://www.amazon.co.uk/Ghost-Fleet-Novel-Next-World/dp/0544142845)
@@ -36,14 +36,14 @@ The military budget for Portugal in 2014 was just over €2.1 billion (https://e
 
 The important question is _"Do we want to do something about this, or be hit by the cross-fire?"_ If we do not consider this question, and address the huge skills shortage in cyber/app security that exists in Portugal, we will pay a heavy price. 
 
-As attackers become more sophisticated, they will gravitate to countries and companies with weaker defences, since these take longer to ramp up their security when an attack occurs. 
+As attackers become more sophisticated, they will gravitate to countries and companies with weaker defenses, since these take longer to ramp up their security when an attack occurs. 
 
 
 ## Portuguese hackathon league
  
 In the same way that we have a national football league, Portugal should organize and host regular hackathons [Hackathons](https://en.wikipedia.org/wiki/Hackathon), as part of a new, national, hackathon league.
 
-The  Portuguese hacking teams should go to DefCon, and they should be sponsored by Portuguese government and business. These teams should be a source of national pride.     
+The Portuguese hacking teams should go to DefCon, and they should be sponsored by Portuguese government and business. These teams should be a source of national pride.     
 
 The best way to learn is to solve a problem from a variety of angles, using a variety of technologies.
 
@@ -79,3 +79,11 @@ If they are capable, can work together, respect each other, and deliver on their
 ## Hack like football
 
 ### Why is Portugal so good at football?
+Portugal is good at football for many reasons. Almost everyone can play football, and our kids play it all the time. When they play, and give the game their full concentration, they are in "the zone", which is the optimal place for them to learn. School sports activities also encourage and support football.  
+
+Football offers good social rewards and helps to build communities. Local clubs provide a great support system in the way they find, select, and nurture talent.  
+
+Finally, the prospect of good financial rewards for many players, and not just at national and international level, also encourages an interest in, and support for, the game. 
+
+### Let's do the same for hacking
+Everybody can learn to hack, from kids to the unemployed, to convicted criminals, to retired people. Our kids should be hacking all the time. Many of them will love learning to hack, so they will be "in the zone" when they do. Schools can support these activities, and individual schools' prowess at hacking should become a source of pride. A support network can find, select, and nurture hacking talent, and there will be good financial rewards for hackers, as there is a chronic shortage of skills in this industry. 
