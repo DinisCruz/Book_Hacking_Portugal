@@ -1,3 +1,9 @@
+----
+ -layout: default
+ -title: Leader in cyber and application security
+ -type: research
+ ----
+
 ## Best in world
 
 Portugal has one of the best football teams in the world. 
@@ -24,16 +30,6 @@ Good software development teams (from developers to management) are one of the m
 
 The Age of Sustainability is upon us, and Portugal should be at its center.
 
-## Secure coding activities (content to be included)
-
- Security Champions from https://github.com/DinisCruz/Book_SecDevOps_Risk_Workflow/tree/master/content/2.Risk-workflow/Security-champions
- Security Champion mug from https://github.com/DinisCruz/Book_SecDevOps_Risk_Workflow/tree/master/content/2.Risk-workflow/Security-champions
- Secure code review
- Secure coding standards
- Appsec tools automatically executed on CI Pipeline
- Two release pipelines
- Threat models per App feature and Layer
-
 ## For the developers in the room
 
 If you are developing code today, you should be thinking along the following lines: 
@@ -54,7 +50,6 @@ If you aren't thinking in this way, you are already legacy (in terms of code), b
 If you code in JavaScript and are not using Wallaby JS, you are living in the Dark Ages, and you will not be able to code in TDD.
 
 (add 3 OWASP images from presentation & reference them).
-
 
 
 
