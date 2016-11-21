@@ -1,8 +1,8 @@
-----
+---
 layout: default
 title: Past innovations
 type: research
-----
+---
 
 ### Past innovations
 
