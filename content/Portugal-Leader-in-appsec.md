@@ -27,21 +27,7 @@ We now need the digital equivalent of the great products, including food, create
       
 
 
-## PT needs to export engineers
-Everyone that leaves Portugal brings Portugal with them. They become an ambassador for Portugal, and, assuming they are easy to buy from abroad, they become a consumer of PT products. Many of them have connections with Portuguese companies, and could bring jobs back to Portugal in the long run.  Everyone that leaves Portugal and returns later, brings the skills and experience learned abroad with them. 
 
-Portugal and Europe need diversity and indigenous activities/industry, for their futures. 
-In Europe, sometimes it seems that we have forgotten "Why XYZ was done and what was its objective".
-
-The next generation of manufacturing is going to be local (to a country, city, company, even a house). This is the Age of Sustainability.  PT needs to be technologically independent and sustainable. 
- 
-Amazon is a great model for PT (Shopping, AWS, logistics). How many senior and experienced Amazon ex-employees work in PT Gov and technology initiatives?
-
-### What is the future of Portugal?
-  * to be a garden for Europe, a holiday destination?
-  * to be the [next tech capital](https://www.theguardian.com/world/2016/oct/29/lisbon-web-summit-sun-surf-cheap-rents-tech-capital) of _'sun, surf and low rents'?_
-  * to be a Powerhouse of Technology that inspires and leads the world in secure coding?
-  * the CPLP (Comunidade dos Países de Língua Portuguesa - Community of the Portuguese Speaking Countries) is a massive opportunity and asset (embrace, educate, market, and secure them)
   
 The Software, InfoSec and Hacking community has a strong ethical foundation, based on the following qualities:
   * sharing
