@@ -7,7 +7,7 @@ type: research
 
 ### Easier in a small country
 
-It is easier to implement these ideas in a smaller country, which is more likely to have fewer agendas and fewer big lobby groups wielding influence. We already have the power to make these changes, and this is an important issue of soveriegnty and independence.
+It is easier to implement these ideas in a smaller country, which is more likely to have fewer agendas and fewer big lobby groups wielding influence. We already have the power to make these changes, and this is an important issue of sovereignty and independence.
 
 At this very moment, we are three degrees of separation from the people who can make this happen.
 
@@ -21,7 +21,7 @@ We need a better, more informed, more knowledgeable, and more empowered media, t
 
 * Trillions book quote and diagram  (from MAYA)
   * "this is the world/game that we need to be playing" (we are moving into a trillions world, which needs new paradigms and thinking)
-  * these kind of changes are easier to do in smaller counties like PT
+  * these kinds of changes are easier to do in smaller counties like PT
     * No nuclear-power legislation
 
 ### Portugal has ...
@@ -58,8 +58,31 @@ Currently, the power is in the hands of who controls the networks. It is time to
 
 ### Protect the internet
 
+The internet is one of the biggest gifts given to humanity. Its founders made it open and free (in terms of both cost and freedom).  The success of the internet is a testament to those decisions and their values.
+
+Now, the time has come for our generation to continue in their footsteps and keep the internet open and free for the next generation.
+
 ### Portugal needs to export engineers
+
+Everyone who leaves Portugal brings Portugal with them. They become an ambassador for Portugal, and they become a consumer of Portuguese products (assuming they are easy to buy from abroad). Many of them have connections with Portuguese companies, and could bring jobs back to Portugal in the future.  Everyone who leaves Portugal will learn new skills, and eventually return with those skills, experience, and references, which are, of course, a net gain for Portugal.  
+
+Portugal and Europe need diversity and indigenous activities/industry, for their futures. 
+In Europe, sometimes it seems that we have forgotten "Why XYZ was done and what was its objective".
+
+The next generation of manufacturing is going to be local (to a country, city, company, even a house). This is the Age of Sustainability.  Portugal needs to be technologically independent and sustainable. 
+ 
+Amazon is a great model for Portugal (Shopping, AWS, logistics). How many senior and experienced Amazon ex-employees work in Portuguese Government and technology initiatives?
 
 ### What is the future of Portugal?
 
+What is the future of Portugal? Is it to be a garden for Europe, a holiday destination? A small pawn in the global forces that control the world?
+
+Or could Portugal work together with the CPLP (Community of Portuguese Speaking Countries) in a united partnership that provides significant opportunities? Portugal could become a Powerhouse of Technology that inspires and leads the world in secure coding
+  
+* to be the [next tech capital](https://www.theguardian.com/world/2016/oct/29/lisbon-web-summit-sun-surf-cheap-rents-tech-capital) of _'sun, surf and low rents'?_
+ 
+
 ### Sail the Code
+
+Let's use code to create a generation with a strong work ethic and values. Let's create a new reality for Portugal.
+In the same way that Portuguese navigators once looked at the unknown sea and conquered it, our new digital navigators must do the same with code. 
