@@ -41,16 +41,7 @@ The following reasons also explain why I'm sharing these ideas with you:
 * I have been working on this prob for a while
 * I want to create a place where our kids can have a future, and be safe
 
-**Why Portugal**
 
-* good pool of InfoSec and AppSec talent in Portugal
-* Lots of great engineers
-* strong sense of ethics and community
-* good engineering and math education
-* good ability to 'solve problems' (and make it work)
-* Portugal has hit rock-bottom with multiple financial crises and a European bailout
-  * only way is up
-* Portugal has learned the hard way what it feels like to be the junior player (financial markets' speculation on PT's economy helped to create the situation that lead to the EU bailouts)
 
 
 
