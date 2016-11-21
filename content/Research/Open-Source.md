@@ -43,9 +43,11 @@ The current economic model is not working for secure code and secure software de
 
 ### Open Source *lingua franca*
 
-To allow Open Source to become a *lingua franca*, 'closed and proprietary' agendas should be removed, as they allow the best teams and ideas to win, and they reward good behavior.  Closeness and lack of sharing are more valuable to the attacker than to the defender.
+It is very important that Open Source and Creative Commons are the *lingua franca* between all players. They remove 'closed and proprietary' agendas, they allow the best teams and ideas to win, and they reward good behavior (a good system is one where 'less ethical or benign' actors behave well, even when it is against their natural instincts or values)."
 
-We have a lot of evidence that demonstrates that the more we know about security and risk, the better we can protect and mitigate. This is the principal reason why it is so important for Open Source and Creative Commons to become the *lingua franca* between all the players. It all comes down to how well we communicate, with both tests and TDD.
+Closeness and a lack of sharing are more valuable to the attacker than to the defender.
+
+We have a lot of evidence that demonstrates that the more we know about security and risk, the better we can protect and mitigate. It all comes down to how well we communicate, with both tests and TDD.
 
 ### OpenSource.pt
 
