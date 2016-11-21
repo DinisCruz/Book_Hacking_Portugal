@@ -29,18 +29,9 @@ We want to inspire the next generation with these values.
 * I want to be able to buy 'Oranges from the Algarve' and get them delivered to London
 
 
-* [here](http://www.businessinsider.com/what-countries-are-best-at-2014-1?IR=T) is a "Funny World Map Shows What Every Country Leads The World In (2014)"
-
-![](http://static5.businessinsider.com/image/52cfe22169beddbe3c6aed5a-1200-600/map-119.jpg)
-
-  * for PT it says _"Portugal - rate -	graduating high school"_
-    * we can do better than that, we should be world leaders in: software, craftsmanship, cyber security, secure coding, DevOps
 
 
-Our parents fought against racism, and for pensions, human rights, and rock & roll
-  * it is our turn to realign society and shift the balance of power
-  * this is about removing control from central organizations (governments, big companies) and give them to individuals and collaborative commons
-  * currently the power is in the hands of who controls the networks
+
 
 * privacy is a human right and essential for human dignity
     * cryptography is a public service and capability. It is crucial to protect user data
