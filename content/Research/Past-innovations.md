@@ -1,7 +1,7 @@
 ----
- -layout: default
- -title: Past innovations
- -type: research
+layout: default
+title: Past innovations
+type: research
  ----
 
 ### Past innovations
