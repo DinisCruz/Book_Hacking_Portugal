@@ -5,7 +5,7 @@ type: research
 ---
 
 ### Allergic to insecure code 
-...(test)...
+
 Here is an interesting vision: _**"Make Portugal's internet a hostile place to create, publish, and host insecure applications and 
 IoT appliances"**_
 
