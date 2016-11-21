@@ -32,8 +32,7 @@ The current economic model is not working for secure code and secure software de
 
 In many cases, it doesn't make business sense to spend the time and effort creating secure code, because the customer cannot measure it (just like pollution in the 1950s).
 
-I have received some feedback that said "If your ideas depend on the PT Government taking action, you should give up now!" This is the wrong attitude.  Governments exist to serve their citizens, and as a citizen with ideas for my Government, I have a duty to share them. Because 99.9% of the world doesn't do something, that doesn't mean that you or I shouldn't do it (add pic and reference of Barefoot running https://en.wikipedia.org/wiki/Barefoot_running).  Most things we value, and do, today were once illegal and considered immoral. 
-We, as a tech community, should request the Government to adopt ideas like those I discuss here, especially when the benefits are not for a small group of companies, but for a large section of the tech and IT user population.
+
 
 The following reasons also explain why I'm sharing these ideas with you: 
 
