@@ -6,11 +6,11 @@ type: research
 
 ### Introduction
 
-This book is based, and expands on, a presentation given at BSidesLisbon on 9 November 2016.
+This book is based, and expands, on a presentation given at BSidesLisbon on 9 November 2016.
 
 The ideas I consider here look to the future, as some of the concepts are too radical until the AppSec problem becomes much bigger. They are ideas for a future when solutions are wanted.  
 
-As technology and software becomes more and more important to Portuguese society it is time for Portugal to take it more seriously, and become a real player in that world. This book discusses a number of ideas to make Portugal a place where programming, TDD, Open Source, learning how to code, hacking (aka bug-bounty style), and DevOps receive the consideration, investment and respect that they deserve. Application Security can act as an enabler for this transformation, due to its focus on how code/apps work, and its enormous drive on secure-coding, testing, dev-ops and quality.
+As technology and software becomes more and more important to Portuguese society, it is time for Portugal to take it more seriously, and become a real player in that world. This book discusses a number of ideas to make Portugal a place where programming, TDD, Open Source, learning how to code, hacking (aka bug-bounty style), and DevOps receive the consideration, investment and respect that they deserve. Application Security can act as an enabler for this transformation, due to its focus on how code/apps work, and its enormous drive on secure-coding, testing, dev-ops and quality.
 
 ### Why I'm doing this
 
