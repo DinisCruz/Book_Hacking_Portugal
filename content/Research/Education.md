@@ -3,30 +3,37 @@ layout: default
 title: Education
 type: research
 ---
-## Skills
+### Skills
 
-Coding & IT skills are critical for large number of industries:
+Coding & IT skills are critical for large number of industries, including the following:
 * cars
 * research
 * medicine
 * finance
 * marketing
 
-## Education
+### Education
 
 Businesses should work with Universities to teach the following skills:
   * App and Network Testing (unit, integration, end-to-end)
-  * How to hack into networks and applications (using vuln-by-design apps and companies/countries with public bug-bounties)
+  * How to hack into networks and applications (using vulnerable-by-design apps and companies/countries with public bug-bounties)
   * Modern Languages and Frameworks (coding in at least ten languages is an excellent advantage to have)
 
 ### University course
 
-* 3 year curriculum
+Here is an idea for a three-year curriculum at third level. 
   * year 1 - Hacking & learn new coding languages
   * year 2 - Testing and TDD
   * year 3 - Fixing code and DevOps
 
-Give students cloud accounts and make them use the current state-of-the-art software and services (GitHub, JIRA, travis, Jenkins, SAST, VisualStudio, IntelliJ, Eclipse, etc..)  
+Students of this course should receive cloud accounts and learn to use state-of-the-art software and services (GitHub, JIRA, Travis, Jenkins, SAST, VisualStudio, IntelliJ, Eclipse, etc.)  
+
+### Threat Models as strategic activity
+
+Universities should also teach threat modeling, to create professionals who are proficient in threat modeling when they take up employment. Threat modeling professionals must know how to code and have software development (and DevOps) experience/knowledge
+
+The benefits of having this skill are numerous, both to the student or professional who possess the skill, and to industry. Threat modeling can be used to drive change, and it can be used to map out how things work, as it provides a 'single source of truth'.
+This is not a theoretical activity. The Portuguese government, and companies, should be leaders in threat modeling.
 
 ### CV
 
