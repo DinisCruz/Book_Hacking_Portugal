@@ -1,8 +1,8 @@
 ----
- -layout: default
- -title: How Secure is Portugal
- -type: research
- ----
+layout: default
+title: How Secure is Portugal
+type: research
+---
 
 ### How Secure is Portugal?
 
@@ -34,7 +34,7 @@ The ideas in this presentation are about making Portugal a player, rather than b
 
 Our response to terrorist incidents in the past shows how badly we respond as a society to security incidents for which we are not prepared.
 
-## Think I'm wrong? 
+## Think I'm wrong?
 
 If you don't believe that Portugal is insecure, then prove me wrong in your answers to the following questions:
 * Where is the evidence of Security and AppSec practices?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Health Analogy
+title: Public Health Analogy
 type: research
 ---
 
@@ -8,10 +8,10 @@ type: research
 
 ### Red or blue pill?
 
-We need to choose whether the paradigm for cyber security is one based on the military (offensive, top-down) or on public health (defensive, distributed). 
+We need to choose whether the paradigm for cyber security is one based on the military (offensive, top-down) or on public health (defensive, distributed).
 
-There is a reason why the army is not supposed to be involved in civil activities such as crowd control or disaster support. The military is there to defend us from our enemies. It is the police and other civil forces who focus on protecting the individual. 
-The military and the police have very different perspectives. One must always assume that other side is 'guilty until proven innocent, and it could be attacking me', and the other must always assume that the other side is 'innocent until proven guilty, and my job is to protect him/her'. 
+There is a reason why the army is not supposed to be involved in civil activities such as crowd control or disaster support. The military is there to defend us from our enemies. It is the police and other civil forces who focus on protecting the individual.
+The military and the police have very different perspectives. One must always assume that other side is 'guilty until proven innocent, and it could be attacking me', and the other must always assume that the other side is 'innocent until proven guilty, and my job is to protect him/her'.
 
 ### Public health problem
 

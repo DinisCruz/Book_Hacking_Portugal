@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy
+type: research
+---
+
 ### Defend privacy
 
 The right to privacy is a human right.
@@ -12,12 +18,12 @@ Governments are actively making the internet less secure in order to continue to
 
 ### Crypto
 
-Privacy is a human right and essential for human dignity.  Cryptography is a public service and capability, as it enables the end-user to control their data. It is crucial to protect user data. Cryptography also has an excellent tradition of not relying on security by obscurity, or expecting the attacker to have all the code and encrypted data (the only private data are the encryption keys). 
+Privacy is a human right and essential for human dignity.  Cryptography is a public service and capability, as it enables the end-user to control their data. It is crucial to protect user data. Cryptography also has an excellent tradition of not relying on security by obscurity, or expecting the attacker to have all the code and encrypted data (the only private data are the encryption keys).
 Strong crypto is a good thing, especially if it enables the end-user to control their data.
 
-We need a healthy level of civil disobedience in society, or new ideas will not get the space to flourish and gain wider acceptance by society. 
+We need a healthy level of civil disobedience in society, or new ideas will not get the space to flourish and gain wider acceptance by society.
 
-Our parents fought against racism, and for pensions, human rights, and rock & roll.  It is our turn to realign society and shift the balance of power. This is about removing control from central organizations (governments, big companies) and give them to individuals and collaborative commons. Currently power is in the hands of who controls the networks. 
+Our parents fought against racism, and for pensions, human rights, and rock & roll.  It is our turn to realign society and shift the balance of power. This is about removing control from central organizations (governments, big companies) and give them to individuals and collaborative commons. Currently power is in the hands of who controls the networks.
 
 
 ### The Need for Disclosure
@@ -28,9 +34,9 @@ We need to use the new software workflows of DevOps and release-often-feedback l
 
 ### Whistleblowers have an important role
 
-Whistleblowers are important because they can make the markets more efficient. Whistleblowers are not needed when public actions, and statements, match (the real) private actions. 
+Whistleblowers are important because they can make the markets more efficient. Whistleblowers are not needed when public actions, and statements, match (the real) private actions.
 
-Of course, there will still be secrets, but in smaller numbers, and they will be very well protected (as they are today). "When everything is a secret, nothing is a secret". 
+Of course, there will still be secrets, but in smaller numbers, and they will be very well protected (as they are today). "When everything is a secret, nothing is a secret".
 
 ### Protected by law
 

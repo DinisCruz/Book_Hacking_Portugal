@@ -1,4 +1,10 @@
-**Hacking created the Internet**
+---
+layout: default
+title: Hacking created the Internet
+type: research
+---
+
+### Hacking created the Internet
 
 It is important to state that hackers are the good guys.
 
