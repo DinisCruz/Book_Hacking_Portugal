@@ -14,14 +14,11 @@ As technology and software becomes more and more important to Portuguese society
 
 ### Why I'm doing this
 
-The current economic model is not working for secure code and secure software development.
+There are many reasons why I have been studying this area, and its various challenges and possibilities, for some time. 
 
-The following reasons also explain why I want to share these ideas: 
+The current economic model is not working for secure code and secure software development, and it is not working for many parts of the general population. In many cases, it doesn't make business sense to spend the time and effort creating secure code, because the customer cannot measure it, just like pollution in the 1950s. I believe we must innovate our way out of this problem.
 
-* I see the train-wreck coming
-* I know a good path to follow (i.e. how to create secure code and apps)
-* I have been working on this problem for some time
-* I want to create a place where our kids can have a future, and be safe
+I have considerable experience working in the AppSec industry, and this allows me to see the problems coming down the line. However, the same experience also allows me to see solutions to the problems, i.e., how to create secure code and apps, and I want to share and discuss my ideas for these solutions. Morever, I want to create a place where our kids can have a future, and be safe. 
 
 
   * What are the warning signs of those growing problems?
