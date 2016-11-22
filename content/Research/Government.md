@@ -114,13 +114,15 @@ These institutions will lead the creation of standards and metrics for the insur
 
 The insurance industry is key to making this work. It will push for good metrics to measure secure coding and secure deployments (i.e. how code/apps/software are used in the real world). It will provide a way to compare companies and technologies, and this will make the market more efficient.
 
-Many companies will decide to insure insecure code, and teams that create insecure code/apps. That is fine, as long as that information is disclosed. The insurance companies will increase premiums to pay via higher fines and financial losses. The benefit of this approach will be the reduction of risk. Of course, if we get it wrong, we will have quite a mess to deal with.    
+Many companies will decide to insure insecure code, and teams that create insecure code/apps. That is fine, as long as that information is disclosed. The insurance companies will increase premiums to pay via higher fines and financial losses. The benefit of this approach will be the reduction of risk. Of course, if we get it wrong, we will have quite a mess to deal with.   
 
-**Solution is not to buy technology**
+Of course, Portugese companies should be leaders in Software Insurance. 
 
-Most Security vendors have shocking security, and they sell insecure apps, which can have a negative security impact on the purchasing company's entire ecosystem. The solution is to push Open Source code with a secure ecosystem around it.
+### Solution is not to buy technology
 
-**Code Nationalization**
+Most Security vendors have inadequate security, and they sell insecure apps, which can have a negative security impact on the purchasing company's entire ecosystem. The solution is to push Open Source code with a secure ecosystem around it.
+
+### Code Nationalization
 
 Nationalizing code is a nuclear option for cases where companies refuse to share their code. It is essential to move to a world where good regulation will allow every line of code that is running and touches our data to be
 
@@ -139,7 +141,7 @@ The Portuguese government should, at the very least, consider the following poli
 * Develop a PT version of Docker and Git
  Where is the Portuguese Raspberry PI (which has sold more than [10 million](http://www.bbc.co.uk/news/technology-37305200))?
  
- ### European Union
+### European Union
  
 I am a strong European and I believe in Europe. But Europe needs to change, and refocus on country sustainability. 
 
@@ -157,10 +159,6 @@ This kind of collaboration and investment is what the EU should be all about:
  * a global village
  * shared care and respect for each other (and their contributions)
  * wisdom of the crowd
-
-[This is one of the principal reasons why it is so important that Open Source and Creative Commons are the lingua franca between all players. They remove 'closed and proprietary' agendas, they allow the best teams and ideas to win, and they reward good behavior (a good system is one where 'less ethical or benign' actors behave well, even when it is against their natural instincts or values).
-
-Closeness and lack of sharing are more valuable to the attacker than the defender. We have tons of evidence that the more we know about security issues and risk, the better we can protect and mitigate.] [included in Open Source/lingua franca but need to check phrasing]
 
 ### New currencies for Southern Europe
 
