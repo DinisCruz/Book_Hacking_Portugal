@@ -1,4 +1,4 @@
-----
+---
 layout: default
 title: How Secure is Portugal
 type: research
@@ -22,7 +22,6 @@ The bottom line is that the current 'secure state' of Portugal's government, com
 Portugal is safe is because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
 
 So, although these are contradictory concepts, my thesis is that Portugal is both highly insecure, and, for the moment, quite safe.
-
 
 ## The Emperor's new clothes
 
