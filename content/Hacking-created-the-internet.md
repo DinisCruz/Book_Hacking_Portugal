@@ -27,8 +27,6 @@ The software, InfoSec and hacking community has a strong ethical foundation, bas
   * trust
   * non-discrimination
   * humanity and companionship
-  
-### Inspire the next generation
 
 We want to inspire the next generation with these values. To do this, we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'.
 
@@ -46,4 +44,6 @@ The hackers that grow-up creating distributed bots to attack insecure apps/code/
 Just because 99.9% of the world doesn't agree with your ideas, this doesn't mean you shouldn't pursue them.
 Most things you value (and do) today were once illegal and considered immoral.
 
-(Image of barefoot running)
+(Add image of barefoot running)
+
+
