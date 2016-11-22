@@ -51,3 +51,7 @@ From Page 6:
 
   * _"Making Portugal a safe digital harbor"_
     * note: this could be a better title to the presentation or this section (more positive one)
+ 
+From: PT leader in AppSec.md
+* story of the 'small coffee spoons' that are used in PT for espresso, and should be easy to find in the UK, but I can't find them
+* I want to be able to buy 'Oranges from the Algarve' and get them delivered to London
