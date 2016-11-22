@@ -46,4 +46,4 @@ Most things you value (and do) today were once illegal and considered immoral.
 
 (Add image of barefoot running)
 
-Eleanor Roosevelt is credited with saying "Great minds discuss ideas; average minds discuss events; small minds discuss people" ( http://quoteinvestigator.com/2014/11/18/great-minds).
+
