@@ -40,15 +40,6 @@ Elon Musk is an amazing individual. When he reached the peak of success, instead
 
 If you can create this amazing ecosystem where people share and collaborate, productivity levels will go through the roof. In short, a culture of sharing and open-sourcing should be a strategic decision because it benefits everyone.
 
-## Tesla in Portugal
-Objective: Tesla to have factories and RnD in PT
-  * not as a 'favor' or via 'soft bribes' 
-  * but because PT has the people, processes, and technology to fulfill Tesla’s vision
-  * an objective for PT is to be so attractive to companies that they locate in PT
-  * great synergies between Tesla 'SolarCity' and the current investment and capabilities of solar power in PT, which is a great success story, where PT is already producing quite a lot of its electricity using alternative energies.
-PT needs to develop the equivalent of the Tesla Gigafactories (add pic from https://www.tesla.com/en_GB/gigafactory) to be energy interdependent.
 
 
----
-Related: [Open Source](Open-Source.html)
 
