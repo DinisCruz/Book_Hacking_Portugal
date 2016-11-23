@@ -50,8 +50,8 @@ A major objective for Portugal is to be so attractive to companies that they loc
  
 There are great synergies between Tesla's 'SolarCity' and the current investment and capabilities of solar power in Portugal, which is a great success story, as Portugal is already producing quite a lot of its electricity using alternative energies.
 
-PT needs to develop the equivalent of the Tesla Gigafactories (add pic from https://www.tesla.com/en_GB/gigafactory) to be energy interdependent.
-
-
+PT needs to develop the equivalent of the Tesla Gigafactories to be energy interdependent.
+![](https://www.tesla.com/tesla_theme/assets/img/gigafactory/hero.jpg) 
+(From https://www.tesla.com/en_GB/gigafactory)
 
 
