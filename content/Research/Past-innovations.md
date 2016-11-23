@@ -48,7 +48,7 @@ We must ask ourselves, why can't that be in Portugal? Why can't Portugal be a le
 
 A major objective for Portugal is to be so attractive to companies that they locate in Portugal. The Portuguese government and its agencies should aim to attract Tesla to have factories and R&D facilities in Portugal. This shouldn't be negotiated as a 'favor' or via 'soft bribes'. It should happen because Portugal has the people, processes, and technology to fulfill Tesla’s vision. 
  
-There are great synergies between Tesla's 'SolarCity' and the current investment and capabilities of solar power in PT, which is a great success story, as Portugal is already producing quite a lot of its electricity using alternative energies.
+There are great synergies between Tesla's 'SolarCity' and the current investment and capabilities of solar power in Portugal, which is a great success story, as Portugal is already producing quite a lot of its electricity using alternative energies.
 
 PT needs to develop the equivalent of the Tesla Gigafactories (add pic from https://www.tesla.com/en_GB/gigafactory) to be energy interdependent.
 
