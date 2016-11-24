@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sane defense model
-type: research
+type: content
 ---
 
 ### Sane defense model

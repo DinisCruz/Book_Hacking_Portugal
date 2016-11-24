@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Strategy
-type: research
+type: draft
 ---
 
 ### Strategy
@@ -31,7 +31,7 @@ type: research
 
 
  * Need to present a couple of big visions/directions to follow, such as
- 
+
    * Open Source
    * Quality Software/code
    * Secure Code + DevOps (SecDevOps)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-type: research
+type: content
 ---
 
 ### Introduction
@@ -14,15 +14,15 @@ As technology and software becomes more and more important to Portuguese society
 
 ### Why I'm doing this
 
-There are many reasons why I have been studying this area, and its various challenges and possibilities, for some time. 
+There are many reasons why I have been studying this area, and its various challenges and possibilities, for some time.
 
 The current economic model is not working for secure code and secure software development, and it is not working for many parts of the general population. In many cases, it doesn't make business sense to spend the time and effort creating secure code, because the customer cannot measure it, just like pollution in the 1950s. I believe we must innovate our way out of this problem.
 
-I have considerable experience working in the AppSec industry, and this allows me to see the problems coming down the line. However, the same experience also allows me to see solutions to the problems, and I want to share and discuss my ideas for these solutions. Moreover, I want to create a place where our kids can have a safe future. 
+I have considerable experience working in the AppSec industry, and this allows me to see the problems coming down the line. However, the same experience also allows me to see solutions to the problems, and I want to share and discuss my ideas for these solutions. Moreover, I want to create a place where our kids can have a safe future.
 
 ### Summary of Chapters
 
-In 'Portuguese network to be hostile to insecure code', I discuss the possibility of Portugal becoming a hostile place to create, publish or host insecure apps or IoT appliances. The creation of a safe internet in Portugal is possible, but will need the support and input of Creative Commons, regulatory and market forces, and communities, for it to work. We need new ideas and different perspectives for this to succeed. 
+In 'Portuguese network to be hostile to insecure code', I discuss the possibility of Portugal becoming a hostile place to create, publish or host insecure apps or IoT appliances. The creation of a safe internet in Portugal is possible, but will need the support and input of Creative Commons, regulatory and market forces, and communities, for it to work. We need new ideas and different perspectives for this to succeed.
 
 'Hackers' considers the term 'hackers', as opposed to 'attackers', and discusses how hacking can help to create a secure internet for Portugal. The sound ethical values of the hacking community can inspire the next generation of internet users.
 
@@ -30,7 +30,7 @@ In 'Portuguese network to be hostile to insecure code', I discuss the possibilit
 
 'How Secure is Portugal' examines how Portugal, despite being a digital country with a great dependence on software, has many vulnerabilities and exploitable assets, which make it highly vulnerable to cyber-attack in the future.  Implementing the correct measures, for example by utilizing and increasing the InfoSec and AppSec talent available in Portugal, will help to mitigate the risk of attack.
 
-'Portuguese Hacking Service' suggests that 15-20 year olds should undertake their 'Hacking Service', a new version of the former Portuguese Military Service. The chapter also looks at the Portuguese military budget, and argues that a percentage of it should be diverted into virtual battles against cyber-attacks on Portuguese assets. Everyone should learn to hack, including criminals and retired people, for the general benefit of Portuguese government, business, and society. New structures like a 'Portuguese Hackathon League' would develop Portugal into a country as famous for hacking as it is for football. 
+'Portuguese Hacking Service' suggests that 15-20 year olds should undertake their 'Hacking Service', a new version of the former Portuguese Military Service. The chapter also looks at the Portuguese military budget, and argues that a percentage of it should be diverted into virtual battles against cyber-attacks on Portuguese assets. Everyone should learn to hack, including criminals and retired people, for the general benefit of Portuguese government, business, and society. New structures like a 'Portuguese Hackathon League' would develop Portugal into a country as famous for hacking as it is for football.
 
 'Portuguese Innovations' looks to the glorious history of Portuguese innovation, from the Carrack ship to marmalade, to the more recent success of drugs decriminalization in Portugal, which has dramatically reduced the rate of drugs overdoses and drug-related deaths.
 
@@ -54,7 +54,3 @@ The chapter goes on to consider the need for disclosure in companies, and the ro
   * How can we determine that things are getting worse?  (This is a near-impossible task, like boiling the ocean)
   * Analogy with climate change
   * List possible events
-
-
-
-

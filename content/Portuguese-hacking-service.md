@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PHS - Portuguese Hacking Service
-type: research
+type: content
 ---
 
 ### PHS - Portuguese Hacking Service

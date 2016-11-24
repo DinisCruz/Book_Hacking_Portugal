@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hacking created the Internet
-type: research
+type: content
 ---
 
 ### Hacking created the Internet
@@ -34,7 +34,7 @@ Our alternative benefits from the following strong qualities:
   * business/commercial understanding
   * money-generation capabilities (outside of the 'proprietary and lock-in' business models)
   * understanding that profit is good and healthy
-  
+
 ### Creating Your future
 
 The hackers that grow-up creating distributed bots to attack insecure apps/code/appliance in the PT network (as part of the PT Hacking Service) are the same ones who will create a 'distributed peer-to-peer drone network, to combat fires in Portugal'.
@@ -45,5 +45,3 @@ Just because 99.9% of the world doesn't agree with your ideas, this doesn't mean
 Most things you value (and do) today were once illegal and considered immoral.
 
 (Add image of barefoot running)
-
-

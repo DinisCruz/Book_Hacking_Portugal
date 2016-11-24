@@ -1,3 +1,9 @@
+---
+layout: default
+title: Secure coding activities
+type: draft
+---
+
 ## Secure coding activities (content to be included)
 
  * Security Champions from https://github.com/DinisCruz/Book_SecDevOps_Risk_Workflow/tree/master/content/2.Risk-workflow/Security-champions

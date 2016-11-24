@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sharing is a Very Emotional and Dangerous Practice
-type: article
+type: content
 ---
 
 ### Sharing is a Very Emotional and Dangerous Practice
@@ -39,7 +39,3 @@ Both governments and business can decide to adopt a more collaborative, sharing 
 Elon Musk is an amazing individual. When he reached the peak of success, instead of locking his research away as other companies do, he open-sourced, and continues to open-source, a huge number of patents from space exploration, car research, and battery research. This has a levelling effect, and it improves the quality of what everybody else is doing. It also encourages, if not compels, other companies to follow suit, because they start to look bad if they don't open-source and they will have difficulty hiring talent if they don't take a similar approach.
 
 If you can create this amazing ecosystem where people share and collaborate, productivity levels will go through the roof. In short, a culture of sharing and open-sourcing should be a strategic decision because it benefits everyone.
-
-
-
-

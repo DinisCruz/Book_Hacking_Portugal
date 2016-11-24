@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy
-type: research
+type: content
 ---
 
 ### Defend privacy

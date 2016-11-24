@@ -1,3 +1,9 @@
+---
+layout: default
+title: Attacking Portugal
+type: draft
+---
+
 No content for slides 15-22 as follows:
 
 Dataleaks.pt.md

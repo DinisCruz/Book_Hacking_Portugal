@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Open Source
-type: research
+type: content
 ---
 
 ### Open Source
@@ -56,8 +56,8 @@ To increase transparency, the government should ensure the following policies ar
  * all Government-created documents to be released under Creative Commons
  * all Portuguese companies to publish their code under Open Source license, and technical documentation under Creative Commons
  * pay for Open Source software (in license and per usage)
- 
-The financial model that would allow implementation of these ideas needs careful consideration. The key is that the developers of whatever Open Source code is used, should have a revenue stream equivalent to that use, so that they can spend more time working on that software, and hire more developers to work on it. 
+
+The financial model that would allow implementation of these ideas needs careful consideration. The key is that the developers of whatever Open Source code is used, should have a revenue stream equivalent to that use, so that they can spend more time working on that software, and hire more developers to work on it.
 
 The government needs to trust their citizens and treat them with respect. This will empower the people, and create economic models that reward them.  Don't worry about the big companies, they have enough talent and skills to make money from this model and ideas. In most cases, they are the senior players at the table, and clever companies will adopt this model and thrive on it.
 
@@ -65,7 +65,7 @@ The government needs to trust their citizens and treat them with respect. This w
 
 Government and private companies should create venture capital funds to buy existing software companies and Open Source their code. These companies should use part of that money to transform their business model into one based on the Open Source stack. As they wrote it, so they would have a huge competitive advantage. However, local companies would also be able to provide these services.
 
-The return on investment to the Portuguese economy would be much greater than the amount invested. 
+The return on investment to the Portuguese economy would be much greater than the amount invested.
 
 ###  The next level App Security Social Graph
 

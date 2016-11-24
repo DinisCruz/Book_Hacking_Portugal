@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Actions and recommendations
-type: research
+type: content
 ---
 
 ## Actions and recommendations
 
-Here is a summary of all the actions and recommendations mentioned and discussed in this book. 
+Here is a summary of all the actions and recommendations mentioned and discussed in this book.
 
 **Actions**
 

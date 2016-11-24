@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Leader in cyber and application security
-type: research
+type: content
 ---
 
 ## Best in world

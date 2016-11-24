@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Attackers
-type: research
+type: content
 ---
 
 _"If the attacker tells you about the attack, they are your friends"_.

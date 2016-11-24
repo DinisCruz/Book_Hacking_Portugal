@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Education
-type: research
+type: content
 ---
+
 ### Skills
 
 Coding & IT skills are critical for large number of industries, including the following:
@@ -30,7 +31,7 @@ Businesses should work with Universities to teach the following skills:
 
 ### University course
 
-Here is an idea for a three-year curriculum at third level. 
+Here is an idea for a three-year curriculum at third level.
   * year 1 - Hacking & learn new coding languages
   * year 2 - Testing and TDD
   * year 3 - Fixing code and DevOps

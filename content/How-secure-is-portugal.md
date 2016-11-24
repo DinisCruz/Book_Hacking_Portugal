@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How Secure is Portugal
-type: research
+type: content
 ---
 
 ### How Secure is Portugal?
@@ -44,10 +44,7 @@ If you don't believe that Portugal is insecure, then prove me wrong in your answ
 The current Portuguese security model is based on 'Security Fairies magic pixie dust'. However, the good news is that we have lots of great InfoSec and AppSec talent in Portugal.         
 
 
-
-
-
-  * Show examples of how to hack Portugal (with 0 investment)
+* How to hack Portugal
     * Past PT attacks https://github.com/DinisCruz/keynote-bsideslisbon/issues/1
     * Internet Security Exposure 2016 (Oct 2016) https://blog.binaryedge.io/2016/10/07/internet-security-exposure-2016/
       * this is just the network side of things, AppSec is always much worse
@@ -57,16 +54,9 @@ The current Portuguese security model is based on 'Security Fairies magic pixie 
     * money used to buy compromised machines inside .pt networks
     * money used to buy botnets to be used to attack .pt companies    
 
+### The financial markets hack
 
-* **haveibeenpwned**
+I would argue that Portugal has already been a victim of certain kinds of financial manipulation.
+If you look at what happened during the financial crisis, a substantial part of it was artificially created by the markets.
 
-  * https://haveibeenpwned.com/  
-  * Ask Troy Hunt if it is possible to have some PT stats (i.e. from .pt domains)
-    * How many users use it (per day/month/year)
-    * How many compromised emails
-    * How many PasteBin's entries with PT data  
-
-
-**Current Cyber Security PT institutions**
-
- * "Centro Nacional de Cibersegurança" http://www.cncs.gov.pt/ (with CERT)
+The markets pushed the Portuguese economy hard and made a lot of money by betting that Portugal was going to struggle, and would continue to struggle, in the financial markets.

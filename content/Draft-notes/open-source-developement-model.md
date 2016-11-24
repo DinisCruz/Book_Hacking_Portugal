@@ -1,4 +1,10 @@
-## Open Source development Model for PT companies
+---
+layout: default
+title: Open Source development Model for PT companies
+type: draft
+---
+
+### Open Source development Model for PT companies
 
 * supported by regular purchases from Government and Companies
 * create market for hacking/pentest/code-review services, based on requirement that all code created and used in PT needs to be tested

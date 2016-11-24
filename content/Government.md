@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Government
-type: research
+type: content
 ---
 
 ### Collaborative Commons
 
-Collaborative Commons provide a great vision for the future and how it could work. It provides a model of an organization where citizens and entities collaborate for common goals. 
+Collaborative Commons provide a great vision for the future and how it could work. It provides a model of an organization where citizens and entities collaborate for common goals.
 
 "...Commons is a third model that breaks with the binomial market-state notion, formed -allegedly- by the only two organizational models able to meet the needs of the population. Although it is not new, new technologies have greatly promoted its expansion and thus the emergence of an economy of collaborative commons (Procumuns, [online], available: http://procomuns.net/wp-content/uploads/2016/03/CommonsDeclarationPolicies_eng_v01.odt.pdf)
 
@@ -39,7 +39,7 @@ Moving to Open Source values and activities, and embracing secure coding and hac
 
 ### Governments can make a difference
 
-Some people have said to me, "If your ideas depend on the Portuguese Government taking action, you should give up now!" This is the wrong attitude.  Governments exist to serve their citizens, and as a citizen with ideas for my Government, I have a duty to share them. 
+Some people have said to me, "If your ideas depend on the Portuguese Government taking action, you should give up now!" This is the wrong attitude.  Governments exist to serve their citizens, and as a citizen with ideas for my Government, I have a duty to share them.
 We, as a tech community, should request the Government to adopt ideas like those discussed here, especially when the benefits are not for a small group of companies, but for a large section of the tech and IT user population.
 
 ### Iterate exponentially
@@ -58,11 +58,11 @@ These are the solutions for SMEs, individuals, and small teams who work on the g
 
 ### Ministry of Code
 
-Everything is code, including all DevOps scripts and even things like Firewall rules. These should be managed at a high level within Government, in a type of "Ministry of Code". 
+Everything is code, including all DevOps scripts and even things like Firewall rules. These should be managed at a high level within Government, in a type of "Ministry of Code".
 
 This ministry should appoint a CTO and CISO for Portugal, and should implement the following proposals:
 
- * create a **Code for Portugal** initiative using a collaborative commons model, similar to the USA's @codeforamerica. 
+ * create a **Code for Portugal** initiative using a collaborative commons model, similar to the USA's @codeforamerica.
  * manage the PHS (Portuguese Hacking Service)
  * manage bug-bounty and hacking championships
  * commit to only buy, commission, and use applications and websites that
@@ -116,7 +116,7 @@ The insurance industry is key to making this work. It will push for good metrics
 
 Many companies will decide to insure insecure code, and teams that create insecure code/apps. That is fine, as long as that information is disclosed. The insurance companies will increase premiums to pay via higher fines and financial losses. The benefit of this approach will be the reduction of risk. Of course, if we get it wrong, we will have quite a mess to deal with.   
 
-Of course, Portugese companies should be leaders in Software Insurance. 
+Of course, Portugese companies should be leaders in Software Insurance.
 
 ### Solution is not to buy technology
 
@@ -140,10 +140,10 @@ The Portuguese government should, at the very least, consider the following poli
 * Teach users (i.e. government employees) the paradigm of version control
 * Develop a PT version of Docker and Git
  Where is the Portuguese Raspberry PI (which has sold more than [10 million](http://www.bbc.co.uk/news/technology-37305200))?
- 
+
 ### European Union
- 
-I am a strong European and I believe in Europe. But Europe needs to change, and refocus on country sustainability. 
+
+I am a strong European and I believe in Europe. But Europe needs to change, and refocus on country sustainability.
 
 Portugal should not have to 'beg' the EU for funds to support these ideas.
 
@@ -164,10 +164,4 @@ This kind of collaboration and investment is what the EU should be all about:
 
 A good solution for the Euro problem, for weaker economies like Portugal's at least, is to create alternative currencies. We know how to do this now, with blockchain technology. Multiple FinTech companies are exploring all kinds of business models and workflows.
 
-These alternative currencies should be 100% compatible with the Euro, so they can work side-by-side. They could be created by the next generation of Portuguese hackers, who would also enjoy the challenge of hacking a currency. 
-
-
-
-
-
-
+These alternative currencies should be 100% compatible with the Euro, so they can work side-by-side. They could be created by the next generation of Portuguese hackers, who would also enjoy the challenge of hacking a currency.

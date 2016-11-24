@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Public Health Analogy
-type: research
+type: content
 ---
 
 ## Public health analogy

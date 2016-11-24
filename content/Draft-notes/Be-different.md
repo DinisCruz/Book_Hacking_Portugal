@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Be different
-type: research
+type: draft
 ---
 
 ### Be different
