@@ -6,6 +6,7 @@ type: research
 
 ## Actions and recommendations
 
+Here is a summary of all the actions and recommendations mentioned and discussed in this book. 
 
 **Actions**
 
