@@ -12,7 +12,7 @@ Portugal today is a very digital country, and most Portuguese companies are soft
 
 The question is, how secure are they? How safe are they? By 'secure', I mean how well can they sustain an attack? How well can they detect and react to a possible attack on their digital infrastructure? What is the probability of an attack happening in the short term?
 
-## Are we safe?
+### Are we safe?
 
 The bottom line is that the current 'secure state' of Portugal's government, companies, & people, where the likelihood of an attack happening is low, depends on the following assumptions:
     * A low number of attackers
@@ -23,7 +23,7 @@ Portugal is safe is because there are not enough attackers targeting the current
 
 So, although these are contradictory concepts, my thesis is that Portugal is both highly insecure, and, for the moment, quite safe.
 
-## The Emperor's new clothes
+### The Emperor's new clothes
 
 Portuguese government agencies and companies say they **are secure**. This is not true. They are NOT secure, and have many high-risk vulnerabilities and exploitable assets. It is very important that we accept this fact so that we can find the necessary political, economic, educational, and social solutions. For now, "The Emperor has no clothes".
 
@@ -33,7 +33,7 @@ The ideas in this presentation are about making Portugal a player, rather than b
 
 Our response to terrorist incidents in the past shows how badly we respond as a society to security incidents for which we are not prepared.
 
-## Think I'm wrong?
+### Think I'm wrong?
 
 If you don't believe that Portugal is insecure, then prove me wrong in your answers to the following questions:
 * Where is the evidence of Security and AppSec practices?
