@@ -12,6 +12,15 @@ Coding & IT skills are critical for large number of industries, including the fo
 * finance
 * marketing
 
+### Git is a core skill
+
+Version control is a fundamental skill that needs to be mastered by everybody who creates a document or data, which is just about every IT user.
+Git is a great step in the right direction, but it is still too difficult to use for normal users, and it is not seen as a strategic skill set.
+Nonetheless, the effective use of Version Control increases productivity and collaboration.
+
+  * (add example of laws that have been created using Git)
+  * (add link to 'Git for the rest of us' presentation)
+
 ### Education
 
 Businesses should work with Universities to teach the following skills:
