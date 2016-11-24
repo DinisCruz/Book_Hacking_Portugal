@@ -60,14 +60,19 @@ Slide 22: Table "cost of to buy an zero day"
 
 Slide 47: Table of Drugs Decriminalization:  https://images.mic.com/uj2d146c11flpk52tirjnq4i4bgnlvpz1uftyubyty1f183kqrca2gonlngkuvtg.jpg
 
-** Images not used in presentation (in content files) **
 
-https://www.tesla.com/en_GB/gigafactory
 
-![](https://s.aolcdn.com/hss/storage/midas/90d13cd5b525cd08d49e9f63eea257c1/204527369/1028_tesla-3-ed.jpg)
-from https://www.engadget.com/2016/10/28/tesla-unveils-its-solar-roof-and-powerwall-2/
+** Images used in Past-innovations.md
 
-https://cloud.githubusercontent.com/assets/656739/20156920/4fa50ba6-a6ca-11e6-9cf3-fc470f74c266.png
+AWS global infrastructure Map, [image online], available: https://cloud.githubusercontent.com/assets/656739/20156920/4fa50ba6-a6ca-11e6-9cf3-fc470f74c266.png [accessed 23 Nov 2016].
+
+Tesla solar roof (2016) [image online], available: https://www.engadget.com/2016/10/28/tesla-unveils-its-solar-roof-and-powerwall-2/ [accessed 23 Nov 2016].
+  
+Tesla gigafactory [image online], available: https://www.tesla.com/en_GB/gigafactory) [accessed 23 Nov 2016].
+
+
+
+
 
 
 
