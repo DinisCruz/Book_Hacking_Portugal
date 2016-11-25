@@ -2,12 +2,7 @@
 
 Contents.md
 
- 1. Introduction.md
- 2. Contributors.md
- 3. Disclaimers.md
- 
-License.md
-Printed-version.md
+1. Introduction.md
 
 {mainmatter}
 
@@ -15,7 +10,7 @@ Printed-version.md
 ------------------------------
 1.Hacking-Portugal.md
 ------------------------------
-Portuguese-network-to-be-hostile-to-insecure-code.md
+PT-should-be-hostile-to-insecure-code.md
 Allergic-to-insecure-code.md
 Attack-vulnerable-code.md
 Next-generation-of-internet-users.md
@@ -80,7 +75,7 @@ Code-made-in-Portugal-brand.md
 Secure-coding-activities.md
 For-the-developers-in-the-room.md
 Real-time-unit-test-execution-and-CC.md
-  
+
 Public-health-analogy.md
 Red-or-blue-pill.md
 Public-health-problem.md
@@ -145,9 +140,5 @@ Sail-the-code.md
 
 
 
-  
-
-
-  
-
-
+{backmatter}
+External-images.md
