@@ -4,7 +4,7 @@ title: Sharing is a Very Emotional and Dangerous Practice
 type: content
 ---
 
-### Sharing is a Very Emotional and Dangerous Practice
+## Sharing is a Very Emotional and Dangerous Practice
 
 As someone who likes to share a lot of information, I have a very personal experience of what it feels like when you share data, especially in environments that don't promote, or reward, the sharing of information, whether that is a screen shot, a document, or an idea.
 
@@ -26,7 +26,7 @@ Ultimately, what we want is a situation where the sharing of information is prom
 
 A license gives you the ability to do something, so you don't have to ask permission and that is the key. That is why collaboration happens a lot more even within a company when you have open licenses.
 
-## Creating a sharing culture
+### Creating a sharing culture
 
 Sharing is difficult, but I believe that Portugal, and other countries, should adopt an open-source culture. They should adopt Creative Commons as a core, strategic value that promotes sharing, and sets an agenda where the default approach is to share and collaborate. If you don't share, the quality of your work will be adversely effected.
 

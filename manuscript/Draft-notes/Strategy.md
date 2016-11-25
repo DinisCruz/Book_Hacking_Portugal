@@ -4,7 +4,7 @@ title: Strategy
 type: draft
 ---
 
-### Strategy
+## Strategy
 
   * Focus on economic and practical solutions
   * PT to be a leader in next waves of technological innovation:

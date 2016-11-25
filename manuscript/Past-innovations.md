@@ -4,7 +4,7 @@ title: Past innovations
 type: content
 ---
 
-### Past innovations
+## Past innovations
 
 Portugal has a great history of inventions:
 
@@ -26,7 +26,7 @@ The decriminalization of drugs in Portugal is a great success story of what happ
 
 ![](https://images.mic.com/uj2d146c11flpk52tirjnq4i4bgnlvpz1uftyubyty1f183kqrca2gonlngkuvtg.jpg)
 
-## Portuguese innovation for the 21st Century
+### Portuguese innovation for the 21st Century
 
 The investment and focus I propose in these pages are what 21st century infrastructure is all about.
 At the moment, Portugal lacks the DataCenters, and the big data pipes that will attract companies to host their sites in Portugal. The development of Portugal as a safe, fast, and well-maintained data hub will make sure this investment and growth happens.
@@ -44,7 +44,7 @@ from https://www.engadget.com/2016/10/28/tesla-unveils-its-solar-roof-and-powerw
 
 We must ask ourselves, why can't that be in Portugal? Why can't Portugal be a leader in this kind of technology?
 
-## Tesla in Portugal
+### Tesla in Portugal
 
 A major objective for Portugal is to be so attractive to companies that they locate in Portugal. The Portuguese government and its agencies should aim to attract Tesla to have factories and R&D facilities in Portugal. This shouldn't be negotiated as a 'favor' or via 'soft bribes'. It should happen because Portugal has the people, processes, and technology to fulfill Tesla’s vision.
 

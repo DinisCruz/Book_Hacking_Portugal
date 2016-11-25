@@ -3,7 +3,7 @@ layout: default
 title: Why Portugal?
 type: content
 ---
-### Why Portugal?
+## Why Portugal?
 
 ### Easier in a small country
 

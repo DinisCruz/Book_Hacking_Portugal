@@ -4,7 +4,7 @@ title: Economics
 type: content
 ---
 
-### Economics
+## Economics
 
 Software can be the source of further inequality in our society, or it can provide a solution to close the pay gaps.
 Software can control, or provide freedom and liberty. It can erase the rest of our privacy, or it can enhance it and protect our right to privacy. How it behaves depends on who uses it and to what purpose.

@@ -20,7 +20,7 @@ Portugal could be a leader in AppSec. Portugal has a rich history of providing l
 
 Portuguese researchers are highly innovative. They are following this great history of leading important change and discovery.
 
-## Code-made-in-Portugal-brand
+### Code-made-in-Portugal-brand
 
 "Code made in Portugal" is the key for the Portuguese economy, and Europe's sustainability. It will have a huge influence, and it will be essential to create supply chains of quality and talent.
 
@@ -30,7 +30,7 @@ Good software development teams (from developers to management) are one of the m
 
 The Age of Sustainability is upon us, and Portugal should be at its center.
 
-## For the developers in the room
+### For the developers in the room
 
 If you are developing code today, you should be thinking along the following lines:
   * CI automation
@@ -45,7 +45,7 @@ If you are developing code today, you should be thinking along the following lin
 
 If you aren't thinking in this way, you are already legacy (in terms of code), because all these represent the future of code.
 
-## Real time unit test execution and CC
+### Real time unit test execution and Code Coverage
 
 If you code in JavaScript and are not using Wallaby JS, you are living in the Dark Ages, and you will not be able to code in TDD.
 

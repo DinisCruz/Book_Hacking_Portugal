@@ -4,7 +4,7 @@ title: Portugal should be hostile to insecure code
 type: content
 ---
 
-### Portugal should be hostile to insecure code
+## Portugal should be hostile to insecure code
 
 Here is an interesting vision: _**"Make Portugal's internet a hostile place to create, publish, and host insecure applications and
 IoT appliances"**_

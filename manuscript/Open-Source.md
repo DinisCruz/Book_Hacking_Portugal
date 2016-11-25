@@ -4,13 +4,7 @@ title: Open Source
 type: content
 ---
 
-### Open Source
----
-layout: default
-title: Open Source
-type: research
----
-
+## Open Source
 
 ### Openness is key
 

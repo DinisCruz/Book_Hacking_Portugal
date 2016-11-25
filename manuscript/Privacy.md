@@ -3,6 +3,7 @@ layout: default
 title: Privacy
 type: content
 ---
+## Privacy
 
 ### Defend privacy
 

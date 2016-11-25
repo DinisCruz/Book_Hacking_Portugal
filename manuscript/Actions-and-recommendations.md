@@ -10,14 +10,14 @@ Here is a summary of all the actions and recommendations mentioned and discussed
 
 **Actions**
 
-  * Develop Open Source code in Portugal
-  * Hire devs/companies to work on FOSS projects (add ref to 'Open Source is not Free' chapter in book)
-  * Legalize hacking (of everything inside the Portuguese network)
-  * Demand secure code, apps, and networks
-  * Create a 'software commons'
-  * Portugal to take lead in privacy and encryption
-  * Create Portuguese clones of successful apps, services, and products (all based on Open Source technology)
-  * Force companies ToS that relate to security and privacy to have a maximum of 1024 chars
+* Develop Open Source code in Portugal
+* Hire devs/companies to work on FOSS projects (add ref to 'Open Source is not Free' chapter in book)
+* Legalize hacking (of everything inside the Portuguese network)
+* Demand secure code, apps, and networks
+* Create a 'software commons'
+* Portugal to take lead in privacy and encryption
+* Create Portuguese clones of successful apps, services, and products (all based on Open Source technology)
+* Force companies ToS that relate to security and privacy to have a maximum of 1024 chars
 
 **Recommendations**
 

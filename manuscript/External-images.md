@@ -5,7 +5,7 @@ type: draft
 ---
 
 
-### External Images
+## External Images
 
 **todo: (map to chapters vs slides)**
 

@@ -4,7 +4,7 @@ title: Investment in infrastructure
 type: content
 ---
 
-### Investment in infrastructure
+## Investment in infrastructure
 
 One of the roles of Government is to invest in infrastructure. In the 21st Century digital logistics are the new roads.
 We need a model where the Portuguese producer (be they craftspeople or winemakers, olive oil producers, shoemakers, or butchers) is not required to create the infrastructure to sell those products abroad.

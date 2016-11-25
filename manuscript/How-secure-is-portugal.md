@@ -4,7 +4,7 @@ title: How Secure is Portugal
 type: content
 ---
 
-### How Secure is Portugal?
+## How Secure is Portugal?
 
 How secure and safe are Portuguese companies and infrastructures?
 
@@ -60,3 +60,11 @@ I would argue that Portugal has already been a victim of certain kinds of financ
 If you look at what happened during the financial crisis, a substantial part of it was artificially created by the markets.
 
 The markets pushed the Portuguese economy hard and made a lot of money by betting that Portugal was going to struggle, and would continue to struggle, in the financial markets.
+
+### Thank your attackers
+
+_"If the attacker tells you about the attack, they are your friends"_.
+
+The real attackers (namely criminals and nation states) will not tell you since it is against their own interests to do so. Once you know about the attack, you will find a way to protect and fix the relevant vulnerability.
+
+The positive side effects of any public attack (data dumps, site defacing, DDoS) are bigger budgets, board-level attention and demands for security, an increase in AppSec staff hires, and more collaboration between 'companies on the defense side of things'.

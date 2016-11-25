@@ -4,7 +4,7 @@ title: Education
 type: content
 ---
 
-### Skills
+## Skills
 
 Coding & IT skills are critical for large number of industries, including the following:
 * cars

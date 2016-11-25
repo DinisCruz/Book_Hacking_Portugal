@@ -4,7 +4,7 @@ title: Government
 type: content
 ---
 
-### Collaborative Commons
+## Collaborative Commons
 
 Collaborative Commons provide a great vision for the future and how it could work. It provides a model of an organization where citizens and entities collaborate for common goals.
 
