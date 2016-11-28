@@ -31,7 +31,7 @@ The decriminalization of drugs in Portugal is a great success story of what happ
 The investment and focus I propose in these pages are what 21st century infrastructure is all about.
 At the moment, Portugal lacks the DataCenters, and the big data pipes that will attract companies to host their sites in Portugal. The development of Portugal as a safe, fast, and well-maintained data hub will make sure this investment and growth happens.
 
-Portugal is missing from this AWS global infrastructure.
+Portugal is missing from this AWS (Amazon Web Services) map of global infrastructure.
 
 ![](https://cloud.githubusercontent.com/assets/656739/20156920/4fa50ba6-a6ca-11e6-9cf3-fc470f74c266.png)
 
