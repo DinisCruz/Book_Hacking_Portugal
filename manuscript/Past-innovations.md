@@ -35,7 +35,7 @@ Portugal is missing from this AWS global infrastructure.
 
 ![](https://cloud.githubusercontent.com/assets/656739/20156920/4fa50ba6-a6ca-11e6-9cf3-fc470f74c266.png)
 
-Portugal is a great place to organize global conferences (Web Summit 2016, OWASP Summits 2011), since it is literally in the middle of the world. We need to make Portugal as attractive a location for writing, hosting and deploying code (i.e. applications).
+Portugal is a great place to organize global conferences (Web Summit 2016, OWASP Summits 2011), since it is literally in the middle of the world. We need to make Portugal just as attractive a location for writing, hosting and deploying code (i.e. applications).
 
 If we look at this picture:
 
@@ -46,7 +46,7 @@ We must ask ourselves, why can't that be in Portugal? Why can't Portugal be a le
 
 ### Tesla in Portugal
 
-A major objective for Portugal is to be so attractive to companies that they locate in Portugal. The Portuguese government and its agencies should aim to attract Tesla to have factories and R&D facilities in Portugal. This shouldn't be negotiated as a 'favor' or via 'soft bribes'. It should happen because Portugal has the people, processes, and technology to fulfill Tesla’s vision.
+A major objective for Portugal is to be so attractive to companies that they locate in Portugal. The Portuguese government and its agencies should aim to attract companies like Tesla to have factories and R&D facilities in Portugal. This shouldn't be negotiated as a 'favor' or via 'soft bribes'. It should happen because Portugal has the people, processes, and technology to fulfill Tesla’s vision.
 
 There are great synergies between Tesla's 'SolarCity' and the current investment and capabilities of solar power in Portugal, which is a great success story, as Portugal is already producing quite a lot of its electricity using alternative energies.
 
