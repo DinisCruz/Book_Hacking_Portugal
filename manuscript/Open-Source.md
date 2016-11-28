@@ -67,7 +67,7 @@ My core belief is that openness and visibility will eventually create a model/en
 
 When I look at my country (Portugal, and now the UK), or my industry (WebAppSec), I see countless examples of scenarios where, if information was disclosed and presented in a consumable way, much of what happens would not be tolerated.
 
-For example, we in the WebAppSec industry know how bad software and applications that are created every day can be. Both we, and the customers, have accepted that vulnerabilities are part of creating software, and that the best we can do is to improve the SDL, and reduce risk.
+For example, we in the WebAppSec industry know that bad software and applications are created every day. Both we, and the customers, have accepted that vulnerabilities are part of creating software, and that the best we can do is to improve the SDL, and reduce risk.
 
 If the real scale of the problem was known, would we, either as a society, or an industry, accept it? Would we accept that large parts of our society are built on applications whose workings very few people understand?
 
@@ -89,7 +89,7 @@ It would be great if the current debate was on what is _..... (to be defined)_ ,
 
 Meanwhile, another **_8763_** vulnerabilities (change this value to a quantity you think is right) have just been created since you started reading this. These 'freshly baked' vulnerabilities are now in some code repository and will be coming soon to an app that you use. Your best defence is to hope that you are not caught by its side-effects.
 
-### Cathedral's eyeballs
+### The cathedral's eyeballs
 
 In the [cathedral and the bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) presentation and book, Eric S. Raymond proposes the Linus law _"given enough eyeballs, all bugs are shallow"_ , which is usually also applied to Security.
 
@@ -97,7 +97,7 @@ The problem is that we need those eyeballs.
 
 This could be Portugal's contribution to the world: 'AppSec eyeballs' and 'fix Open Source Software'.
 
-It is essential that a company or country has core contributors (i.e. strong relationships) with strategic Open Source projects. This is not only essential to retain talent, it should also be done from self-interest.
+It is imperative that a company or country has core contributors (i.e. strong relationships) with strategic Open Source projects. This is not only essential to retain talent, it should also be done from self-interest.
 
 **Principle of Public Access in Sweden**
 
