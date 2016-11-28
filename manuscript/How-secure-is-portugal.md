@@ -58,3 +58,31 @@ _"If the attacker tells you about the attack, they are your friends"_.
 The real attackers (namely criminals and nation states) will not tell you since it is against their own interests to do so. Once you know about the attack, you will find a way to protect and fix the relevant vulnerability.
 
 The positive side effects of any public attack (data dumps, site defacing, DDoS) are bigger budgets, board-level attention and demands for security, an increase in AppSec staff hires, and more collaboration between 'companies on the defense side of things'.
+
+### Military
+
+It is probably fair to say that Portuguese cyber and code defenses are as good as Portugal's current military status.
+* https://en.wikipedia.org/wiki/Portuguese_Armed_Forces
+* https://en.wikipedia.org/wiki/Portuguese_Air_Force
+
+The problem is that the cyber attackers who will hit Portugal are as sophisticated as the best soldiers, and armies.
+
+Imagine the Portuguese army against the UK, France or Russia, not to mention the US or China.
+
+Note how even the best companies and security agencies in the world are not able to detect and mitigate most attacks, as evidenced by recent DDoS attacks and zero-days exploits. The following video gives a humorous idea of what a DDoS attack feels like.
+         https://twitter.com/macbroadcast/status/791837377186725888
+
+### Why do we have F16s?
+
+Why does Portugal need an offensive air force? I understand the need to have a civil air-force, to combat fires or for border patrols, but an offensive air force, with F16s? What is the 'war scenario' where that makes sense?
+
+The way you fight an airborne battle in the 21st century is by hacking into the offensive planes/drones via their communication channels. The novel [Ghost Fleet](https://www.amazon.co.uk/Ghost-Fleet-Novel-Next-World/dp/0544142845) (Singer & Cole, 2015) imagines the next, virtual, world war.
+
+
+The military budget for Portugal in 2014 was just over €2.1 billion (https://en.wikipedia.org/wiki/Portuguese_Armed_Forces). I would argue that the government should allocate 10% of the current military budget to fund investment in cyber/app security, and the huge skills shortage in this area.
+
+### Hit by the crossfire
+
+The important question is _"Do we want to do something about this, or be hit by the cross-fire?"_ If we do not consider this question, and address the huge skills shortage in cyber/app security that exists in Portugal, we will pay a heavy price.
+
+As attackers become more sophisticated, they will gravitate to countries and companies with weaker defenses, since these take longer to ramp up their security when an attack occurs.
