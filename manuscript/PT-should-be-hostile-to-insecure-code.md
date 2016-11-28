@@ -9,13 +9,13 @@ type: content
 Here is an interesting vision: _**"Make Portugal's internet a hostile place to create, publish, and host insecure applications and
 IoT appliances"**_
 
-I want the Portuguese internet to be safe. To achieve this, we will need strong Collaborative Commons, and community support.
+I want the Portuguese internet to be safe. To achieve this, we will need strong Collaborative Commons and community support.
 We will also need strong enforcement, regulation, and market pressure to make this happen.
 Portugal has sovereignty over its network, and can pass laws to protect it.
 
-I want bots that scan the Portuguese internet and attack, and destroy, (in a nice way) insecure code and apps.
+I want bots that scan the Portuguese internet to attack, and destroy (in a nice way), insecure code and apps.
 
-We need child-services for code, with home visits to software developers and companies to help them improve their handling of their IT infrastructure.
+We need child-services for code, with site visits to software developers and other companies to help them improve how they handle their IT infrastructure.
 
 This is not about making everyone in Portugal into highly technical computer experts.
 
@@ -29,7 +29,7 @@ A key objective is to make security and AppSec invisible.
 Security and AppSec are there to protect and ensure that insecure code is detected and mitigated. This is not achieved by using
 command and control, but rather with decentralization, transparency, ownership and trust.
 
-The cost of bugs and bad/insecure software is already significant, even for a country the size of Portugal.
+The cost of bugs and bad, or insecure, software is already significant, even for a country the size of Portugal.
 
 ### Attack vulnerable code
 
