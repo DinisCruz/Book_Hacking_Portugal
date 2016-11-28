@@ -12,11 +12,11 @@ It is important to state that hackers are the good guys.
 
 The press abuses the term 'hacker'. Instead, they should qualify the word by saying 'Malicious Hackers' or 'Cyber Attackers' or 'Cyber Criminals'.
 
-The internet and just about most of the technology we use today was dreamed and created by hackers.
+The internet and most of the technology we use today was dreamed of, and created by, hackers.
 
-_"If the attacker tells you about the attack, they are your friends"_. The real attackers (namely criminals and nation states) will not tell you about the attack since it is against their own interests to do so. Once you know about it, you will find a way to protect it and fix the relevant vulnerability.
+_"If the attacker tells you about the attack, they are your friends"_. The real attackers (namely criminals and nation states) will not tell you about the attack since it is against their own interests to do so. Once you know about the attack, you will find a way to protect and fix the relevant vulnerability.
 
-The positive side effects of any public attack (data dumps, site defacing, DDoS) are bigger budgets, board-level attention and demands for security, an increase in AppSec staff hires, and more collaboration between 'companies on the defense side of things'.
+The positive side effects of any public attack (data dumps, site defacing, DDoS) are bigger budgets, board-level attention and demands for security, an increase in AppSec staff hires, and more collaboration between companies who work on the defense side of things.
 
 ### Hackers' values
 
@@ -37,11 +37,11 @@ Our alternative benefits from the following strong qualities:
 
 ### Creating Your future
 
-The hackers that grow-up creating distributed bots to attack insecure apps/code/appliance in the PT network (as part of the PT Hacking Service) are the same ones who will create a 'distributed peer-to-peer drone network, to combat fires in Portugal'.
+The hackers who grow-up creating distributed bots to attack insecure apps/code/appliance in the Portuguese network (as part of the Portuguese Hacking Service) are the same ones who will create a 'distributed peer-to-peer drone network, to combat fires in Portugal'.
 
 ### Be different
 
-Just because 99.9% of the world doesn't agree with your ideas, this doesn't mean you shouldn't pursue them.
+If 99.9% of the world doesn't agree with your ideas, this doesn't mean you shouldn't pursue them.
 Most things you value (and do) today were once illegal and considered immoral.
 
 (Add image of barefoot running)
