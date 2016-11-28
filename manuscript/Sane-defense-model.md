@@ -4,7 +4,7 @@ title: Sane defense model
 type: content
 ---
 
-## Sane defense model
+### Sane defense model
 
 Our defense model should not be based on having no vulnerabilities, no insecure code, no malicious developers, no compromised APs/dependencies, no zero-days issues.
 

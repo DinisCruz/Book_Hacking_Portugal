@@ -4,7 +4,7 @@ title: Sharing is a Very Emotional and Dangerous Practice
 type: content
 ---
 
-## Sharing is a Very Emotional and Dangerous Practice
+### Sharing is a Very Emotional and Dangerous Practice
 
 As someone who likes to share a lot of information, I have a very personal experience of what it feels like when you share data, especially in environments that don't promote, or reward, the sharing of information, whether that is a screen shot, a document, or an idea.
 

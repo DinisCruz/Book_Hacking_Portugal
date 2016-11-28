@@ -4,7 +4,9 @@ title: Education
 type: content
 ---
 
-## Skills
+## Education
+
+### Skills
 
 Coding & IT skills are critical for large number of industries, including the following:
 * cars
@@ -52,3 +54,25 @@ The CV as a document is dead (at least for technology), what matters is your pub
   * StackOverflow score
   * Quality of Twitter feed
   * Personal blog contents
+
+### For the developers
+
+If you are developing code today, you should be thinking along the following lines:
+
+* CI automation
+* everything is code (including CI scripts, firewall rules, apps authentication models)
+* graphs
+* containers (aka Docker)
+* version control for data storage (aka Git)
+* AI and machine learning
+* cloud (aka AWS, Azure, Rackspace)
+* serverless code (aka AWS lambda)
+* liquid code, message queues, self-defending applications, big data etc.
+
+If you aren't thinking in this way, you are already legacy (in terms of code), because all these represent the future of code.
+
+### Real time unit test execution and Code Coverage
+
+If you code in JavaScript and are not using Wallaby JS, you are living in the Dark Ages, and you will not be able to code in TDD.
+
+(add 3 OWASP images from presentation & reference them).

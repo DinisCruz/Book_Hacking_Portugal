@@ -4,9 +4,10 @@ title: Hack like football
 type: content
 ---
 
-## Hack like football
+### Hack like football
 
-### Why is Portugal so good at football?
+Why is Portugal so good at football?
+
 Portugal is good at football for many reasons. Almost everyone can play football, and our kids play it all the time. When they play, and give the game their full concentration, they are in "the zone", which is the optimal place for them to learn. School sports activities also encourage and support football.  
 
 Football offers good social rewards and helps to build communities. Local clubs provide a great support system in the way they find, select, and nurture talent.  
