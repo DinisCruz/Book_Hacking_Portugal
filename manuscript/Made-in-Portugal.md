@@ -22,7 +22,7 @@ Portuguese researchers are highly innovative. They are following this great hist
 
 ### Code "Made in Portugal" brand
 
-Code that is "Made in Portugal" is the key for the Portuguese economy, and Europe's sustainability. It will have a huge influence, and it will be essential to create supply chains of quality and talent.
+Code that is "Made in Portugal" is the key for the Portuguese economy, and for Europe's sustainability. It will have a huge influence, and it will be essential to create supply chains of quality and talent.
 
 Good software development teams (from developers to management) are one of the most important assets of a company and country. They are the ones who add value. They create reality, and ultimately, they control your lives.
 
