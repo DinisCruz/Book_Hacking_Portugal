@@ -15,7 +15,7 @@ Portugal has sovereignty over its network, and can pass laws to protect it.
 
 I want bots that scan the Portuguese internet to attack, and destroy (in a nice way), insecure code and apps.
 
-We need child-services for code, with site visits to software developers and other companies to help them improve how they handle their IT infrastructure.
+We need child-services for code, with home visits to software developers and other companies to help them improve how they handle their IT infrastructure.
 
 This is not about making everyone in Portugal into highly technical computer experts.
 

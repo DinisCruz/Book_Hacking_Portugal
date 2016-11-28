@@ -41,7 +41,7 @@ If you don't believe that Portugal is insecure, then prove me wrong in your answ
 * How many threat models are created per week?
 * How many lines of code are reviewed for security per week (aka 'security eyeballs')? (Bear in mind that secure code reviews are very different from normal code reviews).
 
-The current Portuguese security model is based on 'Security Fairies' magic pixie dust'. However, the good news is that we have lots of great InfoSec and AppSec talent in Portugal.         
+The current Portuguese security model is based on _"Security Fairies' magic pixie dust"_. However, the good news is that we have lots of great InfoSec and AppSec talent in Portugal.         
 
 
 ### The financial markets hack
