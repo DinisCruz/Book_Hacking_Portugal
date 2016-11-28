@@ -18,7 +18,7 @@ Git is also a key part of this, since Git enables effective collaboration, allow
 
 FOSS (Free and Open Source) programs are a good model to use, as they allow users to share and collaborate programs. They can empower users, and could potentially create thousands of Portugal-based FOSS companies.
 
-Portugal should embrace organizations like OWASP, which has done two summits in Portugal (Add pics and logos).
+Portugal should embrace organizations like OWASP, which has done two summits in Portugal.
 
 The positive values of Open Sourcing include the following:
 
@@ -31,7 +31,7 @@ Of course, using Open Source code doesn't mean that it will be perfect.
 
 ### Open Source is expensive
 
-We need companies to sell Open Source code. (point to many examples where this happens today (ELK, ...)
+We need companies to sell Open Source code.
 
 Open Source software is not free. Any code has a cost and a side effect. Using Open Source code doesn't mean that you don't pay for it, it means that you pay in a different way to a direct financial transaction.
 
@@ -66,9 +66,9 @@ The return on investment to the Portuguese economy would be much greater than th
 
 My core belief is that openness and visibility will eventually create a model/environment where the _'right thing'_ tends to happen, since it is not sustainable (or acceptable) to do the '_wrong thing'_ (which, without visibility is usually not exposed or contested). See the first couple of minutes of the [Git and Democracy presentation](http://diniscruz.blogspot.co.uk/2012/10/a-must-watch-ted-talk-about-git-and.html) for a powerful example of this _'popular/viral awareness'_ in action.
 
-When I look at my country (Portugal, and now the UK), or my industry (WebAppSec), I see countless examples of scenarios where, if information was disclosed and presented in a consumable way, much of what happens would not be tolerated.
+When I look at my country (Portugal, and now the UK), or my industry (AppSec), I see countless examples of scenarios where, if information was disclosed and presented in a consumable way, much of what happens would not be tolerated.
 
-For example, we in the WebAppSec industry know how bad software and applications that are created every day can be. Both we, and the customers, have accepted that vulnerabilities are part of creating software, and that the best we can do is to improve the SDL, and reduce risk.
+For example, we in the AppSec industry know how bad software and applications that are created every day can be. Both we, and the customers, have accepted that vulnerabilities are part of creating software, and that the best we can do is to improve the SDL, and reduce risk.
 
 If the real scale of the problem was known, would we, either as a society, or an industry, accept it? Would we accept that large parts of our society are built on top of applications whose workings very few people understand?
 
@@ -84,11 +84,11 @@ This is what they call the _Next Level Doctor Social Graph_ , and when I read it
 
 Here is the same text with some minor changes (in bold) on what the  **The next level App Security Social Graph** could be:
 
-_"It is very difficult to fairly evaluate the quality of **_software/application security** in this country. Our **_regulators_** only go after the most outrageous **incidents/data-breaches**. The **product/services** websites are generally popularity contests. _**_Applications_**_ with good _**_marketing do_**_ well. _**_Applications_**_ without strong _**_presentation_**_ skills can do poorly, even if they are _**_secure applications_**_. It is difficult to evaluate _**_security_**_ fairly. Using this data set, it should be possible to build software that evaluates _**_application security_**_ by viewing __**_..... (to be defined)_**__"_  
+_"It is very difficult to fairly evaluate the quality of **software/application security** in this country. Our **_regulators_** only go after the most outrageous **incidents/data-breaches**. The **product/services** websites are generally popularity contests. _**_Applications_**_ with good _**_marketing do_**_ well. _**_Applications_**_ without strong _**_presentation_**_ skills can do poorly, even if they are _**_secure applications_**_. It is difficult to evaluate _**_security_**_ fairly. Using this data set, it should be possible to build software that evaluates _**_application security_**_ by viewing __**_..... (to be defined)_**__"_  
 
 It would be great if the current debate was on what is _..... (to be defined)_ , ideally with several active experiments figuring out the best metrics, but we are still a long way from that stage of development.
 
-Meanwhile, another **_8763_** vulnerabilities (change this value to a quantity you think is right) have just been created since you started reading this post. These 'freshly baked' vulnerabilities are now in some code repository and will be coming soon to an app that you use. Your best defence is to hope that you are not caught by its side-effects.
+Meanwhile, another **_8763_** vulnerabilities (change this value to a quantity you think is right) have just been created since you started reading this chapter. These 'freshly baked' vulnerabilities are now in some code repository and will be coming soon to an app that you use. Your best defence is to hope that you are not caught by its side-effects.
 
 ### Cathedral's eyeballs
 
@@ -100,7 +100,7 @@ This could be Portugal's contribution to the world: 'AppSec eyeballs' and 'fix O
 
 It is essential that a company or country has core contributors (i.e. strong relationships) with strategic Open Source projects. This is not only essential to retain talent, it should also be done from self-interest.
 
-**Principle of Public Access in Sweden**
+### Principle of Public Access in Sweden
 
 https://en.wikipedia.org/wiki/Freedom_of_information_laws_by_country#Sweden
 

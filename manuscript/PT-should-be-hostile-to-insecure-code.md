@@ -6,16 +6,19 @@ type: content
 
 ## Portugal should be hostile to insecure code
 
-Here is an interesting vision: _**"Make Portugal's internet a hostile place to create, publish, and host insecure applications and
+Here is the key concept of this book:
+
+_**"Make Portugal's internet a hostile place to create, publish, and host insecure applications and
 IoT appliances"**_
 
 I want the Portuguese internet to be safe. To achieve this, we will need strong Collaborative Commons and community support.
 We will also need strong enforcement, regulation, and market pressure to make this happen.
-Portugal has sovereignty over its network, and can pass laws to protect it.
 
-I want bots that scan the Portuguese internet to attack, and destroy (in a nice way), insecure code and apps.
+**Portugal has sovereignty over its network, and can pass laws to protect it.**
 
-We need child-services for code, with home visits to software developers and other companies to help them improve how they handle their IT infrastructure.
+I want bots that scan the Portuguese internet to attack, and destroy (in a nice way), insecure code and insecure applications running inside its cyber space.
+
+We need health-services for code, with home visits to software developers and other companies to help them improve how they handle their IT infrastructure.
 
 This is not about making everyone in Portugal into highly technical computer experts.
 

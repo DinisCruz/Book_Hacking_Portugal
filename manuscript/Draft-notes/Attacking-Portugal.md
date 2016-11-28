@@ -21,7 +21,7 @@ Attackers-ROI.md
     * Internet Security Exposure 2016 (Oct 2016) https://blog.binaryedge.io/2016/10/07/internet-security-exposure-2016/
       * this is just the network side of things, AppSec is always much worse
     * Security of a Country: Portugal (Mar 2016) http://blog.binaryedge.io/2016/03/31/security-of-a-country-portugal/
-  * what about with $100K investment (add pic with price of zero-days)
+  * what about with $100K investment 
     * money used to zero-days
     * money used to buy compromised machines inside .pt networks
     * money used to buy botnets to be used to attack .pt companies    

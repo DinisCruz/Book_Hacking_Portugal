@@ -33,4 +33,3 @@ Actions-and-recommendations.md
 Why-Portugal.md
 
 {backmatter}
-External-images.md

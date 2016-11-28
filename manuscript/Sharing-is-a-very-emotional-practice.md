@@ -26,7 +26,7 @@ Ultimately, what we want is a situation where the sharing of information is prom
 
 A license gives you the ability to do something, so you don't have to ask permission and that is the key. That is why collaboration happens a lot more even within a company when you have open licenses.
 
-### Creating a sharing culture
+### Creating a sharing culture by embracing Creative Commons
 
 Sharing is difficult, but I believe that Portugal, and other countries, should adopt an open-source culture. They should adopt Creative Commons as a core, strategic value that promotes sharing, and sets an agenda where the default approach is to share and collaborate. If you don't share, the quality of your work will be adversely effected.
 

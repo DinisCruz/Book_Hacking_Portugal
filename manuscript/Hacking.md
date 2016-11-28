@@ -10,7 +10,7 @@ type: content
 
 It is important to state that hackers are the good guys.
 
-'Hack' is to solve problems, to find innovative solutions in a creative way.
+To 'Hack' is to solve problems, to find innovative solutions in a creative way.
 
 The press abuses the term 'hacker'. Instead, they should qualify the word by saying 'Malicious Hackers' or 'Cyber Attackers' or 'Cyber Criminals'.
 

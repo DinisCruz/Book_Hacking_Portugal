@@ -32,7 +32,7 @@ Portugal is a great place to organize global conferences (Web Summit 2016, OWASP
 
 ### Tesla in Portugal
 
-A major objective for Portugal is to be so attractive to companies that they locate in Portugal. The Portuguese government and its agencies should aim to attract Tesla to have factories and R&D facilities in Portugal. This shouldn't be negotiated as a 'favor' or via 'soft bribes'. It should happen because Portugal has the people, processes, and technology to fulfill Tesla’s vision.
+A major objective for Portugal is to be so attractive to companies that they locate in Portugal. The Portuguese government and its agencies should aim to attract Tesla to have factories and R&D facilities in Portugal. This shouldn't be negotiated as a 'favour' or via 'soft bribes'. It should happen because Portugal has the people, processes, and technology to fulfil Tesla's vision.
 
 There are great synergies between Tesla's 'SolarCity' and the current investment and capabilities of solar power in Portugal, which is a great success story, as Portugal is already producing quite a lot of its electricity using alternative energies.
 

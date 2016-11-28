@@ -78,5 +78,3 @@ If you aren't thinking in this way, you are already legacy (in terms of code), b
 ### Real time unit test execution and Code Coverage
 
 If you code in JavaScript and are not using Wallaby JS, you are living in the Dark Ages, and you will not be able to code in TDD.
-
-(add 3 OWASP images from presentation & reference them).

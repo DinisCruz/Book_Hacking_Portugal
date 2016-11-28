@@ -9,15 +9,7 @@ type: content
 
 It is easier to implement these ideas in a smaller country, which is more likely to have fewer agendas and fewer lobby groups wielding influence. We already have the power to make these changes. Being able to make them is an important aspect of Portugal's sovereignty and independence.
 
-At this very moment, we are three degrees of separation from the people who can make this happen.
-
 Of course, you can replace Portugal with any other country in the world, especially any European country. But I am Portuguese, so I have a soft spot for Portugal, and I know that Portugal has exceptional talent, exceptional AppSec people who could make this happen. What we need is focus and determination.
-
-### Raise the bar of the discussion
-
-We live in an era where ideas are not debated, experts are ignored, science is not respected, and lies are accepted. This is very dangerous for us, for our children and for Portugal. Eleanor Roosevelt is credited with saying "Great minds discuss ideas; average minds discuss events; small minds discuss people" ( http://quoteinvestigator.com/2014/11/18/great-minds). I want to discuss and act on ideas, not events or people. We need a better, more informed, more knowledgeable, and more empowered media, to keep the system accountable.
-
-### Portugal has ...
 
 The following aspects of Portuguese life, culture, history, education, and economic environment make it an ideal location to implement these ideas:
 
@@ -28,6 +20,10 @@ The following aspects of Portuguese life, culture, history, education, and econo
 * good problem solving ability
 
 Portugal has hit rock-bottom with multiple financial crises and a European bailout. The only way is up. Portugal has learned the hard way what it feels like to be the junior player (i.e. The financial markets' speculation on PT's economy helped to create the situation that lead to the EU bailouts).
+
+### Raise the bar of the discussion
+
+We live in an era where ideas are not debated, experts are ignored, science is not respected, and lies are accepted. This is very dangerous for us, for our children and for Portugal. Eleanor Roosevelt is credited with saying "Great minds discuss ideas; average minds discuss events; small minds discuss people" ( http://quoteinvestigator.com/2014/11/18/great-minds). I want to discuss and act on ideas, not events or people. We need a better, more informed, more knowledgeable, and more empowered media, to keep the system accountable.
 
 ### Big questions
 
@@ -75,13 +71,14 @@ Amazon is a great model for Portugal (Shopping, AWS, logistics). How many senior
 
 ### What is the future of Portugal?
 
-What is the future of Portugal? Is it to be a garden for Europe, a holiday destination? A small pawn in the global forces that control the world?
+Is it to be a garden for Europe, a holiday destination? A small pawn in the global forces that control the world?
 
 Or could Portugal work together with the CPLP (Community of Portuguese Speaking Countries) in a united partnership that provides significant opportunities? Portugal could become a Powerhouse of Technology that inspires and leads the world in secure coding
 
-Could Portugal become the [next tech capital](https://www.theguardian.com/world/2016/oct/29/lisbon-web-summit-sun-surf-cheap-rents-tech-capital) of _'sun, surf and low rents'?_
-
 ### Sail the Code
 
-Let's use code to create a generation with a strong work ethic and values. Let's create a new reality for Portugal.
+Let's use code to create a generation with a strong work ethic and values.
+
+Let's create a new reality for Portugal.
+
 In the same way that Portuguese navigators once looked at the unknown sea and conquered it, our new digital navigators must do the same with code.

@@ -5,9 +5,9 @@ type: draft
 ---
 
 
-## External Images
+## Images used in presentation
 
-**todo: (map to chapters vs slides)**
+http://blog.diniscruz.com/2016/11/presentation-hacking-portugal-and.html
 
 Slide 1:
 

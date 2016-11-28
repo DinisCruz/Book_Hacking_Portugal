@@ -12,15 +12,15 @@ Portugal today is a very digital country, and most Portuguese companies are soft
 
 The question is, how secure are they? How safe are they? By 'secure', I mean how well can they sustain an attack? How well can they detect and react to a possible attack on their digital infrastructure? What is the probability of an attack happening in the short term?
 
-### Are we safe?
+### Our security model is based on lack of attackers
+
+Portugal is safe because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
 
 The bottom line is that the current 'secure state' of Portugal's government, companies, & people, where the likelihood of an attack happening is low, depends on the following assumptions:
 
 * A low number of attackers
 * A low level of skill among existing attackers
 * The existing attackers' unsophisticated business model
-
-Portugal is safe is because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
 
 So, although these are contradictory concepts, my thesis is that Portugal is both highly insecure, and, for the moment, quite safe.
 
@@ -30,9 +30,9 @@ Portuguese government agencies and companies say they **are secure**. This is no
 
 There are no silver bullets or easy solutions, and anyone who says so is a snake-oil merchant.
 
-The ideas in this presentation are about making Portugal a player, rather than being played, and giving Portugal a chance to defend itself, and improve Portuguese society. The worst aspect of our status is that we are not prepared for what is coming next, in terms of AppSec.  
+The ideas in this book are about making Portugal a player, rather than being played, and giving Portugal a chance to defend itself, and improve Portuguese society. The worst aspect of our status is that we are not prepared for what is coming next, in terms of cyber crime and Application Security.  
 
-Our response to terrorist incidents in the past shows how badly we respond as a society to security incidents for which we are not prepared.
+Our response to terrorist incidents in the past shows how badly we can respond as a society to security incidents for which we are not prepared.
 
 ### Think I'm wrong?
 
@@ -80,7 +80,7 @@ Why does Portugal need an offensive air force? I understand the need to have a c
 The way you fight an airborne battle in the 21st century is by hacking into the offensive planes/drones via their communication channels. The novel [Ghost Fleet](https://www.amazon.co.uk/Ghost-Fleet-Novel-Next-World/dp/0544142845) (Singer & Cole, 2015) imagines the next, virtual, world war.
 
 
-The military budget for Portugal in 2014 was just over €2.1 billion (https://en.wikipedia.org/wiki/Portuguese_Armed_Forces). I would argue that the government should allocate 10% of the current military budget to fund investment in cyber/app security, and the huge skills shortage in this area.
+The military budget for Portugal in 2014 was just over [2.1 Billion Euros](https://en.wikipedia.org/wiki/Portuguese_Armed_Forces). I would argue that the government should allocate 10% of the current military budget to fund investment in cyber/app security, and the huge skills shortage in this area.
 
 ### Hit by the crossfire
 

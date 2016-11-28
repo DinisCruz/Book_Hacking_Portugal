@@ -153,16 +153,16 @@ The EU, and other global organizations and companies, should choose to invest in
 
 They should invest and participate here because it is in their best interests, and it is where they will get the best return on investment.  They shouldn't benefit because of some back-room deal that gave them a special tax break or some other financial inducement, which is a kind of soft corruption. The only benefits they should get are the benefits that are available to any company based in Portugal:
 
- * talent (people, students)
- * infrastructure (networks, roads, data centers)
- * logistics (the PT version of Amazon, provided as a service to the country)
+* talent (people, students)
+* infrastructure (networks, roads, data centers)
+* logistics (the PT version of Amazon, provided as a service to the country)
 
 This kind of collaboration and investment is what the EU should be all about:  
 
- * a Collaborative Commons
- * a global village
- * shared care and respect for each other (and their contributions)
- * wisdom of the crowd
+* a Collaborative Commons
+* a global village
+* shared care and respect for each other (and their contributions)
+* wisdom of the crowd
 
 ### New currencies for Southern Europe
 
