@@ -14,10 +14,6 @@ The press abuses the term 'hacker'. Instead, they should qualify the word by say
 
 The internet and most of the technology we use today was dreamed of, and created by, hackers.
 
-_"If the attacker tells you about the attack, they are your friends"_. The real attackers (namely criminals and nation states) will not tell you about the attack since it is against their own interests to do so. Once you know about the attack, you will find a way to protect and fix the relevant vulnerability.
-
-The positive side effects of any public attack (data dumps, site defacing, DDoS) are bigger budgets, board-level attention and demands for security, an increase in AppSec staff hires, and more collaboration between companies who work on the defense side of things.
-
 ### Hackers' values
 
 The software, InfoSec and hacking community has a strong ethical foundation, based on the following qualities:
