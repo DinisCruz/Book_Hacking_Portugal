@@ -20,9 +20,7 @@ The Age of Sustainability is upon us, and Portugal should be at its center.
 
 Portugal has one of the best football teams in the world.
 
-![](http://www.uefa.com/MultimediaFiles/Photo/competitions/Comp_Matches/02/39/05/97/2390597_w2.jpg)
-
-PT is currently 8th in the [Fifa world ranking](http://www.fifa.com/fifa-world-ranking/associations/association=por/men/index.html)
+Portugal is currently 8th in the [Fifa world ranking](http://www.fifa.com/fifa-world-ranking/associations/association=por/men/index.html)
 
 Just as in football, Portugal needs to be one of the best in the world in Coding and Cyber/App Security.
 

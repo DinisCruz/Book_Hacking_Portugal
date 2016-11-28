@@ -46,10 +46,11 @@ We have a lot of evidence that demonstrates that the more we know about security
 ### OpenSource.pt
 
 To increase transparency, the government should ensure the following policies are adopted:
- * all code written and paid for by Government agencies to be released under an Open Source license (by 2020)
- * all Government-created documents to be released under Creative Commons
- * all Portuguese companies to publish their code under Open Source license, and technical documentation under Creative Commons
- * pay for Open Source software (in license and per usage)
+
+* all code written and paid for by Government agencies to be released under an Open Source license (by 2020)
+* all Government-created documents to be released under Creative Commons
+* all Portuguese companies to publish their code under Open Source license, and technical documentation under Creative Commons
+* pay for Open Source software (in license and per usage)
 
 The financial model that would allow implementation of these ideas needs careful consideration. The key is that the developers of whatever Open Source code is used, should have a revenue stream equivalent to that use, so that they can spend more time working on that software, and hire more developers to work on it.
 

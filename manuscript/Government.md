@@ -30,10 +30,11 @@ Software is made of code.  Code is law and grows in importance all the time. Cod
 
 ### Who controls the world?
 The world is dominated by entities and companies who control the following areas:
-  * finance
-  * technology
-  * networks (made of technology)
-  * intellectual property
+
+* finance
+* technology
+* networks (made of technology)
+* intellectual property
 
 Unfortunately for Portugal, its strength does not lie in these areas, so Portugal must challenge the rules of the game, and work to align them with its strategy and sovereign interests if it wants to become a player.
 
@@ -96,7 +97,6 @@ ASAE (Autoridade de Segurança Alimentar e Económica)
 Authority for Economic and Food Security
 
 See [Software Facts](http://www.slideshare.net/DinisCruz/2010-11-owaspsoftwarelabels)
-![](https://www.owasp.org/images/thumb/c/ca/Softwarefacts.jpg/300px-Softwarefacts.jpg)
 
 ### When regulation loses the plot
 
@@ -120,7 +120,7 @@ Many companies will decide to insure insecure code, and teams that create insecu
 
 Of course, Portugese companies should be leaders in Software Insurance.
 
-### Solution is not to buy technology
+### Solution is not to buy 'security'
 
 Most Security vendors have inadequate security, and they sell insecure apps, which can have a negative security impact on the purchasing company's entire ecosystem. The solution is to push Open Source code with a secure ecosystem around it.
 
@@ -152,11 +152,13 @@ Portugal should not have to 'beg' the EU for funds to support these ideas.
 The EU, and other global organizations and companies, should choose to invest in Portugal because they want to benefit from the perfect storm of talent, energy, regulation, focus and activities that will exist here.
 
 They should invest and participate here because it is in their best interests, and it is where they will get the best return on investment.  They shouldn't benefit because of some back-room deal that gave them a special tax break or some other financial inducement, which is a kind of soft corruption. The only benefits they should get are the benefits that are available to any company based in Portugal:
+
  * talent (people, students)
  * infrastructure (networks, roads, data centers)
  * logistics (the PT version of Amazon, provided as a service to the country)
 
 This kind of collaboration and investment is what the EU should be all about:  
+
  * a Collaborative Commons
  * a global village
  * shared care and respect for each other (and their contributions)

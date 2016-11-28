@@ -37,18 +37,19 @@ We need to achieve a workable compromise and make sure we take the best course o
 
 I don't claim that all my ideas are good, that they will work or are even all realistic, especially in the current political and economic ecosystem, but I know that big changes occur when we head in the right direction and can experiment, adapt, refactor and improve.
 
-### What is Portugal best at?
-[Here](http://www.businessinsider.com/what-countries-are-best-at-2014-1?IR=T) is a "Funny world map that shows what every country leads the world in (2014)"
+### Best in 'graduating high school'?
 
-![](http://static5.businessinsider.com/image/52cfe22169beddbe3c6aed5a-1200-600/map-119.jpg)
+[What is Portugal best at](http://www.businessinsider.com/what-countries-are-best-at-2014-1?IR=T) is a world map that shows what every country leads the world in (2014).
 
 According to this map, Portugal has the best rate for 'graduating high school'. We can do better than that. We should be world leaders in software, craftsmanship, cyber security, secure coding, DevOps, and food, and we should expand the market of those products. Portugal should not compete on cheap labor, but on the following resources:
-      * advanced technology
-      * people
-      * skills
-      * infrastructure
-      * ability to deliver
-      * not the 'sweat-house', but the 'power-house'
+
+* advanced technology
+* people
+* skills
+* infrastructure
+* ability to deliver
+
+Not the 'sweat-house', but the 'power-house'
 
 ### Our turn to fight
 

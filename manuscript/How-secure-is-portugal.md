@@ -15,9 +15,10 @@ The question is, how secure are they? How safe are they? By 'secure', I mean how
 ### Are we safe?
 
 The bottom line is that the current 'secure state' of Portugal's government, companies, & people, where the likelihood of an attack happening is low, depends on the following assumptions:
- * A low number of attackers
- * A low level of skill among existing attackers
- * The existing attackers' unsophisticated business model
+
+* A low number of attackers
+* A low level of skill among existing attackers
+* The existing attackers' unsophisticated business model
 
 Portugal is safe is because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
 

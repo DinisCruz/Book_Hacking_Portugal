@@ -9,6 +9,7 @@ type: content
 ### Skills
 
 Coding & IT skills are critical for large number of industries, including the following:
+
 * cars
 * research
 * medicine
@@ -24,9 +25,10 @@ Nonetheless, the effective use of Version Control increases productivity and col
 ### Education
 
 Businesses should work with Universities to teach the following skills:
-  * App and Network Testing (unit, integration, end-to-end)
-  * How to hack into networks and applications (using vulnerable-by-design apps and companies/countries with public bug-bounties)
-  * Modern Languages and Frameworks (coding in at least ten languages is an excellent advantage to have)
+
+* App and Network Testing (unit, integration, end-to-end)
+* How to hack into networks and applications (using vulnerable-by-design apps and companies/countries with public bug-bounties)
+* Modern Languages and Frameworks (coding in at least ten languages is an excellent advantage to have)
 
 ### University course
 
