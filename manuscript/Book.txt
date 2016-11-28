@@ -20,13 +20,12 @@ Hack-like-football.md
 Hacking.md
 Open-Source.md
 Privacy.md
-Sharing-is-a-very-emotional-practice.md
-
 
 Government.md
 Investment-in-Infrastructure.md
 Economics.md
 Education.md
+Sharing-is-a-very-emotional-practice.md
 
 Actions-and-recommendations.md
 Why-Portugal.md
