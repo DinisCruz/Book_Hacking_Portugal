@@ -9,13 +9,14 @@ Contents.md
 
 PT-should-be-hostile-to-insecure-code.md
 Portuguese-hacking-service.md
-Public-health-analogy.md
 Made-in-Portugal.md
 
 Past-innovations.md
 
 How-secure-is-portugal.md
+Public-health-analogy.md
 Sane-defense-model.md
+
 
 Hack-like-football.md
 Hacking.md

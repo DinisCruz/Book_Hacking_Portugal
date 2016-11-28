@@ -21,11 +21,10 @@ The solution is not to ban these kinds of companies or business methods; the sol
 We must always ask, "Who guards the guardians?".
 
 
-**PT Emigrants**  
+### Portuguese Emigrants
 
-  * Use Software to create distribution networks to send PT Products to PT emigrants
-    * Oranges from Algarve
-    * 'Bom Petisco' tuna
-    * Bolachas Maria
+We should use software to create distribution networks to send PT Products to PT emigrants
 
-[related file: investment-in-Infrastructure.md -elaborates on this idea]
+* Oranges from Algarve
+* 'Bom Petisco' tuna
+* Bolachas Maria

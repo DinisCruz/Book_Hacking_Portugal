@@ -21,11 +21,11 @@ We live in an era where ideas are not debated, experts are ignored, science is n
 
 The following aspects of Portuguese life, culture, history, education, and economic environment make it an ideal location to implement these ideas:
 
-  * good pool of InfoSec and AppSec talent
-  * a supply of engineers
-  * strong sense of ethics and community
-  * good engineering and math education
-  * good problem solving ability
+* good pool of InfoSec and AppSec talent
+* a supply of engineers
+* strong sense of ethics and community
+* good engineering and math education
+* good problem solving ability
 
 Portugal has hit rock-bottom with multiple financial crises and a European bailout. The only way is up. Portugal has learned the hard way what it feels like to be the junior player (i.e. The financial markets' speculation on PT's economy helped to create the situation that lead to the EU bailouts).
 
