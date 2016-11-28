@@ -15,9 +15,9 @@ The question is, how secure are they? How safe are they? By 'secure', I mean how
 ### Are we safe?
 
 The bottom line is that the current 'secure state' of Portugal's government, companies, & people, where the likelihood of an attack happening is low, depends on the following assumptions:
-    * A low number of attackers
-    * A low level of skill among existing attackers
-    * The existing attackers' unsophisticated business model
+ * A low number of attackers
+ * A low level of skill among existing attackers
+ * The existing attackers' unsophisticated business model
 
 Portugal is safe is because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
 
@@ -41,18 +41,8 @@ If you don't believe that Portugal is insecure, then prove me wrong in your answ
 * How many threat models are created per week?
 * How many lines of code are reviewed for security per week (aka 'security eyeballs')? (Bear in mind that secure code reviews are very different from normal code reviews).
 
-The current Portuguese security model is based on 'Security Fairies magic pixie dust'. However, the good news is that we have lots of great InfoSec and AppSec talent in Portugal.         
+The current Portuguese security model is based on 'Security Fairies' magic pixie dust'. However, the good news is that we have lots of great InfoSec and AppSec talent in Portugal.         
 
-
-* How to hack Portugal
-    * Past PT attacks https://github.com/DinisCruz/keynote-bsideslisbon/issues/1
-    * Internet Security Exposure 2016 (Oct 2016) https://blog.binaryedge.io/2016/10/07/internet-security-exposure-2016/
-      * this is just the network side of things, AppSec is always much worse
-    * Security of a Country: Portugal (Mar 2016) http://blog.binaryedge.io/2016/03/31/security-of-a-country-portugal/
-  * what about with $100K investment (add pic with price of zero-days)
-    * money used to zero-days
-    * money used to buy compromised machines inside .pt networks
-    * money used to buy botnets to be used to attack .pt companies    
 
 ### The financial markets hack
 
