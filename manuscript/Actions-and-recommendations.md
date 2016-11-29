@@ -14,7 +14,6 @@ Here is a summary of all the actions and recommendations mentioned and discussed
 * Release all code written and paid for by Government agencies under an Open Source license (by 2020)
 * Release all Government-created documents under Creative Commons
 * All Portuguese companies to publish their code under Open Source license, and publish technical documentation under Creative Commons
-
 * Create Portuguese clones of successful apps, services, and products (all based on Open Source technology)
 * Hire devs/companies to work on FOSS projects (add ref to 'Open Source is not Free' chapter in book)
 * Legalize hacking (of everything inside the Portuguese network)
