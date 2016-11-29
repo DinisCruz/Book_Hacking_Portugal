@@ -19,7 +19,7 @@ The following aspects of Portuguese life, culture, history, education, and econo
 * good engineering and math education
 * good problem solving ability
 
-Portugal has hit rock-bottom with multiple financial crises and a European bailout. The only way is up. Portugal has learned the hard way what it feels like to be the junior player (i.e. The financial markets' speculation on PT's economy helped to create the situation that lead to the EU bailouts).
+Portugal has hit rock-bottom with multiple financial crises and a European bailout. The only way is up. Portugal has learned the hard way what it feels like to be the junior player (i.e. The financial markets' speculation on Portugal's economy helped to create the situation that lead to the EU bailouts).
 
 ### Raise the bar of the discussion
 
