@@ -140,7 +140,7 @@ The market, through the power of big customers, can make a difference by 'nudgin
 The Portuguese government should, at the very least, consider the following policies:
 * Adopt Git for all official documentation
 * Teach users (i.e. government employees) the paradigm of version control
-* Develop a PT version of Docker and Git
+* Develop a Portuguese version of Docker and Git
  Where is the Portuguese Raspberry PI (which has sold more than [10 million](http://www.bbc.co.uk/news/technology-37305200))?
 
 ### European Union
@@ -155,7 +155,7 @@ They should invest and participate here because it is in their best interests, a
 
 * talent (people, students)
 * infrastructure (networks, roads, data centers)
-* logistics (the PT version of Amazon, provided as a service to the country)
+* logistics (the Portuguese version of Amazon, provided as a service to the country)
 
 This kind of collaboration and investment is what the EU should be all about:  
 
