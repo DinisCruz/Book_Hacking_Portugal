@@ -23,11 +23,11 @@ Portugal has hit rock-bottom with multiple financial crises and a European bailo
 
 ### Raise the bar of the discussion
 
-We live in an era where ideas are not debated, experts are ignored, science is not respected, and lies are accepted. This is very dangerous for us, for our children and for Portugal. Eleanor Roosevelt is credited with saying "Great minds discuss ideas; average minds discuss events; small minds discuss people" ( http://quoteinvestigator.com/2014/11/18/great-minds). I want to discuss and act on ideas, not events or people. We need a better, more informed, more knowledgeable, and more empowered media, to keep the system accountable.
+We live in an era where ideas are not debated, experts are ignored, science is not respected, and lies are accepted. This is very dangerous for us, for our children and for Portugal. [Eleanor Roosevelt](http://quoteinvestigator.com/2014/11/18/great-minds) is credited with saying "Great minds discuss ideas; average minds discuss events; small minds discuss people". I want to discuss and act on ideas, not events or people. We need a better, more informed, more knowledgeable, and more empowered media, to keep the system accountable.
 
 ### Big questions
 
-We are currently faced with big questions and changes on privacy, liberty, humanity, freedom, work, all of which are centered on technology and secure code, and these questions need to be discussed, understood and addressed. There are no perfect solutions.
+We are currently faced with big questions and changes on privacy, liberty, humanity, freedom, work, all of which are centred on technology and secure code, and these questions need to be discussed, understood and addressed. There are no perfect solutions.
 
 We need to achieve a workable compromise and make sure we take the best course of action.
 

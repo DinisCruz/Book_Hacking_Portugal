@@ -62,16 +62,13 @@ The positive side effects of any public attack (data dumps, site defacing, DDoS)
 
 ### Military
 
-It is probably fair to say that Portuguese cyber and code defenses are as good as Portugal's current military status.
-* https://en.wikipedia.org/wiki/Portuguese_Armed_Forces
-* https://en.wikipedia.org/wiki/Portuguese_Air_Force
+It is probably fair to say that Portuguese cyber and code defences are as good as Portugal's current military status (see [Portuguese Armed Forces](https://en.wikipedia.org/wiki/Portuguese_Armed_Forces) and [Portuguese Air Force](https://en.wikipedia.org/wiki/Portuguese_Air_Force)).
 
 The problem is that the cyber attackers who will hit Portugal are as sophisticated as the best soldiers, and armies.
 
 Imagine the Portuguese army against the UK, France or Russia, not to mention the US or China.
 
-Note how even the best companies and security agencies in the world are not able to detect and mitigate most attacks, as evidenced by recent DDoS attacks and zero-days exploits. The following video gives a humorous idea of what a DDoS attack feels like.
-         https://twitter.com/macbroadcast/status/791837377186725888
+Note how even the best companies and security agencies in the world are not able to detect and mitigate most attacks, as evidenced by recent DDoS attacks and zero-days exploits. The following video gives a humorous idea of what a [DDoS attack feels like](https://twitter.com/macbroadcast/status/791837377186725888)
 
 ### Why do we have F16s?
 

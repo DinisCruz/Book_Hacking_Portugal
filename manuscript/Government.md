@@ -108,7 +108,7 @@ As cyber security gets worse, if we don't have good, positive alternatives, an A
 
 ### Portugal-wide bug bounty
 
-A Portuguese Software Testing Institute could also include bug-bounties as a core activity. Today, there are bug bounties everywhere, and they are a sign of good InfoAppSec. Even the Pentagon has a bug-bounty program, and recently announced a further "Hack the Pentagon" bug-bounty initiative (http://www.defense.gov/News/Article/Article/981160/dod-announces-hack-the-pentagon-follow-up-initiative). Where are the Portuguese bug-bounties? They should be a core activity of both business and government, and they should receive appropriate investment. Crowdsourcing solutions could also be used. Portuguese bug-bounties would sit perfectly in our Software Testing Institute.
+A Portuguese Software Testing Institute could also include bug-bounties as a core activity. Today, there are bug bounties everywhere, and they are a sign of good InfoAppSec. Even the Pentagon has a bug-bounty program, and recently announced a further ["Hack the Pentagon" bug-bounty initiative](http://www.defense.gov/News/Article/Article/981160/dod-announces-hack-the-pentagon-follow-up-initiative). Where are the Portuguese bug-bounties? They should be a core activity of both business and government, and they should receive appropriate investment. Crowdsourcing solutions could also be used. Portuguese bug-bounties would sit perfectly in our Software Testing Institute.
 
 These institutions will lead the creation of standards and metrics for the insurance industry.
 
