@@ -36,7 +36,7 @@ The world is dominated by entities and companies who control the following areas
 * networks (made of technology)
 * intellectual property
 
-Unfortunately for Portugal, its strength does not lie in these areas, so Portugal must challenge the rules of the game, and work to align them with its strategy and sovereign interests if it wants to become a player.
+Unfortunately for Portugal, its strength does not lie in these areas, so Portugal must challenge the rules of the game, and work to align them with its strategy, and sovereign interests, if it wants to become a player.
 
 Moving to Open Source values and activities, and embracing secure coding and hacking will change how this game is played.
 
@@ -51,11 +51,11 @@ All ideas presented should NOT be implemented as a Big Policy or a Big Vision! A
 
 Iterate exponentially along the following lines:
 
-  1. Start small
-  2. Deploy
-  3. Learn from deployment
-  4. Make changes
-  5. Return to step 2, and repeat
+  1. start small
+  2. deploy
+  3. learn from deployment
+  4. make changes
+  5. return to step 2, and repeat
 
 These are the solutions for SMEs, individuals, and small teams who work on the ground, understand reality, and are accountable to their local communities.
 
@@ -85,7 +85,7 @@ Good regulation, in areas like health and environment, has made major improvemen
 ### Software Testing Institute
 
 We need to measure and visualize the side effects of code, and we need to measure the 'pollution' created by insecure code and apps.
-We need a focus on Quality and Services, where we want to encourage innovation and make it easy and cheap to create (secure) code in Portugal. Portugal could adopt, and use testing to leapfrog more advanced nations.
+We need a focus on quality and services, where we want to encourage innovation and make it easy and cheap to create secure code in Portugal. Portugal could adopt, and use testing to leapfrog more advanced nations.
 
    * http://blog.diniscruz.com/2016/03/when-talking-about-application-security.html
 
@@ -118,7 +118,7 @@ The insurance industry is key to making this work. It will push for good metrics
 
 Many companies will decide to insure insecure code, and teams that create insecure code/apps. That is fine, as long as that information is disclosed. The insurance companies will increase premiums to pay via higher fines and financial losses. The benefit of this approach will be the reduction of risk. Of course, if we get it wrong, we will have quite a mess to deal with.   
 
-Of course, Portugese companies should be leaders in Software Insurance.
+Of course, Portuguese companies should be leaders in Software Insurance.
 
 ### Solution is not to buy 'security'
 
@@ -140,7 +140,7 @@ The market, through the power of big customers, can make a difference by 'nudgin
 The Portuguese government should, at the very least, consider the following policies:
 * Adopt Git for all official documentation
 * Teach users (i.e. government employees) the paradigm of version control
-* Develop a PT version of Docker and Git
+* Develop a Portuguese version of Docker and Git
  Where is the Portuguese Raspberry PI (which has sold more than [10 million](http://www.bbc.co.uk/news/technology-37305200))?
 
 ### European Union
@@ -155,7 +155,7 @@ They should invest and participate here because it is in their best interests, a
 
 * talent (people, students)
 * infrastructure (networks, roads, data centers)
-* logistics (the PT version of Amazon, provided as a service to the country)
+* logistics (the Portuguese version of Amazon, provided as a service to the country)
 
 This kind of collaboration and investment is what the EU should be all about:  
 
