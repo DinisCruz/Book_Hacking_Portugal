@@ -46,10 +46,11 @@ We have a lot of evidence that demonstrates that the more we know about security
 ### OpenSource.pt
 
 To increase transparency, the government should ensure the following policies are adopted:
- * all code written and paid for by Government agencies to be released under an Open Source license (by 2020)
- * all Government-created documents to be released under Creative Commons
- * all Portuguese companies to publish their code under Open Source license, and technical documentation under Creative Commons
- * pay for Open Source software (in license and per usage)
+
+* all code written and paid for by Government agencies to be released under an Open Source license (by 2020)
+* all Government-created documents to be released under Creative Commons
+* all Portuguese companies to publish their code under Open Source license, and technical documentation under Creative Commons
+* pay for Open Source software (in license and per usage)
 
 The financial model that would allow implementation of these ideas needs careful consideration. The key is that the developers of whatever Open Source code is used, should have a revenue stream equivalent to that use, so that they can spend more time working on that software, and hire more developers to work on it.
 
@@ -83,7 +84,7 @@ This is what they call the _Next Level Doctor Social Graph_ , and when I read it
 
 Here is the same text with some minor changes (in bold) on what the  **The next level App Security Social Graph** could be:
 
-_"It is very difficult to fairly evaluate the quality of **_software/application security** in this country. Our **_regulators_** only go after the most outrageous **incidents/data-breaches**. The **product/services** websites are generally popularity contests. _**_Applications_**_ with good _**_marketing do_**_ well. _**_Applications_**_ without strong _**_presentation_**_ skills can do poorly, even if they are _**_secure applications_**_. It is difficult to evaluate _**_security_**_ fairly. Using this data set, it should be possible to build software that evaluates _**_application security_**_ by viewing __**_..... (to be defined)_**__"_  
+_"It is very difficult to fairly evaluate the quality of **software/application security** in this country. Our **regulators** only go after the most outrageous **incidents/data-breaches**. The **product/services** websites are generally popularity contests. **Applications** with good **marketing do** well. **Applications** without strong **presentation** skills can do poorly, even if they are **secure applications**. It is difficult to evaluate **security** fairly. Using this data set, it should be possible to build software that evaluates **application security** by viewing ..... (to be defined)"_  
 
 It would be great if the current debate was on what is _..... (to be defined)_ , ideally with several active experiments figuring out the best metrics, but we are still a long way from that stage of development.
 
