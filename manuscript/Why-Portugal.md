@@ -19,7 +19,7 @@ The following aspects of Portuguese life, culture, history, education, and econo
 * good engineering and math education
 * good problem solving ability
 
-Portugal has hit rock-bottom with multiple financial crises and a European bailout. The only way is up. Portugal has learned the hard way what it feels like to be the junior player (i.e. The financial markets' speculation on PT's economy helped to create the situation that lead to the EU bailouts).
+Portugal has hit rock-bottom with multiple financial crises and a European bailout. The only way is up. Portugal has learned the hard way what it feels like to be the junior player (i.e. The financial markets' speculation on Portugal's economy helped to create the situation that lead to the EU bailouts).
 
 ### Raise the bar of the discussion
 
@@ -45,24 +45,19 @@ According to this map, Portugal has the best rate for 'graduating high school'. 
 * infrastructure
 * ability to deliver
 
-Not the 'sweat-house', but the 'power-house'
-
-### Our turn to fight
-
-Our parents fought against fascism and racism. They fought for pensions, human rights, women's rights, and rock & roll. It is our turn to realign society and shift the balance of power. This is about removing control from central organizations (governments, big companies) and giving control to individuals and collaborative commons.
-Currently, the power is in the hands of who controls the networks. It is time to change that.
+Not the 'sweat-house', but the 'power-house'.
 
 ### Protect the internet
 
 The internet is one of the biggest gifts given to humanity. Its founders made it open and free (in terms of both cost and freedom).  The success of the internet is a testament to those decisions and their values.
 
-Now, the time has come for our generation to continue in their footsteps and keep the internet open and free for the next generation.
+Now, the time has come for our generation to continue in their footsteps and keep the internet open and free for the next generation.  It is our turn to realign society and shift the balance of power. This is about removing control from central organizations (governments, big companies) and giving control to individuals and collaborative commons.
 
 ### Portugal needs to export engineers
 
 Everyone who leaves Portugal brings Portugal with them. They become an ambassador for Portugal, and they become a consumer of Portuguese products (assuming they are easy to buy from abroad). Many of them have connections with Portuguese companies, and could bring jobs back to Portugal in the future.  Everyone who leaves Portugal will learn new skills, and eventually return with those skills, experience, and references, which are, of course, a net gain for Portugal.  
 
-Portugal and Europe need diversity and indigenous activities/industry, for their futures.
+Portugal and Europe need diversity and indigenous activities and industry, to ensure their futures.
 In Europe, sometimes it seems that we have forgotten "Why XYZ was done and what was its objective".
 
 The next generation of manufacturing is going to be local (to a country, city, company, even a house). This is the Age of Sustainability.  Portugal needs to be technologically independent and sustainable.
