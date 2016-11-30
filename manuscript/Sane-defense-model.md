@@ -10,10 +10,9 @@ Our defense model should not be based on having no vulnerabilities, no insecure 
 
 Our defense model should be based on the attacker making mistakes, and our being ready to detect and mitigate their actions.
 
-Stuxnet was caught via a mistake that caused a crash in an obscure anti-virus product (see Zetter, K. (2015) *Countdown to Zero Day*, available: https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196).
+Stuxnet was caught via a mistake that caused a crash in an obscure anti-virus product (see Zetter, K. (2015) [Countdown to Zero Day](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196)).
 
-The Portuguese National Cyber Security Strategy
-(https://www.enisa.europa.eu/topics/national-cyber-security-strategies/ncss-map/portuguese-national-cyber-security-strategy/view) is a good document with good ideas and action plans, but it does not mention secure coding or addressing the root causes of the problems. We tend to confuse the symptoms with the causes.
+The [Portuguese National Cyber Security Strategy](https://www.enisa.europa.eu/topics/national-cyber-security-strategies/ncss-map/portuguese-national-cyber-security-strategy/view) is a good document with good ideas and action plans, but it does not mention secure coding or addressing the root causes of the problems. We tend to confuse the symptoms with the causes.
 
 
 ### Where is the AppSec industry?
