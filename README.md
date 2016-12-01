@@ -1,4 +1,4 @@
-### Availale on Amazon
+### Available on Amazon
 
 https://www.amazon.co.uk/Hacking-Portugal-Making-Software-Development/dp/1540743632
 
