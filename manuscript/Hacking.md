@@ -27,6 +27,8 @@ The software, InfoSec and hacking community has a strong ethical foundation, bas
 * non-discrimination
 * humanity and companionship
 
+When we had the Web Summit here in Portugal you had people from competing companies all working together to solve a common problem.  What mattered is that everyone present shared the same passion to solve the problem. That is what we must nurture, and that is what hacking offers. The hacker community spirit needs to be applied to our country.
+
 We want to inspire the next generation with these values. To do this, we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'.
 
 Our alternative benefits from the following strong qualities:
