@@ -89,7 +89,7 @@ We need a focus on quality and services, where we want to encourage innovation a
 
    * http://blog.diniscruz.com/2016/03/when-talking-about-application-security.html
 
-A Software Testing Institute would allow us to measure and capture this information. The work of such an institute should focus on testing code and apps and creating labels for them.
+A Software Testing Institute would allow us to measure and capture this information. The work of such an institute should focus on testing code and apps and creating labels for them. It could also embrace DevOps and container movements.
 
 ### ASAE for code
 
@@ -116,7 +116,7 @@ These institutions will lead the creation of standards and metrics for the insur
 
 The insurance industry is key to making this work. It will push for good metrics to measure secure coding and secure deployments (i.e. how code/apps/software are used in the real world). It will provide a way to compare companies and technologies, and this will make the market more efficient.
 
-Many companies will decide to insure insecure code, and teams that create insecure code/apps. That is fine, as long as that information is disclosed. The insurance companies will increase premiums to pay via higher fines and financial losses. The benefit of this approach will be the reduction of risk. Of course, if we get it wrong, we will have quite a mess to deal with.   
+Many companies will decide to insure insecure code, and teams that create insecure code/apps. That is fine, as long as that information is disclosed. The insurance companies will increase premiums depending on how secure a company, or an app, is. The benefit of this approach will be the reduction of risk. Of course, if we get it wrong, we will have quite a mess to deal with.   
 
 Of course, Portuguese companies should be leaders in Software Insurance.
 
