@@ -48,4 +48,7 @@ Insurance companies should support this initiative, especially for cases where s
 
 I don't want the next generation of users to fear the internet, or to allow such a fear to govern their actions.
 
-I don't want them to first experience the internet in a negative way, where one of their possessions, such as a doll, a light bulb, a website, an email account, a car, or even a door (where they are asked to pay ransomware), has been hacked.
+I don't want them to lose confidence in the internet because of repeated negative experiences, where their identity or credentials are stolen; a doll, a light bulb, a website, an email or other online account is maliciously hacked; a car or a phone malfunctions; or they experience ransomware attacks on files, doorknobs, domestic appliances, or even hospitals. 
+
+This is not science fiction, and it is only going to get worse. 
+
