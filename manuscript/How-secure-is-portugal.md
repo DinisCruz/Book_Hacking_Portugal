@@ -52,13 +52,22 @@ If you look at what happened during the financial crisis, a substantial part of 
 
 The markets pushed the Portuguese economy hard and made a lot of money by betting that Portugal was going to struggle, and would continue to struggle, in the financial markets.
 
+### Cyber crime is the problem
+
+The real danger is from criminals who use the internet and vulnerable code for financial gain. They run highly professional and well-staffed operations, they offer great customer service, and they have amazing technical skills, such as cryptography, peer-to-peer networks, PaaS, and marketplaces.  Their business models are sophisticated and are constantly improving. Of course, this all means that cyber criminals are already making millions, even billions of euros in revenue every year. 
+
+We need to make the Portuguese network hostile to this type of criminal activity. The police and hackers (i.e. civil society) have an important role to play in this campaign.
+
+
 ### Thank your attackers
 
-_"If the attacker tells you about the attack, they are your friends"_.
+_"If the attacker tells you about the attack, they are your friends"_. Although it may be painful if an attacker leaks your data, you should thank the attacker who lets you know of the attack, because they will make you improve your security. Because the criminals will not tell you. The criminal's business model is based on you not knowing that they are there. 
 
-The real attackers (namely criminals and nation states) will not tell you since it is against their own interests to do so. Once you know about the attack, you will find a way to protect and fix the relevant vulnerability.
+Once you know about the attack, you will fix it, the security team will get a much bigger budget, and you will be able to protect all these other things that have been on your list, but nobody was interested until the attack happened. After an attack, security becomes a major priority.
 
-The positive side effects of any public attack (data dumps, site defacing, DDoS) are bigger budgets, board-level attention and demands for security, an increase in AppSec staff hires, and more collaboration between 'companies on the defense side of things'.
+Ultimately, every time there is a public attack (data dumps, site defacing, DDoS), that is not criminal or malicious in intent, the outcome tends to be positive, with bigger budgets, board-level attention and demands for security, an increase in AppSec staff hires, and more collaboration between 'companies on the defense side of things'.  
+
+Your company should hire the kid who breaks into your network and dumps everything; this, in a way, is the effect of bug bounties.
 
 ### Military
 
