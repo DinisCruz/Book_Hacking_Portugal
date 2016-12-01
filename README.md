@@ -1,4 +1,10 @@
-## Keynote BSidesLisbon
+### Availale on Amazon
+
+https://www.amazon.co.uk/Hacking-Portugal-Making-Software-Development/dp/1540743632
+
+![](https://cloud.githubusercontent.com/assets/656739/20817040/57d156b8-b81d-11e6-932b-82a18379c5f7.png)
+
+### Keynote BSidesLisbon
 
 Supporting files and ideas for the [BSidesLisbon 2016](http://www.bsideslisbon.org/) keynote presentation (11th Nov 2016)
 
