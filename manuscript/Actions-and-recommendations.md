@@ -39,7 +39,7 @@ Here is a summary of all the actions and recommendations mentioned and discussed
 * Attract Tesla to build factories and R&D facilities in Portugal
 
 ### Other recommendations
-* Export to CPLP, Europe and the world, thousands of cyber/AppSec specialists who will be??/ have been trained in Portugal
+* Export to CPLP, Europe and the world, thousands of cyber/AppSec specialists who will have been trained in Portugal
 * Create technical content in Portuguese
 * Digital identities and e-Residency solution, just like Estonia
 
