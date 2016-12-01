@@ -15,7 +15,7 @@ There are two good reasons why the army is not supposed to be involved in civil 
   * The military is designed to defend us from our enemies
   * Police & other civil forces should focus on protecting the individual
   
-We need to focus on defence, not attack.
+We need to focus on defense, not attack.
 
 ### Public health problem
 
