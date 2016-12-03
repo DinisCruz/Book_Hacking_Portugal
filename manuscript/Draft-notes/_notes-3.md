@@ -1,10 +1,4 @@
----
-layout: default
-title: page-7
-type: draft
----
-
-### Draft-notes - page 7
+## Draft notes - 3
 
 * tests and TDD to be how teams communicate
 * apply TDD and DevOps to Government work

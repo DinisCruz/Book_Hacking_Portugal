@@ -1,10 +1,4 @@
----
-layout: default
-title: page 2
-type: draft
----
-
-### Page 2
+## Draft notes - 2
 
 The Software, InfoSec and Hacking community has a strong ethical foundation, based on the following qualities:
   * sharing
@@ -19,7 +13,7 @@ We want to inspire the next generation with these values.
   * it is very important to have frames of reference for things that work
   * we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'.
   * "Great minds discuss ideas; average minds discuss events; small minds discuss people." (see http://quoteinvestigator.com/2014/11/18/great-minds)
-  
+
 * but, it also has strong
   * business/commercial understanding
   * money generation capabilities (outside of the 'proprietary and lock-in' business models)
