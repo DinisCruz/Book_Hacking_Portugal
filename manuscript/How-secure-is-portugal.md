@@ -67,7 +67,7 @@ Once you know about the attack, you will fix it, the security team will get a mu
 
 Ultimately, every time there is a public attack (data dumps, site defacing, DDoS), that is not criminal or malicious in intent, the outcome tends to be positive, with bigger budgets, board-level attention and demands for security, an increase in AppSec staff hires, and more collaboration between 'companies on the defense side of things'.  
 
-Your company should hire the kid who breaks into your network and dumps everything; this, in a way, is the effect of bug bounties.
+Your company should hire the kid who breaks into your network.
 
 ### Military
 
