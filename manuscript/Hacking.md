@@ -47,7 +47,7 @@ This generation of hackers will create technology to sell PT products around the
  
 The generation that was hacking Linux boxes while we were in university is the same generation that is solving fundamental problems today. 
 
-We need to make sure that this new generation knows what a Raspberry Pi is, knows what is inside, and knows how to build one. There is a factory in Portugal where this can be done.
+We need to make sure that this new generation knows what a Raspberry Pi is, knows what is inside, and knows how to build one (see https://www.raspberrypi.org/blog/ten-millionth-raspberry-pi-new-kit/). There should be a factory in Portugal that can do this.  
 
 ### Be different
 
