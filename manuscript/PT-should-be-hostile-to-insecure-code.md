@@ -50,5 +50,5 @@ I don't want the next generation of users to fear the internet, or to allow such
 
 I don't want them to lose confidence in the internet because of repeated negative experiences, where their identity or credentials are stolen; a doll, a light bulb, a website, an email or other online account is maliciously hacked; a car or a phone malfunctions; or they experience ransomware attacks on files, doorknobs, domestic appliances, or even hospitals. 
 
-This is not science fiction, and it is only going to get worse. 
+This is not science fiction, and it is only going to get worse. The book *Future Crimes: Inside the Digital Underground and the Battle for our Connected World* (Goodman, 2016) looks at the issue of technological advances and their influence on crime and criminal behavior.  
 
