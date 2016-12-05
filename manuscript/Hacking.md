@@ -31,7 +31,7 @@ The software, InfoSec and hacking community has a strong ethical foundation, bas
 
 When we had the Web Summit here in Portugal you had people from competing companies all working together to solve a common problem.  What mattered is that everyone present shared the same passion to solve the problem. That is what we must nurture, and that is what hacking offers. The hacker community spirit needs to be applied to our country.
 
-We want to inspire the next generation with these values. To do this, we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'.
+We want to inspire the next generation with these values. To do this, we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'. We need to financially sponsor serious investigative journalism and use it to push for transparency in Government agencies and commercial organisations.  We need to move away from celebrity scandals, whose privacy should be respected. We should apply risk and common sense analysis to 'big' news stories, and insist on accountability where fake or exaggerated news is reported. We should promote positive news stories, and we should reward ethical journalism. 
 
 Our alternative benefits from the following strong qualities:
 
