@@ -14,7 +14,11 @@ The question is, how secure are they? How safe are they? By 'secure', I mean how
 
 ### Our security model is based on lack of attackers
 
-Portugal is safe because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
+I use the internet, and I use my credit card online, even though I know I might be hacked by a criminal.
+
+I know what the underbelly looks like, so if anybody should be paranoid, it should be me. Despite this, I feel pretty safe from a cyber attack. 
+
+If Portugal is safe, it is because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
 
 The bottom line is that the current 'secure state' of Portugal's government, companies, & people, where the likelihood of an attack happening is low, depends on the following assumptions:
 
@@ -44,7 +48,6 @@ If you don't believe that Portugal is insecure, then prove me wrong in your answ
 
 The current Portuguese security model is based on _"Security Fairies' magic pixie dust"_. However, the good news is that we have lots of great InfoSec and AppSec talent in Portugal.         
 
-
 ### The financial markets hack
 
 I would argue that Portugal has already been a victim of certain kinds of financial manipulation.
@@ -58,7 +61,6 @@ The real danger is from criminals who use the internet and vulnerable code for f
 
 We need to make the Portuguese network hostile to this type of criminal activity. The police and hackers (i.e. civil society) have an important role to play in this campaign.
 
-
 ### Thank your attackers
 
 _"If the attacker tells you about the attack, they are your friends"_. Although it may be painful if an attacker leaks your data, you should thank the attacker who lets you know of the attack, because they will make you improve your security. Because the criminals will not tell you. The criminal's business model is based on you not knowing that they are there. 
@@ -71,13 +73,13 @@ Your company should hire the kid who breaks into your network.
 
 ### Military
 
-It is probably fair to say that Portuguese cyber and code defences are as good as Portugal's current military status (see [Portuguese Armed Forces](https://en.wikipedia.org/wiki/Portuguese_Armed_Forces) and [Portuguese Air Force](https://en.wikipedia.org/wiki/Portuguese_Air_Force)).
+It is probably fair to say that Portuguese cyber and code defenses are as good as Portugal's current military status (see [Portuguese Armed Forces](https://en.wikipedia.org/wiki/Portuguese_Armed_Forces) and [Portuguese Air Force](https://en.wikipedia.org/wiki/Portuguese_Air_Force)).
 
 The problem is that the cyber attackers who will hit Portugal are as sophisticated as the best soldiers, and armies.
 
 Imagine the Portuguese army against the UK, France or Russia, not to mention the US or China.
 
-Note how even the best companies and security agencies in the world are not able to detect and mitigate most attacks, as evidenced by recent DDoS attacks and zero-days exploits. The following video gives a humorous idea of what a [DDoS attack feels like](https://twitter.com/macbroadcast/status/791837377186725888)
+Note how even the best companies and security agencies in the world are not able to detect and mitigate most attacks, as evidenced by recent DDoS attacks and zero-days exploits. The following video gives a humorous idea of what a [DDoS attack feels like.](https://twitter.com/macbroadcast/status/791837377186725888)
 
 ### Why do we have F16s?
 
@@ -85,11 +87,10 @@ Why does Portugal need an offensive air force? I understand the need to have a c
 
 The way you fight an airborne battle in the 21st century is by hacking into the offensive planes/drones via their communication channels. The novel [Ghost Fleet](https://www.amazon.co.uk/Ghost-Fleet-Novel-Next-World/dp/0544142845) (Singer & Cole, 2015) imagines the next, virtual, world war.
 
-
 The military budget for Portugal in 2014 was just over [2.1 Billion Euros](https://en.wikipedia.org/wiki/Portuguese_Armed_Forces). I would argue that the government should allocate 10% of the current military budget to fund investment in cyber/app security, and the huge skills shortage in this area.
 
 ### Hit by the crossfire
 
-The important question is _"Do we want to do something about this, or be hit by the cross-fire?"_ If we do not consider this question, and address the huge skills shortage in cyber/app security that exists in Portugal, we will pay a heavy price.
+The important question is _"Do we want to do something about this, or be hit by the cross-fire?"_ If we do not consider this question, and address the huge, worldwide, skills shortage in cyber/app security, we will pay a heavy price.
 
-As attackers become more sophisticated, they will gravitate to countries and companies with weaker defenses, since these take longer to ramp up their security when an attack occurs.
+As attackers become more sophisticated, they will gravitate to countries and companies with weaker defenses, since these take longer to ramp up their security when an attack occurs. Acting in a strategic way now presents Portugal, and countries like Portugal, with tremendous opportunities.
