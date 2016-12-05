@@ -16,7 +16,7 @@ The press abuses the term 'hacker'. Instead, they should qualify the word by say
 
 The internet and most of the technology we use today was dreamed of, and created by, hackers.
 
-There is a very interesting video available at http://www.bbc.co.uk/news/video_and_audio/features/magazine-38175202/38175202 It reports on the story of Abel Cruz, a Peruvian entrepreneur who worked out how to provide water to poor people who live off the grid in the hills outside Lima, by means of fog nets. Abel contacted fog net experts on the internet to make his idea a reality. Sixty fog nets are enough to provide water to 250 families, which they use for cooking and growing food. This creative and innovative solution has transformed their lives.
+There is a very interesting news clip at http://www.bbc.co.uk/news/video_and_audio/features/magazine-38175202/38175202 It reports on the story of Abel Cruz, a Peruvian entrepreneur who worked out how to provide water to poor people who live off the grid in the hills outside Lima, by means of fog nets. Abel contacted fog net experts on the internet to make his idea a reality. Sixty fog nets are enough to provide water to 250 families, which they use for cooking and growing food. This creative and innovative solution has transformed their lives.
 
 ### Hackers' values
 
