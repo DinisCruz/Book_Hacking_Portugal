@@ -20,9 +20,11 @@ Collaborative Commons is greatly empowered by the move towards a **Zero Marginal
 
 ### Government's role
 
-The Government has a big role to play in this transformation, not as a 'Command and Control' entity, but as a benign influence to level the playing field.
+Historically, Government was a very powerful force for innovation in Portugal, and the Government has a big role to play in this transformation, not as a 'Command and Control' entity, but as a benign influence to level the playing field.
 
-A major problem now is that many world governments view technology as a way to exert more control over their citizens.
+It is essential to recognise and act on what works well at Government and industry levels. Government investment in research or infrastructural activities will yield positive results, and amplification and optimisation will work well for industry.
+
+In his book [Common Innovation: How We Create the Wealth of Nations (2016)](https://www.amazon.co.uk/Common-Innovation-Create-Wealth-Nations/dp/1786430827/), Swann argues that innovation and wealth creation are not the monopoly of business, but the contribution of ordinary people.
 
 ### Code is Law
 
