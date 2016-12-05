@@ -49,6 +49,11 @@ The generation that was hacking Linux boxes while we were in university is the s
 
 We need to make sure that this new generation knows what a Raspberry Pi is, knows what is inside, and knows how to build one (see https://www.raspberrypi.org/blog/ten-millionth-raspberry-pi-new-kit/). There should be a factory in Portugal that can do this.  
 
+In fact, there should be software and technology companies in every city and town in Portugal. Software development and application security lend themselves to remote work, with regular commutes to a central office for meetings etc.
+
+(See for example how many Portuguese security researchers participate in global/world wide bug bounties.)
+
+
 ### Be different
 
 If 99.9% of the world doesn't agree with your ideas, this doesn't mean you shouldn't pursue them.
