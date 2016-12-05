@@ -17,7 +17,7 @@ The US and the NSA redefined the notion of surveillance to be 'looking at data',
 
 Large tech companies' business models are often based on their users having no, or reduced, privacy.
 
-Governments are actively making the internet less secure so they can continue to easily access users' data.
+Many world governments view technology as a way to exert more control over their citizens, and they actively make the internet less secure so they can continue to easily access users' data.  
 
 There must be space for new global players who play by different rules, namely the rules that defend individuals and civil society.
 
