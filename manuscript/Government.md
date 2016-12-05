@@ -73,7 +73,7 @@ This ministry should appoint a CTO and CISO for Portugal, and should implement t
  * commit to only buy, commission, and use applications and websites that
    * release their code under Open Source licenses
    * release their data and schemas under non-restrictive Creative Commons licenses
-
+    
 ### Clear Software Act
 
 A Clear Software Act, like the 'Clean Air Act', but focused on code quality and security, would go some way to changing the game and how it is played.
@@ -139,11 +139,13 @@ This not only includes websites and 'traditional software', but also operating s
 
 The market, through the power of big customers, can make a difference by 'nudging' code to be Open Sourced.
 
-The Portuguese government should, at the very least, consider the following policies:
+The Portuguese Government should, at the very least, consider the following policies:
 * Adopt Git for all official documentation
 * Teach users (i.e. government employees) the paradigm of version control
 * Develop a Portuguese version of Docker and Git
  Where is the Portuguese Raspberry PI (which has sold more than [10 million](http://www.bbc.co.uk/news/technology-37305200))?
+ 
+The Government should also review existing Computer Crime laws, to ensure their effectiveness, check for unintended side effects (for example impact on security researchers), and ensure that the scope of current legislation in this area is not so wide that normal users or developers are criminals in their day-to-day use of technology. We shouldn't have to depend on having technologically savvy judges who can interpret these laws with common sense.  
 
 ### European Union
 
