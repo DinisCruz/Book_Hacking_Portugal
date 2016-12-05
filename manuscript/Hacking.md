@@ -10,13 +10,13 @@ type: content
 
 It is important to state that hackers are the good guys.
 
-To 'Hack' is to solve problems, to find innovative solutions in a creative way.
+As I mentioned in my introduction, to 'hack' means to solve problems, to find innovative solutions in a creative way. 
 
 The press abuses the term 'hacker'. Instead, they should qualify the word by saying 'Malicious Hackers' or 'Cyber Attackers' or 'Cyber Criminals'.
 
 The internet and most of the technology we use today was dreamed of, and created by, hackers.
 
-There is a very interesting news clip at http://www.bbc.co.uk/news/video_and_audio/features/magazine-38175202/38175202 It reports on the story of Abel Cruz, a Peruvian entrepreneur who worked out how to provide water to poor people who live off the grid in the hills outside Lima, by means of fog nets. Abel contacted fog net experts on the internet to make his idea a reality. Sixty fog nets are enough to provide water to 250 families, which they use for cooking and growing food. This creative and innovative solution has transformed their lives.
+There is a very [interesting news clip](http://www.bbc.co.uk/news/video_and_audio/features/magazine-38175202/38175202) that reports on the story of Abel Cruz, a Peruvian entrepreneur who worked out how to provide water, by means of fog nets, to poor people living off the grid in the hills outside Lima. Abel contacted fog net experts on the internet to make his idea a reality. Sixty fog nets now provide water to 250 families at a very low cost. This creative and innovative solution has transformed their lives.
 
 ### Hackers' values
 
@@ -31,7 +31,7 @@ The software, InfoSec and hacking community has a strong ethical foundation, bas
 
 When we had the Web Summit here in Portugal you had people from competing companies all working together to solve a common problem.  What mattered is that everyone present shared the same passion to solve the problem. That is what we must nurture, and that is what hacking offers. The hacker community spirit needs to be applied to our country.
 
-We want to inspire the next generation with these values. To do this, we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'. We need to financially sponsor serious investigative journalism and use it to push for transparency in Government agencies and commercial organisations.  We need to move away from celebrity scandals, whose privacy should be respected. We should apply risk and common sense analysis to 'big' news stories, and insist on accountability where fake or exaggerated news is reported. We should promote positive news stories, and we should reward ethical journalism. 
+We want to inspire the next generation with these values. To do this, we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'. We need to move away from celebrity scandals, whose privacy should be respected. We need to financially sponsor serious investigative journalism and use it to push for transparency in Government agencies and commercial organisations. We should apply risk and common sense analysis to 'big' news stories, and insist on accountability where fake or exaggerated news is reported. We should promote positive news stories, and we should reward ethical journalism. 
 
 Our alternative benefits from the following strong qualities:
 
