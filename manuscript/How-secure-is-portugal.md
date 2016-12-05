@@ -61,6 +61,20 @@ The real danger is from criminals who use the internet and vulnerable code for f
 
 We need to make the Portuguese network hostile to this type of criminal activity. The police and hackers (i.e. civil society) have an important role to play in this campaign.
 
+### Attackers' ROI (return on investment)
+
+We must remember that it doesn't take a lot of money to compromise a country or a company. This is the cost of the zero day, this is the worst case scenario to give (add table from slide 26 of C-days presentation).
+
+If I had $100,000 to invest, what would I do? I would buy a number of zero-days, some compromised machines inside the Portuguese networks, and I would buy botnets to attack Portuguese companies.
+
+How much money would I make? If I can make a million pounds, it makes business sense, because my only concern is money.
+
+If there is a million dollars to be made from attacking a particular company, somebody will be able to invest $100,000 in the exercise.
+
+The good news for us is that the attackers are making far more money doing other things, but they are growing, and what I describe will happen.
+
+What is the return on investment, and who can survive this kind of compromise? My view is that very few companies, especially in Portugal, would survive.
+
 ### Thank your attackers
 
 _"If the attacker tells you about the attack, they are your friends"_. Although it may be painful if an attacker leaks your data, you should thank the attacker who lets you know of the attack, because they will make you improve your security. Because the criminals will not tell you. The criminal's business model is based on you not knowing that they are there. 
