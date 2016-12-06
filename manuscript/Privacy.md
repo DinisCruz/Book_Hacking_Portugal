@@ -17,7 +17,7 @@ The US and the NSA redefined the notion of surveillance to be 'looking at data',
 
 Large tech companies' business models are often based on their users having no, or reduced, privacy.
 
-Governments are actively making the internet less secure so they can continue to easily access users' data.
+Many world governments view technology as a way to exert more control over their citizens, and they actively make the internet less secure so they can continue to easily access users' data.  
 
 There must be space for new global players who play by different rules, namely the rules that defend individuals and civil society.
 
@@ -50,11 +50,15 @@ We need strong technological legislation that will prevent companies from playin
 
 A rule of thumb should be that "if the law is broken, or crimes are committed to disclose materials, it is okay if the benefits from disclosure are worth it". It is important that companies and individuals know that they will not get away with it.
 
+The new [EU General Data Protection Regulation and Directive](http://ec.europa.eu/justice/data-protection/reform/index_en.htm), adopted by the European Parliament in April 2016, strengthens citizens' fundamental rights in the digital age and facilitates business by simplifying rules for companies in the Digital Single Market. Under the terms of the regulation and directive, there will be increased responsibility and accountability for those processing personal data – through data protection risk assessments, data protection officers, and the principles of ‘data protection by design’ and ‘data protection by default’.
+
 ### Limited privacy for state and companies
 
-We want the opposite of privacy for companies; instead we want maximum visibility and transparency from them. This will be better for all involved, and will allow for much fairer competition and better profits in the long run.    
+We want the opposite of privacy for companies; instead we want maximum visibility, transparency, and disclosure from them so we can see what is really happening. This would be better for all involved, and will allow for much fairer competition and better profits in the long run.    
 
 Technology can be used in a positive way to enable this openness. Many companies will not like any shift toward increased transparency, just as they didn't like when annual reports became mandatory in the last century.
+
+Ideally, law enforcement and financial regulators should lead the way in ensuring greater levels of transparency.
 
 ### Learn from the music industry
 
