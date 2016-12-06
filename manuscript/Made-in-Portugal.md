@@ -26,6 +26,6 @@ Code that is "Made in Portugal" is the key for the Portuguese economy, and for E
 
 Good software development teams (from developers to management) are one of the most important assets of a company and country. They are the ones who add value. They create reality, and ultimately, they control your lives.
 
-"Made in Portugal" will encourage and foment the PT software industry, and this will in turn have a multiplier effect in other industries.
+"Made in Portugal" will encourage and foment the Portuguese software industry, and this will in turn have a multiplier effect in other industries.
 
 The Age of Sustainability is upon us, and Portugal should be at its centre.
