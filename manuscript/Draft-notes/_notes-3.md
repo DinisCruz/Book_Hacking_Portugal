@@ -33,9 +33,6 @@
 
 * Creating of an Open Source SAST engine would be a great project for PT (involving all players in Software development, including Universities and Academia)
 
-* University students and graduates are another great source of talent (and for them the projects are a great source of 'real world' skills)
-  * in fact some of the proposes activities (Hacking networks/apps, transportation apps and logistics) could be done as Semester projects (and be graded based on execution)
-
 
 * When I talk about opening the code, it is not just for traditional software packages. It is also for all websites that control our data and commerce
 
