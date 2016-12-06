@@ -147,6 +147,14 @@ The Portuguese Government should, at the very least, consider the following poli
  
 The Government should also review existing Computer Crime laws, to ensure their effectiveness, check for unintended side effects (for example impact on security researchers), and ensure that the scope of current legislation in this area is not so wide that normal users or developers are criminals in their day-to-day use of technology. We shouldn't have to depend on having technologically savvy judges who can interpret these laws with common sense.  
 
+
+### Beta test laws
+      * to make sure they work
+      * use DevOps and CD (Continuous Deployment) model to laws
+      * Test laws in controlled environments
+        * QA laws
+        * do [A/B testing](https://en.wikipedia.org/wiki/A/B_testing) for laws
+
 ### European Union
 
 I am a strong European and I believe in Europe. But Europe needs to change, and refocus on country sustainability.
