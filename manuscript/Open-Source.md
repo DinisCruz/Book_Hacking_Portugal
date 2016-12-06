@@ -105,8 +105,16 @@ This could be Portugal's contribution to the world: 'AppSec eyeballs' and 'fix O
 
 It is imperative that a company or country has core contributors (i.e. strong relationships) with strategic open source projects. This is not only essential to retain talent, it should also be done from self-interest.
 
-**Principle of Public Access in Sweden**
+### Use Git to version legislation development and ask for public consultation
 
-https://en.wikipedia.org/wiki/Freedom_of_information_laws_by_country#Sweden
+Developers in France, Germany, and the US have put national legislation on GitHub. The similarities between software code and legislation, taken with the superior advantages of tracking and versioning legal documents in Git, allow increased transparency of the legislative process, as the public can question and suggest amendments, and identify authors, all in the public domain.  ‘GitLaw’ can also have a wider application, at local, individual, and international levels. 
 
-_"The Principle of Public Access means that the general public is guaranteed insight into activities pursued by government agencies. All official documents handled by government agencies are public unless they contain information specified as secret under the Public Access to Information and Secrecy Act. Each request to take part of official documents is handled individually and classifying documents or information as secret is subject to appeal. The constitution also grants the right for government employees to pass on information without risk of criminal charges or repercussions and the right to attend court proceedings and meetings of legislative assemblies like the Riksdag."_
+More information is available in the following articles:
+
+* https://blog.abevoelker.com/gitlaw-github-for-laws-and-legal-documents-a-tourniquet-for-american-liberty/
+* http://okfnlabs.org/blog/2012/12/13/bundesgit-german-laws-on-github.html
+* http://qz.com/373326/the-entire-french-legal-code-dating-back-to-napoleon-is-now-on-github/
+
+### Principle of Public Access in Sweden
+
+The Swedish government allows a high level of public access to government activities. In the [Swedish Freedom of the Press Act](http://www.riksdagen.se/en/SysSiteAssets/07.-dokument--lagar/the-freedom-of-the-press-act-2015.pdf/), passed in 1766, Chapter 2, *On the public nature of official documents*, Article 1 states that "Every Swedish citizen shall be entitled to have free access to official documents, in order to encourage the free exchange of opinion and the availability of comprehensive information." The Act goes on to detail that any restrictions to access must be scrupulously specified.  
