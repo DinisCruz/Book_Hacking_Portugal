@@ -20,9 +20,11 @@ Collaborative Commons is greatly empowered by the move towards a **Zero Marginal
 
 ### Government's role
 
-The Government has a big role to play in this transformation, not as a 'Command and Control' entity, but as a benign influence to level the playing field.
+Historically, Government was a very powerful force for innovation in Portugal, and the Government has a big role to play in this transformation, not as a 'Command and Control' entity, but as a benign influence to level the playing field.
 
-A major problem now is that many world governments view technology as a way to exert more control over their citizens.
+It is essential to recognise and act on what works well at Government and industry levels. Government investment in research or infrastructural activities will yield positive results, and amplification and optimisation will work well for industry.
+
+In his book [Common Innovation: How We Create the Wealth of Nations (2016)](https://www.amazon.co.uk/Common-Innovation-Create-Wealth-Nations/dp/1786430827/), Swann argues that innovation and wealth creation are not the monopoly of business, but the contribution of ordinary people.
 
 ### Code is Law
 
@@ -71,7 +73,7 @@ This ministry should appoint a CTO and CISO for Portugal, and should implement t
  * commit to only buy, commission, and use applications and websites that
    * release their code under Open Source licenses
    * release their data and schemas under non-restrictive Creative Commons licenses
-
+    
 ### Clear Software Act
 
 A Clear Software Act, like the 'Clean Air Act', but focused on code quality and security, would go some way to changing the game and how it is played.
@@ -137,15 +139,21 @@ This not only includes websites and 'traditional software', but also operating s
 
 The market, through the power of big customers, can make a difference by 'nudging' code to be Open Sourced.
 
-The Portuguese government should, at the very least, consider the following policies:
+The Portuguese Government should, at the very least, consider the following policies:
 * Adopt Git for all official documentation
 * Teach users (i.e. government employees) the paradigm of version control
 * Develop a Portuguese version of Docker and Git
  Where is the Portuguese Raspberry PI (which has sold more than [10 million](http://www.bbc.co.uk/news/technology-37305200))?
 
+### Review and beta test legislation
+
+The Government should review existing Computer Crime laws, to ensure their effectiveness, check for unintended side effects (for example impact on security researchers), and ensure that the scope of current legislation in this area is not so wide that normal users or developers are criminals in their day-to-day use of technology. We shouldn't have to depend on having technologically savvy judges who can interpret these laws with common sense.  
+
+Beta testing legislation would ensure that draft legislation will have the desired effect when passed into law. The DevOps and CD (Continuous Deployment) models could be used to develop draft legislation, and draft legislation could be tested in controlled environments. [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)  would also work well for legislation as it would give the legislative process a transparent QA standard.
+
 ### European Union
 
-I am a strong European and I believe in Europe. But Europe needs to change, and refocus on country sustainability.
+I am a strong European and I believe in Europe. But Europe needs to change and refocus on country sustainability.
 
 Portugal should not have to 'beg' the EU for funds to support these ideas.
 
