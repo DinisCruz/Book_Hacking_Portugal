@@ -79,7 +79,7 @@ If the real scale of the problem was known, would we, either as a society, or an
 
 The tech world is trying to find ways to connect data sets that makes _'reality understandable/visible'_, so that what is really going on is exposed in a way that is both easy to consume, and actionable.
 
-For example, look at the [Next Level Doctor Social Graph](http://www.medstartr.com/projects/82-next-level-doctor-social-graph) for an attempt to drive change in a commercially viable way (See their ['"Open Source Eventually"](http://www.medstartr.com/projects/82-next-level-doctor-social-graph) idea)
+For example, look at the [Next Level Doctor Social Graph](http://www.medstartr.com/project/detail/82-Next-Level-Doctor-Social-Graph,-Phase-1) for an attempt to drive change in a commercially viable way (See their ['"Open Source Eventually"](http://www.medstartr.com/project/detail/82-Next-Level-Doctor-Social-Graph,-Phase-1) idea)
 
 From that page, here is their description of the problem:
 
