@@ -144,20 +144,16 @@ The Portuguese Government should, at the very least, consider the following poli
 * Teach users (i.e. government employees) the paradigm of version control
 * Develop a Portuguese version of Docker and Git
  Where is the Portuguese Raspberry PI (which has sold more than [10 million](http://www.bbc.co.uk/news/technology-37305200))?
- 
-The Government should also review existing Computer Crime laws, to ensure their effectiveness, check for unintended side effects (for example impact on security researchers), and ensure that the scope of current legislation in this area is not so wide that normal users or developers are criminals in their day-to-day use of technology. We shouldn't have to depend on having technologically savvy judges who can interpret these laws with common sense.  
 
+### Review and beta test legislation
 
-### Beta test laws
-      * to make sure they work
-      * use DevOps and CD (Continuous Deployment) model to laws
-      * Test laws in controlled environments
-        * QA laws
-        * do [A/B testing](https://en.wikipedia.org/wiki/A/B_testing) for laws
+The Government should review existing Computer Crime laws, to ensure their effectiveness, check for unintended side effects (for example impact on security researchers), and ensure that the scope of current legislation in this area is not so wide that normal users or developers are criminals in their day-to-day use of technology. We shouldn't have to depend on having technologically savvy judges who can interpret these laws with common sense.  
+
+Beta testing legislation would ensure that draft legislation will have the desired effect when passed into law. The DevOps and CD (Continuous Deployment) models could be used to develop draft legislation, and draft legislation could be tested in controlled environments. [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)  would also work well for legislation as it would give the legislative process a transparent QA standard.
 
 ### European Union
 
-I am a strong European and I believe in Europe. But Europe needs to change, and refocus on country sustainability.
+I am a strong European and I believe in Europe. But Europe needs to change and refocus on country sustainability.
 
 Portugal should not have to 'beg' the EU for funds to support these ideas.
 
