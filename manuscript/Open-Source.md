@@ -105,7 +105,7 @@ This could be Portugal's contribution to the world: 'AppSec eyeballs' and 'fix O
 
 It is imperative that a company or country has core contributors (i.e. strong relationships) with strategic open source projects. This is not only essential to retain talent, it should also be done from self-interest.
 
-### Use Git to version legislation development and ask for public consultation
+### Use Git to version legislative development and ask for public consultation
 
 Developers in France, Germany, and the US have put national legislation on GitHub. The similarities between software code and legislation, taken with the superior advantages of tracking and versioning legal documents in Git, allow increased transparency of the legislative process, as the public can question and suggest amendments, and identify authors, all in the public domain.  ‘GitLaw’ can also have a wider application, at local, individual, and international levels.  The Portuguese government should adopt a similar approach, and use Git to track the development of legislation, and allow the public to have a greater say in, and a greater understanding of, the legislative process in Portugal.
 
