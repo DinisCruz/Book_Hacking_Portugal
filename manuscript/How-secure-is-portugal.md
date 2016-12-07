@@ -59,7 +59,10 @@ We need to make the Portuguese network hostile to this type of criminal activity
 
 ### Attackers' ROI (return on investment)
 
-We must remember that it doesn't take a lot of money to compromise a country or a company. This is the cost of the zero day, this is the worst case scenario to give (add table from slide 26 of C-days presentation).
+We must remember that it doesn't take a lot of money to compromise a country or a company. 
+The table below shows the cost of a zero day, in the form of a worst-case scenario. 
+![Cost of a zero day](http://blogs-images.forbes.com/andygreenberg/files/2012/11/exploitpricechart.jpg?width=960) 
+(Source: Greenberg/Forbes)
 
 If I had $100,000 to invest, what would I do? I would buy a number of zero-days, some compromised machines inside the Portuguese networks, and I would buy botnets to attack Portuguese companies.
 
