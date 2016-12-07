@@ -9,10 +9,10 @@ type: draft
 
 http://blog.diniscruz.com/2016/11/presentation-hacking-portugal-and.html
 
-
 Cover image: Wikipedia (2016) Caravela in sail [image online], available: https://en.wikipedia.org/wiki/Portuguese_inventions#/media/File:Caravela_Vera_Cruz_no_rio_Tejo.jpg [accessed 14 Nov 2016].
 
 Slide 13: Barefoot running
+Badura, J. (2016) Barefoot runners [image online], available: http://jorgbadura.com/print/sport/barefoot-running/ [accessed 7 Dec 2016].
 
 Slide 16: Image of Binary Edge.io "Internet Security Exposure 2016"
 
@@ -34,7 +34,7 @@ Slide 20:
 Barbosa, Ana (2016), "Security of a Country: Portugal", BinaryEdge Blog [online], 31 Mar, available http://blog.binaryedge.io/2016/03/31/security-of-a-country-portugal/#VNC and SCADA [accessed 14 Nov 2016].
 
 
-Slide 21: "Cartoes de continente alvo de ataque informatico?
+Slide 21: "Cartoes de continente alvo de ataque informatico?"
 
 Slide 41:
 
@@ -66,11 +66,9 @@ Business Insider (2014) Map [image online], available: http://static5.businessin
 
 Slide 15: Table of dataleaks, but acknowledgement given to Tiago Henriques & Ana Barbosa--did they compile the table?
 
-Slide 22: Table "cost of to buy an zero day"
+Slide 22: Greenberg, A. (2012) ‘Shopping for Zero-Days: A Price List for Hackers’ Secret Software Exploits’, Forbes [online], 23 Mar, available: http://blogs-images.forbes.com/andygreenberg/files/2012/11/exploitpricechart.jpg?width=960 [accessed 7 Dec 2016]
 
 Slide 47: Table of Drugs Decriminalization:  https://images.mic.com/uj2d146c11flpk52tirjnq4i4bgnlvpz1uftyubyty1f183kqrca2gonlngkuvtg.jpg
-
-
 
 **Images used in Past-innovations.md**
 
