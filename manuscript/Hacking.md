@@ -49,9 +49,9 @@ This generation of hackers will create technology to sell PT products around the
  
 The generation that was hacking Linux boxes while we were in university is the same generation that is solving fundamental problems today. 
 
-We need to make sure that this new generation knows what a Raspberry Pi is, knows what is inside, and knows how to build one (see https://www.raspberrypi.org/blog/ten-millionth-raspberry-pi-new-kit/). There should be a factory in Portugal that can do this.  
+We need to make sure that this new generation knows what a Raspberry Pi is, knows what is inside, and knows how to build one. Raspberry Pi has been a commercial success beyond the expectations of its founders. [Ten million Raspberry Pis](https://www.raspberrypi.org/blog/ten-millionth-raspberry-pi-new-kit/) have been sold, which ironically is the population of Portugal. The Raspberry Pi team has made an effort to build them in UK, but there should be a factory in Portugal that can do this.  
 
-In fact, there should be software and technology companies in every city and town in Portugal. Software development and application security lend themselves to remote work, with regular commutes to a central office for meetings etc.
+In fact, there should be software and technology companies in every city and town in Portugal. Software development and application security lend themselves to remote work, with regular commutes to a central office for meetings.
 
 For example, see [how many Portuguese security researchers](https://pages.bugcrowd.com/hubfs/PDFs/state-of-bug-bounty-2016.pdf) participate in global/world wide bug bounties.
 
