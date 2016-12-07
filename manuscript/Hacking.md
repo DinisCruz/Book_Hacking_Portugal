@@ -10,11 +10,13 @@ type: content
 
 It is important to state that hackers are the good guys.
 
-As I mentioned in my introduction, to 'hack' means to solve problems, to find innovative solutions in a creative way. 
+To 'hack' means to solve problems, to find innovative solutions in a creative way. 
 
 The press abuses the term 'hacker'. Instead, they should qualify the word by saying 'Malicious Hackers' or 'Cyber Attackers' or 'Cyber Criminals'.
 
 The internet and most of the technology we use today was dreamed of, and created by, hackers.
+
+### Real world hacks
 
 There is a very [interesting news clip](http://www.bbc.co.uk/news/video_and_audio/features/magazine-38175202/38175202) that reports on the story of Abel Cruz, a Peruvian entrepreneur who worked out how to provide water, by means of fog nets, to poor people living off the grid in the hills outside Lima. Abel contacted fog net experts on the internet to make his idea a reality. Sixty fog nets now provide water to 250 families at a very low cost. This creative and innovative solution has transformed their lives.
 
@@ -51,7 +53,7 @@ We need to make sure that this new generation knows what a Raspberry Pi is, know
 
 In fact, there should be software and technology companies in every city and town in Portugal. Software development and application security lend themselves to remote work, with regular commutes to a central office for meetings etc.
 
-(See for example how many Portuguese security researchers participate in global/world wide bug bounties.)
+For example, see [how many Portuguese security researchers](https://pages.bugcrowd.com/hubfs/PDFs/state-of-bug-bounty-2016.pdf) participate in global/world wide bug bounties.
 
 
 ### Be different
