@@ -12,11 +12,7 @@ Portugal today is a very digital country, and most Portuguese companies are soft
 
 The question is, how secure are they? How safe are they? By 'secure', I mean how well can they sustain an attack? How well can they detect and react to a possible attack on their digital infrastructure? What is the probability of an attack happening in the short term?
 
-### Our security model is based on lack of attackers
-
-I use the internet, and I use my credit card online, even though I know I might be hacked by a criminal.
-
-I know what the underbelly looks like, so if anybody should be paranoid, it should be me. Despite this, I feel pretty safe from a cyber attack. 
+### Our security model is based on a lack of attackers
 
 If Portugal is safe, it is because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
 
