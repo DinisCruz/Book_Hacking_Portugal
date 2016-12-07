@@ -106,4 +106,4 @@ The military budget for Portugal in 2014 was just over [2.1 Billion Euros](https
 
 The important question is _"Do we want to do something about this, or be hit by the cross-fire?"_ If we do not consider this question, and address the huge, worldwide, skills shortage in cyber/app security, we will pay a heavy price.
 
-As attackers become more sophisticated, they will gravitate to countries and companies with weaker defenses, since these take longer to ramp up their security when an attack occurs. Acting in a strategic way now presents Portugal, and countries like Portugal, with tremendous opportunities.
+As attackers become more sophisticated, they will gravitate to countries and companies with weaker defenses, since these take longer to ramp up their security when an attack occurs. Acting in a strategic way now will work as a as a kind of insurance policy against the attacks that will happen in the future. Strategic action also presents Portugal, and countries like Portugal, with tremendous opportunities.
