@@ -66,13 +66,13 @@ The table below shows the cost of a zero day, in the form of a worst-case scenar
 
 If I had $100,000 to invest, what would I do? I would buy a number of zero-days, some compromised machines inside the Portuguese networks, and I would buy botnets to attack Portuguese companies.
 
-How much money would I make? If I can make a million pounds, it makes business sense, because my only concern is money.
+How much money would I make? If I can make a million dollars, it makes business sense, because my only concern is money, and a $900,000 profit is an excellent return on investment.
 
-If there is a million dollars to be made from attacking a particular company, somebody will be able to invest $100,000 in the exercise.
+If there is a million dollars to be made from attacking a particular company, somebody will invest $100,000 in the exercise.
 
-The good news for us is that the attackers are making far more money doing other things, but they are growing, and what I describe will happen.
+The good news for us is that the attackers are making far more money doing other things, but they are growing, and the scenario I describe will happen.
 
-What is the return on investment, and who can survive this kind of compromise? My view is that very few companies, especially in Portugal, would survive.
+Who can survive this kind of compromise? My view is that very few companies, especially in Portugal, would survive.
 
 ### Thank your attackers
 
