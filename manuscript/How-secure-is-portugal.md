@@ -12,9 +12,9 @@ Portugal today is a very digital country, and most Portuguese companies are soft
 
 The question is, how secure are they? How safe are they? By 'secure', I mean how well can they sustain an attack? How well can they detect and react to a possible attack on their digital infrastructure? What is the probability of an attack happening in the short term?
 
-### Our security model is based on lack of attackers
+### Our security model is based on a lack of attackers
 
-Portugal is safe because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
+If Portugal is safe, it is because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
 
 The bottom line is that the current 'secure state' of Portugal's government, companies, & people, where the likelihood of an attack happening is low, depends on the following assumptions:
 
@@ -44,7 +44,6 @@ If you don't believe that Portugal is insecure, then prove me wrong in your answ
 
 The current Portuguese security model is based on _"Security Fairies' magic pixie dust"_. However, the good news is that we have lots of great InfoSec and AppSec talent in Portugal.         
 
-
 ### The financial markets hack
 
 I would argue that Portugal has already been a victim of certain kinds of financial manipulation.
@@ -58,6 +57,22 @@ The real danger is from criminals who use the internet and vulnerable code for f
 
 We need to make the Portuguese network hostile to this type of criminal activity. The police and hackers (i.e. civil society) have an important role to play in this campaign.
 
+### Attackers' ROI (return on investment)
+
+We must remember that it doesn't take a lot of money to compromise a country or a company. 
+The table below shows the cost of a zero day, in the form of a worst-case scenario. 
+![Cost of a zero day](http://blogs-images.forbes.com/andygreenberg/files/2012/11/exploitpricechart.jpg?width=960) 
+(Source: Greenberg/Forbes)
+
+If I had $100,000 to invest, what would I do? I would buy a number of zero-days, some compromised machines inside the Portuguese networks, and I would buy botnets to attack Portuguese companies.
+
+How much money would I make? If I can make a million dollars, it makes business sense, because my only concern is money, and a $900,000 profit is an excellent return on investment.
+
+If there is a million dollars to be made from attacking a particular company, somebody will invest $100,000 in the exercise.
+
+The good news for us is that the attackers are making far more money doing other things, but they are growing, and the scenario I describe will happen.
+
+Who can survive this kind of compromise? My view is that very few companies, especially in Portugal, would survive.
 
 ### Thank your attackers
 
@@ -67,17 +82,17 @@ Once you know about the attack, you will fix it, the security team will get a mu
 
 Ultimately, every time there is a public attack (data dumps, site defacing, DDoS), that is not criminal or malicious in intent, the outcome tends to be positive, with bigger budgets, board-level attention and demands for security, an increase in AppSec staff hires, and more collaboration between 'companies on the defense side of things'.  
 
-Your company should hire the kid who breaks into your network and dumps everything; this, in a way, is the effect of bug bounties.
+Your company should hire the kid who breaks into your network.
 
 ### Military
 
-It is probably fair to say that Portuguese cyber and code defences are as good as Portugal's current military status (see [Portuguese Armed Forces](https://en.wikipedia.org/wiki/Portuguese_Armed_Forces) and [Portuguese Air Force](https://en.wikipedia.org/wiki/Portuguese_Air_Force)).
+It is probably fair to say that Portuguese cyber and code defenses are as good as Portugal's current military status (see [Portuguese Armed Forces](https://en.wikipedia.org/wiki/Portuguese_Armed_Forces) and [Portuguese Air Force](https://en.wikipedia.org/wiki/Portuguese_Air_Force)).
 
 The problem is that the cyber attackers who will hit Portugal are as sophisticated as the best soldiers, and armies.
 
 Imagine the Portuguese army against the UK, France or Russia, not to mention the US or China.
 
-Note how even the best companies and security agencies in the world are not able to detect and mitigate most attacks, as evidenced by recent DDoS attacks and zero-days exploits. The following video gives a humorous idea of what a [DDoS attack feels like](https://twitter.com/macbroadcast/status/791837377186725888)
+Note how even the best companies and security agencies in the world are not able to detect and mitigate most attacks, as evidenced by recent DDoS attacks and zero-days exploits. The following video gives a humorous idea of what a [DDoS attack feels like.](https://twitter.com/macbroadcast/status/791837377186725888)
 
 ### Why do we have F16s?
 
@@ -85,11 +100,10 @@ Why does Portugal need an offensive air force? I understand the need to have a c
 
 The way you fight an airborne battle in the 21st century is by hacking into the offensive planes/drones via their communication channels. The novel [Ghost Fleet](https://www.amazon.co.uk/Ghost-Fleet-Novel-Next-World/dp/0544142845) (Singer & Cole, 2015) imagines the next, virtual, world war.
 
-
 The military budget for Portugal in 2014 was just over [2.1 Billion Euros](https://en.wikipedia.org/wiki/Portuguese_Armed_Forces). I would argue that the government should allocate 10% of the current military budget to fund investment in cyber/app security, and the huge skills shortage in this area.
 
 ### Hit by the crossfire
 
-The important question is _"Do we want to do something about this, or be hit by the cross-fire?"_ If we do not consider this question, and address the huge skills shortage in cyber/app security that exists in Portugal, we will pay a heavy price.
+The important question is _"Do we want to do something about this, or be hit by the cross-fire?"_ If we do not consider this question, and address the huge, worldwide, skills shortage in cyber/app security, we will pay a heavy price.
 
-As attackers become more sophisticated, they will gravitate to countries and companies with weaker defenses, since these take longer to ramp up their security when an attack occurs.
+As attackers become more sophisticated, they will gravitate to countries and companies with weaker defenses, since these take longer to ramp up their security when an attack occurs. Acting in a strategic way now will work as a as a kind of insurance policy against the attacks that will happen in the future. Strategic action also presents Portugal, and countries like Portugal, with tremendous opportunities.
