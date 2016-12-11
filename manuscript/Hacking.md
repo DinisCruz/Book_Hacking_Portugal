@@ -10,11 +10,15 @@ type: content
 
 It is important to state that hackers are the good guys.
 
-To 'Hack' is to solve problems, to find innovative solutions in a creative way.
+To 'hack' means to solve problems, to find innovative solutions in a creative way. 
 
 The press abuses the term 'hacker'. Instead, they should qualify the word by saying 'Malicious Hackers' or 'Cyber Attackers' or 'Cyber Criminals'.
 
 The internet and most of the technology we use today was dreamed of, and created by, hackers.
+
+### Real world hacks
+
+There is a very [interesting news clip](http://www.bbc.co.uk/news/video_and_audio/features/magazine-38175202/38175202) that reports on the story of Abel Cruz, a Peruvian entrepreneur who worked out how to provide water, by means of fog nets, to poor people living off the grid in the hills outside Lima. Abel contacted fog net experts on the internet to make his idea a reality. Sixty fog nets now provide water to 250 families at a very low cost. This creative and innovative solution has transformed their lives.
 
 ### Hackers' values
 
@@ -29,7 +33,7 @@ The software, InfoSec and hacking community has a strong ethical foundation, bas
 
 When we had the Web Summit here in Portugal you had people from competing companies all working together to solve a common problem.  What mattered is that everyone present shared the same passion to solve the problem. That is what we must nurture, and that is what hacking offers. The hacker community spirit needs to be applied to our country.
 
-We want to inspire the next generation with these values. To do this, we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'.
+We want to inspire the next generation with these values. To do this, we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'. We need to move away from celebrity scandals, whose privacy should be respected. We need to financially sponsor serious investigative journalism and use it to push for transparency in Government agencies and commercial organisations. We should apply risk and common sense analysis to 'big' news stories, and insist on accountability where fake or exaggerated news is reported. We should promote positive news stories, and we should reward ethical journalism. 
 
 Our alternative benefits from the following strong qualities:
 
@@ -45,7 +49,12 @@ This generation of hackers will create technology to sell PT products around the
  
 The generation that was hacking Linux boxes while we were in university is the same generation that is solving fundamental problems today. 
 
-We need to make sure that this new generation knows what a Raspberry Pi is, knows what is inside, and knows how to build one. There is a factory in Portugal where this can be done.
+We need to make sure that this new generation knows what a Raspberry Pi is, knows what is inside, and knows how to build one. Raspberry Pi has been a commercial success beyond the expectations of its founders. [Ten million Raspberry Pis](https://www.raspberrypi.org/blog/ten-millionth-raspberry-pi-new-kit/) have been sold, which ironically is the population of Portugal. The Raspberry Pi team has made an effort to build them in UK, but there should be a factory in Portugal that can do this.  
+
+In fact, there should be software and technology companies in every city and town in Portugal. Software development and application security lend themselves to remote work, with regular commutes to a central office for meetings.
+
+For example, see [how many Portuguese security researchers](https://pages.bugcrowd.com/hubfs/PDFs/state-of-bug-bounty-2016.pdf) participate in global/world wide bug bounties.
+
 
 ### Be different
 
