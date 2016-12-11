@@ -32,13 +32,15 @@ Businesses should work with Universities to teach the following skills:
 
 ### University course
 
-Here is an idea for a three-year curriculum at third level.
+University students and graduates are another great source of talent, and for them the projects are a great source of 'real world' skills. Here is an idea for a three-year curriculum at third level.
 
 * year 1 - Hacking & learn new coding languages
 * year 2 - Testing and TDD
 * year 3 - Fixing code and DevOps
 
 Students of this course should receive cloud accounts and learn to use state-of-the-art software and services (GitHub, JIRA, Travis, Jenkins, SAST, VisualStudio, IntelliJ, Eclipse, etc.)  
+
+Some of the proposed activities in this book (Hacking networks/apps, transportation apps and logistics) could be completed as semester projects, and graded based on the quality of their execution.
 
 ### Threat Models as strategic activity
 

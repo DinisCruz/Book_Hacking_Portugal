@@ -6,6 +6,8 @@ type: content
 
 ## Investment in infrastructure
 
+There was a time when low-cost airlines were thought to be commercially unviable, until somebody made the concept a successful reality and now low-cost airlines are major players in the aviation industry. The same can happen with the distribution of Portuguese craft goods around the world, and in Portugal. 
+
 One of the roles of government is to invest in infrastructure. In the 21st century, digital logistics are the new roads.
 We need a model where the Portuguese producer (be they craftspeople or winemakers, olive oil producers, shoemakers, or butchers) is not required to create the infrastructure to sell those products abroad.
 All these producers should be able to supply the products to a local Portuguese contact, who is in turn connected to a distribution network, that can finally deliver to the consumer.
@@ -96,4 +98,5 @@ For the locations where there is a recurring transportation gap, an investment f
 4. spin it off as an independent company (with 15% shares owned by the investment fund and 85% owned by the employees)
 5. when that 15% is sold, use that money to top up the investment fund
 
-This fund could be topped up by philanthropic contributions, crowdfunding initiatives, and normal investors. In cases where the 15% of sales generates a good profit, the investment fund would benefit.
+This fund could be topped up by philanthropic contributions, crowdfunding initiatives, and conventional investors. In cases where the 15% of sales generates a good profit, the investment fund would benefit.
+

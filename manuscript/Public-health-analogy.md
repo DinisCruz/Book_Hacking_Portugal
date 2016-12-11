@@ -17,6 +17,8 @@ There are two good reasons why the army is not supposed to be involved in civil 
   
 We need to focus on defense, not attack.
 
+The police could be a very positive force in protecting both citizens and companies, if they embrace change and modernize their approach and use of technology. For example, the police could allow civil society (people, companies, collaborative commons) to help and participate in aspects of their work. 
+
 ### Public health problem
 
 Cyber Security is a public health problem.
