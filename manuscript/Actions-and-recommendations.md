@@ -34,7 +34,7 @@ Here is a summary of all the actions and recommendations mentioned and discussed
   * a) have released their code under Open Source licenses
   * b) have released all their info and schemas under non-restrictive Creative Commons licenses
 * Adopt Git for all official documentation
-* Use Git to version legislation development and ask for public consultation
+* Use Git to version draft legislation and beta test draft legislation
 * Teach users (i.e. government employees) the paradigm of version control
 * Develop a Portuguese version of Docker and Git
 * Attract Tesla to build factories and R&D facilities in Portugal
